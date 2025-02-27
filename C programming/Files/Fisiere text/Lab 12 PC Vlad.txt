@@ -1,0 +1,253 @@
+//Probleme lab 12 pc
+//p1
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <ctype.h>
+int main(void)
+{
+    char a[101],b[101],*p=NULL;
+    scanf("%s",a);
+    scanf("%s",b);
+    p=(char*)realloc(p,(strlen(a)+strlen(b)+2)*sizeof(char));
+    strcat(p,a);
+    strcat(p," ");
+    strcat(p,b);
+    printf("%s",p);
+    free(p);
+    return 0;
+}
+//p2
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <ctype.h>
+int main(void)
+{
+    int x,n=0,*p=NULL;
+    scanf("%d",&x);
+    while(x!=0)
+    {
+        n=n+1;
+        p=(int*)realloc(p,n*(sizeof(int)));
+        p[n-1]=x;
+        scanf("%d",&x);
+    }
+    for(int i=n-1;i>=0;i--)
+    printf("%d ",p[i]);
+    free(p);
+    return 0;
+}
+//p3
+#include <stdio.h>
+#include <stdlib.h>
+#include <ctype.h>
+#include <string.h>
+void p()
+{
+    char cuv[20],*p=NULL;
+    int c=1;
+    while(scanf("%s",cuv)!=EOF)
+    {
+        if(c==1)
+        {
+            p=(char*)malloc((strlen(cuv)+1)*sizeof(char));
+            if(p==NULL)
+            {
+                printf("eroare");
+                break;
+            }
+            strcpy(p,cuv);
+        }
+        else
+        {
+            if(tolower(cuv[0])==tolower(p[strlen(p)-2])&&tolower(cuv[1])==tolower(p[strlen(p)-1]))
+            {
+                p=(char*)realloc(p,(strlen(p)+strlen(cuv)+2)*sizeof(char));
+                if(p==NULL)
+                {
+                    printf("eroare");
+                    break;
+                }
+                strcat(p,"-");
+                strcat(p,cuv);
+            }
+        }
+        c++;
+    }
+    printf("%s",p);
+    free(p);
+}
+int main(void)
+{
+    p();
+    return 0;
+}
+//p4
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <ctype.h>
+char *string_replace_dynamic(const char *where, const char *what, const char *replace)
+{
+    if(strstr(where,what)==NULL)
+    return NULL;
+    else
+    {
+       char *p=NULL,*t;int poz=0,m, n=strlen(where);
+       p=(char*)realloc(p,sizeof(char)*(n+1));
+       if(p==NULL)
+        {
+            printf("eroare");
+        }
+       t=strstr(where+poz,what);
+       do
+       {
+        m=strlen(where+poz)-strlen(t);
+        strncat(p,where+poz,m);
+        n=n+strlen(replace);
+        p=(char*)realloc(p,sizeof(char)*(n+1));
+        if(p==NULL)
+        {
+            printf("eroare");
+            break;
+        }
+        strcat(p,replace);
+        poz=poz+m+strlen(what);
+        t=strstr(where+poz,what);
+       }while (t!=NULL);
+       strncat(p,where+poz,strlen(where+poz));
+       return p;
+    }
+}
+int main(void)
+{
+    char s1[] = "Acesta este un string si un string este terminat cu 0x00";
+    char s2[] = "string";
+    char s3[] = "sir de caractere";
+    char *p = string_replace_dynamic(s1, s2, s3);
+    printf("%s",p);
+    free(p);
+    return 0;
+}
+//p5
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <ctype.h>
+void BubbleSort(int *v, int n)
+{
+	int s,i,aux;
+	do{
+		s = 0;                             // setam faptul ca nu au avut loc schimbari la iterarea curenta
+		for (i = 1; i < n; i++)
+		{      
+			// @1 - pornim de la 1 ca sa formam perechi (v[i-1],v[i])
+			if (v[i - 1] < v[i])
+			{             
+				// daca valorile NU respecta relatia de ordine
+				aux = v[i - 1];                 // interschimba valorile
+				v[i - 1] = v[i];
+				v[i] = aux;
+				s = 1;                             // @2 - seteaza faptul ca a avut loc cel putin o schimbare
+			}
+		}
+	} while (s);                         // daca s adevarat (!=0), atunci repeta iterarea
+}
+void p()
+{
+    int *p=NULL,x,n=0;
+    while(scanf("%d",&x)!=EOF)
+    {
+        n++;
+        p=(int*)realloc(p,sizeof(int)*n);
+        if(p==NULL)
+        {
+            printf("eroare");
+            break;
+        }
+        p[n-1]=x;
+    }
+    BubbleSort(p,n);
+    for(int i=0;i<n;i++)
+    printf("%d ",p[i]);
+}
+int main(void)
+{
+    p();
+    return 0;
+}
+//p6
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <ctype.h>
+char *txt2hex(const char *string)
+{
+    char *p;
+    p=(char*)malloc((strlen(string)*2+1)*sizeof(char));
+    char aux[3];
+    if(p==NULL)
+    {
+        printf("eroare");
+        return NULL;
+    }
+    for(int i=0;i<strlen(string);i++)
+    {
+        sprintf(aux,"%02X",string[i]);
+        if(i==0)
+        strcpy(p,aux);
+        else
+        strcat(p,aux);
+    }
+    return p;
+}
+int main(void)
+{
+    char d[20],*p;
+    scanf("%s",d);
+    p=txt2hex(d);
+    printf("%s",p);
+    return 0;
+}
+//p7
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <ctype.h>
+int hexx(char *hex)
+{
+    int decimal;
+    sscanf(hex,"%2X",&decimal);
+    return decimal;
+}
+char *hex2text(const char *string)
+{
+    char *p;
+    p=(char*)malloc((strlen(string)/2+1)*sizeof(char));
+    char aux[10],aux2[10];
+    if(p==NULL)
+    {
+        printf("eroare\\");
+        return NULL;
+    }
+    for(int i=0;i<strlen(string);i=i+2)
+    {
+        aux2[0]=string[i];
+        aux2[1]=string[i+1];
+        aux[0]=hexx(aux2);
+        if(i==0)
+        strcpy(p,aux);
+        else
+        strcat(p,aux);
+    }
+    return p;
+}
+int main(void)
+{
+    char d[1500],*p;
+    scanf("%s",d);
+    p=hex2text(d);
+    printf("%s",p);
+    return 0;
+}

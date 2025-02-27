@@ -1,0 +1,1794 @@
+1: Filmul "Bon Cop, lansat in anul 2006, a avut un buget de 0 euro!
+2: Filmul "Definitely, lansat in anul 2008, a avut un buget de 0 euro!
+3: Filmul "Dude, lansat in anul 2000, a avut un buget de 0 euro!
+4: Filmul "Eat, lansat in anul 2010, a avut un buget de 0 euro!
+5: Filmul "Girl, lansat in anul 1999, a avut un buget de 0 euro!
+6: Filmul "Good Morning, lansat in anul 1987, a avut un buget de 0 euro!
+7: Filmul "Good Night, lansat in anul 2005, a avut un buget de 0 euro!
+8: Filmul "I, lansat in anul 2004, a avut un buget de 0 euro!
+9: Filmul "I Love You, lansat in anul 2009, a avut un buget de 0 euro!
+10: Filmul "Legally Blonde 2: Red, lansat in anul 2003, a avut un buget de 0 euro!
+11: Filmul "Lock, lansat in anul 1998, a avut un buget de 0 euro!
+12: Filmul "Monsters, lansat in anul 2001, a avut un buget de 0 euro!
+13: Filmul "O Brother, lansat in anul 2000, a avut un buget de 0 euro!
+14: Filmul "Sex, lansat in anul 1989, a avut un buget de 0 euro!
+15: Filmul "Synecdoche, lansat in anul 2008, a avut un buget de 0 euro!
+16: Filmul "The Chronicles of Narnia: The Lion, lansat in anul 2005, a avut un buget de 0 euro!
+17: Filmul "Welcome Home, lansat in anul 2008, a avut un buget de 0 euro!
+18: Filmul "Wo hu cang long (Crouching Tiger, lansat in anul 2000, a avut un buget de 0 euro!
+19: Filmul "You, lansat in anul 2006, a avut un buget de 0 euro!
+20: Filmul "Yours, lansat in anul 2005, a avut un buget de 0 euro!
+21: Filmul (500) Days of Summer, lansat in anul 2009, a avut un buget de 7500000 euro!
+22: Filmul 10 Things I Hate About You, lansat in anul 1999, a avut un buget de 13000000 euro!
+23: Filmul 12 Years a Slave, lansat in anul 2013, a avut un buget de 20000000 euro!
+24: Filmul 127 Hours, lansat in anul 2010, a avut un buget de 18000000 euro!
+25: Filmul 13 Going on 30, lansat in anul 2004, a avut un buget de 30000000 euro!
+26: Filmul 1408, lansat in anul 2007, a avut un buget de 22500000 euro!
+27: Filmul 17 Again, lansat in anul 2009, a avut un buget de 40000000 euro!
+28: Filmul 1776, lansat in anul 1972, a avut un buget de 4000000 euro!
+29: Filmul 2 Fast 2 Furious, lansat in anul 2003, a avut un buget de 76000000 euro!
+30: Filmul 2 Guns, lansat in anul 2013, a avut un buget de 61000000 euro!
+31: Filmul 2012, lansat in anul 2009, a avut un buget de 200000000 euro!
+32: Filmul 2046, lansat in anul 2004, a avut un buget de 12000000 euro!
+33: Filmul 21, lansat in anul 2008, a avut un buget de 35000000 euro!
+34: Filmul 21 &amp; Over, lansat in anul 2013, a avut un buget de 13000000 euro!
+35: Filmul 21 grams, lansat in anul 2003, a avut un buget de 20000000 euro!
+36: Filmul 25th Hour, lansat in anul 2002, a avut un buget de 4500000 euro!
+37: Filmul 28 Days, lansat in anul 2000, a avut un buget de 43000000 euro!
+38: Filmul 28 Days Later..., lansat in anul 2002, a avut un buget de 8000000 euro!
+39: Filmul 28 Weeks Later, lansat in anul 2007, a avut un buget de 15000000 euro!
+40: Filmul 30 Days of Night, lansat in anul 2007, a avut un buget de 30000000 euro!
+41: Filmul 30 Minutes or Less, lansat in anul 2011, a avut un buget de 28000000 euro!
+42: Filmul 300, lansat in anul 2006, a avut un buget de 60000000 euro!
+43: Filmul 3:10 to Yuma, lansat in anul 2007, a avut un buget de 48000000 euro!
+44: Filmul 42, lansat in anul 2013, a avut un buget de 40000000 euro!
+45: Filmul 47 Ronin, lansat in anul 2013, a avut un buget de 225000000 euro!
+46: Filmul 50 First Dates, lansat in anul 2004, a avut un buget de 75000000 euro!
+47: Filmul 50/50, lansat in anul 2011, a avut un buget de 8000000 euro!
+48: Filmul 54, lansat in anul 1998, a avut un buget de 13000000 euro!
+49: Filmul 8 Mile, lansat in anul 2002, a avut un buget de 41000000 euro!
+50: Filmul 8 femmes, lansat in anul 2002, a avut un buget de 8000000 euro!
+51: Filmul 88 Minutes, lansat in anul 2007, a avut un buget de 30000000 euro!
+52: Filmul 8MM, lansat in anul 1999, a avut un buget de 40000000 euro!
+53: Filmul 9, lansat in anul 2009, a avut un buget de 30000000 euro!
+54: Filmul A Beautiful Mind, lansat in anul 2001, a avut un buget de 78000000 euro!
+55: Filmul A Bridge Too Far, lansat in anul 1977, a avut un buget de 26000000 euro!
+56: Filmul A Bug&#39;s Life, lansat in anul 1998, a avut un buget de 45000000 euro!
+57: Filmul A Cinderella Story, lansat in anul 2004, a avut un buget de 19000000 euro!
+58: Filmul A Dangerous Method, lansat in anul 2011, a avut un buget de 20000000 euro!
+59: Filmul A Few Good Men, lansat in anul 1992, a avut un buget de 33000000 euro!
+60: Filmul A Good Day to Die Hard, lansat in anul 2013, a avut un buget de 92000000 euro!
+61: Filmul A Home at the End of The World, lansat in anul 2004, a avut un buget de 6500000 euro!
+62: Filmul A Knight&#39;s Tale, lansat in anul 2001, a avut un buget de 41000000 euro!
+63: Filmul A League of Their Own, lansat in anul 1992, a avut un buget de 40000000 euro!
+64: Filmul A Lonely Place to Die, lansat in anul 2011, a avut un buget de 4000000 euro!
+65: Filmul A Perfect Getaway, lansat in anul 2009, a avut un buget de 14000000 euro!
+66: Filmul A Scanner Darkly, lansat in anul 2006, a avut un buget de 20000000 euro!
+67: Filmul A Serious Man, lansat in anul 2009, a avut un buget de 7000000 euro!
+68: Filmul A Simple Wish, lansat in anul 1997, a avut un buget de 28000000 euro!
+69: Filmul A Single Man, lansat in anul 2009, a avut un buget de 7000000 euro!
+70: Filmul A Very Harold &amp; Kumar 3D Christmas, lansat in anul 2011, a avut un buget de 20000000 euro!
+71: Filmul A Very Long Engagement, lansat in anul 2004, a avut un buget de 55000000 euro!
+72: Filmul A nightmare on Elm Street, lansat in anul 1984, a avut un buget de 35000000 euro!
+73: Filmul AEon Flux, lansat in anul 2005, a avut un buget de 55000000 euro!
+74: Filmul AVP: Alien vs. Predator, lansat in anul 2004, a avut un buget de 70000000 euro!
+75: Filmul About Schmidt, lansat in anul 2002, a avut un buget de 30000000 euro!
+76: Filmul About Time, lansat in anul 2013, a avut un buget de 12000000 euro!
+77: Filmul Abraham Lincoln: Vampire Hunter, lansat in anul 2012, a avut un buget de 67500000 euro!
+78: Filmul Ace Ventura: Pet Detective, lansat in anul 1994, a avut un buget de 12000000 euro!
+79: Filmul Across the Universe, lansat in anul 2007, a avut un buget de 45000000 euro!
+80: Filmul Act of Valor, lansat in anul 2012, a avut un buget de 12000000 euro!
+81: Filmul Action Jackson, lansat in anul 1988, a avut un buget de 7000000 euro!
+82: Filmul Adam, lansat in anul 2009, a avut un buget de 3200000 euro!
+83: Filmul Adaptation, lansat in anul 2002, a avut un buget de 18500000 euro!
+84: Filmul Admission, lansat in anul 2013, a avut un buget de 13000000 euro!
+85: Filmul Adventureland, lansat in anul 2009, a avut un buget de 9800000 euro!
+86: Filmul After Earth, lansat in anul 2013, a avut un buget de 130000000 euro!
+87: Filmul Agora, lansat in anul 2009, a avut un buget de 70000000 euro!
+88: Filmul Air Bud, lansat in anul 1997, a avut un buget de 3000000 euro!
+89: Filmul Air Force One, lansat in anul 1997, a avut un buget de 85000000 euro!
+90: Filmul Airplane!, lansat in anul 1980, a avut un buget de 3500000 euro!
+91: Filmul Ajami, lansat in anul 2009, a avut un buget de 1000000 euro!
+92: Filmul Akeelah and the Bee, lansat in anul 2006, a avut un buget de 8000000 euro!
+93: Filmul Akira, lansat in anul 1988, a avut un buget de 8000000 euro!
+94: Filmul Aladdin, lansat in anul 1992, a avut un buget de 28000000 euro!
+95: Filmul Alice in Wonderland, lansat in anul 2010, a avut un buget de 200000000 euro!
+96: Filmul Alien, lansat in anul 1979, a avut un buget de 9000000 euro!
+97: Filmul Alien 3, lansat in anul 1992, a avut un buget de 55000000 euro!
+98: Filmul Alien: Resurrection, lansat in anul 1997, a avut un buget de 60000000 euro!
+99: Filmul Aliens, lansat in anul 1986, a avut un buget de 17000000 euro!
+100: Filmul All About Steve, lansat in anul 2009, a avut un buget de 15000000 euro!
+101: Filmul All or Nothing, lansat in anul 2002, a avut un buget de 9000000 euro!
+102: Filmul Almost Famous, lansat in anul 2000, a avut un buget de 60000000 euro!
+103: Filmul Along Came A Spider, lansat in anul 2001, a avut un buget de 28000000 euro!
+104: Filmul Amadeus, lansat in anul 1984, a avut un buget de 18000000 euro!
+105: Filmul American Beauty, lansat in anul 1999, a avut un buget de 15000000 euro!
+106: Filmul American Graffiti, lansat in anul 1973, a avut un buget de 777000 euro!
+107: Filmul American History X, lansat in anul 1998, a avut un buget de 10000000 euro!
+108: Filmul American Hustle, lansat in anul 2013, a avut un buget de 40000000 euro!
+109: Filmul American Outlaws, lansat in anul 2001, a avut un buget de 35000000 euro!
+110: Filmul American Pie, lansat in anul 1999, a avut un buget de 12000000 euro!
+111: Filmul American Psycho, lansat in anul 2000, a avut un buget de 8000000 euro!
+112: Filmul Amour, lansat in anul 2012, a avut un buget de 9700000 euro!
+113: Filmul An Education, lansat in anul 2009, a avut un buget de 7500000 euro!
+114: Filmul Analyze This, lansat in anul 1999, a avut un buget de 30000000 euro!
+115: Filmul Anastasia, lansat in anul 1997, a avut un buget de 53000000 euro!
+116: Filmul Anchorman: The Legend of Ron Burgundy, lansat in anul 2004, a avut un buget de 25000000 euro!
+117: Filmul Angels &amp; Demons, lansat in anul 2009, a avut un buget de 150000000 euro!
+118: Filmul Animal House, lansat in anul 1978, a avut un buget de 3000000 euro!
+119: Filmul Animal Kingdom, lansat in anul 2010, a avut un buget de 4200000 euro!
+120: Filmul Anna Karenina, lansat in anul 2012, a avut un buget de 49000000 euro!
+121: Filmul Anna and the King, lansat in anul 1999, a avut un buget de 75000000 euro!
+122: Filmul Annie Hall, lansat in anul 1977, a avut un buget de 4000000 euro!
+123: Filmul Another Earth, lansat in anul 2011, a avut un buget de 175000 euro!
+124: Filmul Another Year, lansat in anul 2010, a avut un buget de 8000000 euro!
+125: Filmul Antitrust, lansat in anul 2001, a avut un buget de 30000000 euro!
+126: Filmul Antwone Fisher, lansat in anul 2002, a avut un buget de 12500000 euro!
+127: Filmul Anywhere But Here, lansat in anul 1999, a avut un buget de 23000000 euro!
+128: Filmul Apocalypse Now, lansat in anul 1979, a avut un buget de 31500000 euro!
+129: Filmul Apollo 13, lansat in anul 1995, a avut un buget de 65000000 euro!
+130: Filmul Apollo 18, lansat in anul 2011, a avut un buget de 5000000 euro!
+131: Filmul Appaloosa, lansat in anul 2008, a avut un buget de 20000000 euro!
+132: Filmul Aquamarine, lansat in anul 2006, a avut un buget de 12000000 euro!
+133: Filmul Argo, lansat in anul 2012, a avut un buget de 44500000 euro!
+134: Filmul Armageddon, lansat in anul 1998, a avut un buget de 140000000 euro!
+135: Filmul Armored, lansat in anul 2009, a avut un buget de 20000000 euro!
+136: Filmul Army of Darkness, lansat in anul 1992, a avut un buget de 11000000 euro!
+137: Filmul Around the World in 80 Days, lansat in anul 2004, a avut un buget de 110000000 euro!
+138: Filmul Arthur Christmas, lansat in anul 2011, a avut un buget de 85000000 euro!
+139: Filmul Artificial Intelligence: AI, lansat in anul 2001, a avut un buget de 90000000 euro!
+140: Filmul As Good as It Gets, lansat in anul 1997, a avut un buget de 50000000 euro!
+141: Filmul Assassins, lansat in anul 1995, a avut un buget de 50000000 euro!
+142: Filmul Assault on Precinct 13, lansat in anul 2005, a avut un buget de 30000000 euro!
+143: Filmul Assault on Precinct 13, lansat in anul 1976, a avut un buget de 30000000 euro!
+144: Filmul Astro Boy, lansat in anul 2009, a avut un buget de 65000000 euro!
+145: Filmul Atlantis: The Lost Empire, lansat in anul 2001, a avut un buget de 90000000 euro!
+146: Filmul Atonement, lansat in anul 2007, a avut un buget de 30000000 euro!
+147: Filmul Attack the Block, lansat in anul 2011, a avut un buget de 13000000 euro!
+148: Filmul August, lansat in anul 1996, a avut un buget de 3400000 euro!
+149: Filmul August: Osage County, lansat in anul 2013, a avut un buget de 25000000 euro!
+150: Filmul Austin Powers in Goldmember, lansat in anul 2002, a avut un buget de 63000000 euro!
+151: Filmul Austin Powers: International Man of Mystery, lansat in anul 1997, a avut un buget de 18000000 euro!
+152: Filmul Austin Powers: The Spy Who Shagged Me, lansat in anul 1999, a avut un buget de 35000000 euro!
+153: Filmul Australia, lansat in anul 2008, a avut un buget de 130000000 euro!
+154: Filmul Avatar, lansat in anul 2009, a avut un buget de 425000000 euro!
+155: Filmul Away We Go, lansat in anul 2009, a avut un buget de 21000000 euro!
+156: Filmul Baby Mama, lansat in anul 2008, a avut un buget de 30000000 euro!
+157: Filmul Back to the Future, lansat in anul 1985, a avut un buget de 19000000 euro!
+158: Filmul Back to the Future Part II, lansat in anul 1989, a avut un buget de 40000000 euro!
+159: Filmul Back to the Future Part III, lansat in anul 1990, a avut un buget de 40000000 euro!
+160: Filmul Bad Teacher, lansat in anul 2011, a avut un buget de 19000000 euro!
+161: Filmul Bandidas, lansat in anul 2006, a avut un buget de 35000000 euro!
+162: Filmul Banlieue 13, lansat in anul 2004, a avut un buget de 15000000 euro!
+163: Filmul Barney&#39;s Version, lansat in anul 2010, a avut un buget de 30000000 euro!
+164: Filmul Barry Lyndon, lansat in anul 1975, a avut un buget de 11000000 euro!
+165: Filmul Batman, lansat in anul 1989, a avut un buget de 35000000 euro!
+166: Filmul Batman &amp; Robin, lansat in anul 1997, a avut un buget de 125000000 euro!
+167: Filmul Batman Begins, lansat in anul 2005, a avut un buget de 150000000 euro!
+168: Filmul Batman Forever, lansat in anul 1995, a avut un buget de 100000000 euro!
+169: Filmul Batman Returns, lansat in anul 1992, a avut un buget de 80000000 euro!
+170: Filmul Battle: Los Angeles, lansat in anul 2011, a avut un buget de 70000000 euro!
+171: Filmul Battleship, lansat in anul 2012, a avut un buget de 209000000 euro!
+172: Filmul Be Kind Rewind, lansat in anul 2008, a avut un buget de 20000000 euro!
+173: Filmul Beastly, lansat in anul 2011, a avut un buget de 17000000 euro!
+174: Filmul Beasts of the Southern Wild, lansat in anul 2012, a avut un buget de 1800000 euro!
+175: Filmul Beautiful Creatures, lansat in anul 2013, a avut un buget de 50000000 euro!
+176: Filmul Beautiful Creatures, lansat in anul 2000, a avut un buget de 50000000 euro!
+177: Filmul Beauty Shop, lansat in anul 2005, a avut un buget de 25000000 euro!
+178: Filmul Beauty and the Beast, lansat in anul 1991, a avut un buget de 20000000 euro!
+179: Filmul Becoming Jane, lansat in anul 2007, a avut un buget de 16500000 euro!
+180: Filmul Bedtime Stories, lansat in anul 2008, a avut un buget de 80000000 euro!
+181: Filmul Beetle Juice, lansat in anul 1988, a avut un buget de 15000000 euro!
+182: Filmul Before Sunrise, lansat in anul 1995, a avut un buget de 2500000 euro!
+183: Filmul Before Sunset, lansat in anul 2004, a avut un buget de 2000000 euro!
+184: Filmul Beginners, lansat in anul 2010, a avut un buget de 3200000 euro!
+185: Filmul Being John Malkovich, lansat in anul 1999, a avut un buget de 13000000 euro!
+186: Filmul Beloved, lansat in anul 1998, a avut un buget de 53000000 euro!
+187: Filmul Bend It Like Beckham, lansat in anul 2002, a avut un buget de 5600000 euro!
+188: Filmul Beowulf, lansat in anul 2007, a avut un buget de 150000000 euro!
+189: Filmul Best in Show, lansat in anul 2000, a avut un buget de 6000000 euro!
+190: Filmul Beverly Hills Cop, lansat in anul 1984, a avut un buget de 15000000 euro!
+191: Filmul Beverly Hills Cop II, lansat in anul 1987, a avut un buget de 20000000 euro!
+192: Filmul Beverly Hills Cop III, lansat in anul 1994, a avut un buget de 50000000 euro!
+193: Filmul Bewitched, lansat in anul 2005, a avut un buget de 80000000 euro!
+194: Filmul Beyond the Valley of the Dolls, lansat in anul 1970, a avut un buget de 1000000 euro!
+195: Filmul Big Fish, lansat in anul 2003, a avut un buget de 70000000 euro!
+196: Filmul Bill &amp; Ted&#39;s Bogus Journey, lansat in anul 1991, a avut un buget de 20000000 euro!
+197: Filmul Bill &amp; Ted&#39;s Excellent Adventure, lansat in anul 1989, a avut un buget de 10000000 euro!
+198: Filmul Billy Elliot, lansat in anul 2000, a avut un buget de 5000000 euro!
+199: Filmul Biutiful, lansat in anul 2010, a avut un buget de 35000000 euro!
+200: Filmul Black Christmas, lansat in anul 2006, a avut un buget de 9000000 euro!
+201: Filmul Black Christmas, lansat in anul 1974, a avut un buget de 9000000 euro!
+202: Filmul Black Hawk Down, lansat in anul 2001, a avut un buget de 95000000 euro!
+203: Filmul Black Swan, lansat in anul 2010, a avut un buget de 13000000 euro!
+204: Filmul Black and White, lansat in anul 1999, a avut un buget de 10000000 euro!
+205: Filmul Blackthorn, lansat in anul 2011, a avut un buget de 4500000 euro!
+206: Filmul Blade, lansat in anul 1998, a avut un buget de 45000000 euro!
+207: Filmul Blade II, lansat in anul 2002, a avut un buget de 54000000 euro!
+208: Filmul Blade Runner, lansat in anul 1982, a avut un buget de 28000000 euro!
+209: Filmul Blades of Glory, lansat in anul 2007, a avut un buget de 61000000 euro!
+210: Filmul Blazing Saddles, lansat in anul 1974, a avut un buget de 2600000 euro!
+211: Filmul Blindness, lansat in anul 2008, a avut un buget de 25000000 euro!
+212: Filmul Blood Diamond, lansat in anul 2006, a avut un buget de 100000000 euro!
+213: Filmul BloodRayne, lansat in anul 2005, a avut un buget de 25000000 euro!
+214: Filmul Bloodsport, lansat in anul 1988, a avut un buget de 1500000 euro!
+215: Filmul Blow, lansat in anul 2001, a avut un buget de 30000000 euro!
+216: Filmul Blue Crush, lansat in anul 2002, a avut un buget de 30000000 euro!
+217: Filmul Blue Jasmine, lansat in anul 2013, a avut un buget de 18000000 euro!
+218: Filmul Blue Like Jazz, lansat in anul 2012, a avut un buget de 1200000 euro!
+219: Filmul Blue Streak, lansat in anul 1999, a avut un buget de 36000000 euro!
+220: Filmul Blue Valentine, lansat in anul 2010, a avut un buget de 1000000 euro!
+221: Filmul Body Double, lansat in anul 1984, a avut un buget de 10000000 euro!
+222: Filmul Boiler Room, lansat in anul 2000, a avut un buget de 9000000 euro!
+223: Filmul Bolt, lansat in anul 2008, a avut un buget de 150000000 euro!
+224: Filmul Bon voyage, lansat in anul 2003, a avut un buget de 20000000 euro!
+225: Filmul Boogeyman, lansat in anul 2005, a avut un buget de 20000000 euro!
+226: Filmul Boogie Nights, lansat in anul 1997, a avut un buget de 15000000 euro!
+227: Filmul Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan, lansat in anul 2006, a avut un buget de 18000000 euro!
+228: Filmul Bound, lansat in anul 1996, a avut un buget de 4500000 euro!
+229: Filmul Boynton Beach Club, lansat in anul 2005, a avut un buget de 2900000 euro!
+230: Filmul Boys Don&#39;t Cry, lansat in anul 1999, a avut un buget de 2000000 euro!
+231: Filmul Br&uuml;no, lansat in anul 2009, a avut un buget de 42000000 euro!
+232: Filmul Brave, lansat in anul 2012, a avut un buget de 185000000 euro!
+233: Filmul Braveheart, lansat in anul 1995, a avut un buget de 72000000 euro!
+234: Filmul Brazil, lansat in anul 1985, a avut un buget de 15000000 euro!
+235: Filmul Brick, lansat in anul 2005, a avut un buget de 450000 euro!
+236: Filmul Bride Wars, lansat in anul 2009, a avut un buget de 30000000 euro!
+237: Filmul Bride of Chucky, lansat in anul 1998, a avut un buget de 25000000 euro!
+238: Filmul Bridesmaids, lansat in anul 2011, a avut un buget de 32500000 euro!
+239: Filmul Bridge to Terabithia, lansat in anul 2007, a avut un buget de 25000000 euro!
+240: Filmul Bridget Jones&#39;s Diary, lansat in anul 2001, a avut un buget de 25000000 euro!
+241: Filmul Bridget Jones: The Edge of Reason, lansat in anul 2004, a avut un buget de 50000000 euro!
+242: Filmul Bright Star, lansat in anul 2009, a avut un buget de 8500000 euro!
+243: Filmul Bring It On, lansat in anul 2000, a avut un buget de 10000000 euro!
+244: Filmul Brokeback Mountain, lansat in anul 2005, a avut un buget de 13900000 euro!
+245: Filmul Broken Arrow, lansat in anul 1996, a avut un buget de 65000000 euro!
+246: Filmul Brooklyn Rules, lansat in anul 2007, a avut un buget de 8000000 euro!
+247: Filmul Brooklyn&#39;s Finest, lansat in anul 2009, a avut un buget de 17000000 euro!
+248: Filmul Brothers, lansat in anul 2009, a avut un buget de 26000000 euro!
+249: Filmul Bruce Almighty, lansat in anul 2003, a avut un buget de 81000000 euro!
+250: Filmul Buffalo &#39;66, lansat in anul 1998, a avut un buget de 1500000 euro!
+251: Filmul Buffy the Vampire Slayer, lansat in anul 1992, a avut un buget de 7000000 euro!
+252: Filmul Bug, lansat in anul 2006, a avut un buget de 4000000 euro!
+253: Filmul Bullet to the Head, lansat in anul 2012, a avut un buget de 55000000 euro!
+254: Filmul Burlesque, lansat in anul 2010, a avut un buget de 55000000 euro!
+255: Filmul Burn After Reading, lansat in anul 2008, a avut un buget de 37000000 euro!
+256: Filmul But I&#39;m a Cheerleader, lansat in anul 1999, a avut un buget de 1200000 euro!
+257: Filmul Cabin Fever, lansat in anul 2002, a avut un buget de 1500000 euro!
+258: Filmul Can&#39;t Stop the Music, lansat in anul 1980, a avut un buget de 20000000 euro!
+259: Filmul Capitalism: A Love Story, lansat in anul 2009, a avut un buget de 20000000 euro!
+260: Filmul Capote, lansat in anul 2005, a avut un buget de 7000000 euro!
+261: Filmul Captain America: The First Avenger, lansat in anul 2011, a avut un buget de 140000000 euro!
+262: Filmul Captain Phillips, lansat in anul 2013, a avut un buget de 55000000 euro!
+263: Filmul Carrie, lansat in anul 2013, a avut un buget de 30000000 euro!
+264: Filmul Carrie, lansat in anul 2002, a avut un buget de 30000000 euro!
+265: Filmul Carrie 2: The Rage, lansat in anul 1999, a avut un buget de 21000000 euro!
+266: Filmul Cars, lansat in anul 2006, a avut un buget de 70000000 euro!
+267: Filmul Cars 2, lansat in anul 2011, a avut un buget de 200000000 euro!
+268: Filmul Case 39, lansat in anul 2009, a avut un buget de 27000000 euro!
+269: Filmul Casino, lansat in anul 1995, a avut un buget de 52000000 euro!
+270: Filmul Casino Jack, lansat in anul 2010, a avut un buget de 12500000 euro!
+271: Filmul Casino Royale, lansat in anul 2006, a avut un buget de 102000000 euro!
+272: Filmul Casper, lansat in anul 1995, a avut un buget de 55000000 euro!
+273: Filmul Cast Away, lansat in anul 2000, a avut un buget de 85000000 euro!
+274: Filmul Cat People, lansat in anul 1982, a avut un buget de 12500000 euro!
+275: Filmul Catch Me If You Can, lansat in anul 2002, a avut un buget de 52000000 euro!
+276: Filmul Cats Don&#39;t Dance, lansat in anul 1997, a avut un buget de 32000000 euro!
+277: Filmul Catwoman, lansat in anul 2004, a avut un buget de 100000000 euro!
+278: Filmul Cecil B. Demented, lansat in anul 2000, a avut un buget de 10000000 euro!
+279: Filmul Cellular, lansat in anul 2004, a avut un buget de 45000000 euro!
+280: Filmul Center Stage, lansat in anul 2000, a avut un buget de 18000000 euro!
+281: Filmul Centurion, lansat in anul 2010, a avut un buget de 15000000 euro!
+282: Filmul Chain Reaction, lansat in anul 1996, a avut un buget de 55000000 euro!
+283: Filmul Changeling, lansat in anul 2008, a avut un buget de 55000000 euro!
+284: Filmul Charlie Bartlett, lansat in anul 2007, a avut un buget de 12000000 euro!
+285: Filmul Charlie St. Cloud, lansat in anul 2010, a avut un buget de 44000000 euro!
+286: Filmul Charlie Wilson&#39;s War, lansat in anul 2007, a avut un buget de 75000000 euro!
+287: Filmul Charlie and the Chocolate Factory, lansat in anul 2005, a avut un buget de 150000000 euro!
+288: Filmul Charlie&#39;s Angels, lansat in anul 2000, a avut un buget de 90000000 euro!
+289: Filmul Charlie&#39;s Angels: Full Throttle, lansat in anul 2003, a avut un buget de 120000000 euro!
+290: Filmul Chasing Amy, lansat in anul 1997, a avut un buget de 250000 euro!
+291: Filmul Che: Part One, lansat in anul 2008, a avut un buget de 58000000 euro!
+292: Filmul Chernobyl Diaries, lansat in anul 2012, a avut un buget de 1000000 euro!
+293: Filmul Chicago, lansat in anul 2002, a avut un buget de 30000000 euro!
+294: Filmul Chicken Run, lansat in anul 2000, a avut un buget de 42000000 euro!
+295: Filmul Child&#39;s Play, lansat in anul 1988, a avut un buget de 9000000 euro!
+296: Filmul Child&#39;s Play 2, lansat in anul 1990, a avut un buget de 13000000 euro!
+297: Filmul Children of Men, lansat in anul 2006, a avut un buget de 76000000 euro!
+298: Filmul Chinjeolhan geumjassi, lansat in anul 2005, a avut un buget de 4500000 euro!
+299: Filmul Chloe, lansat in anul 2009, a avut un buget de 13000000 euro!
+300: Filmul Chocolat, lansat in anul 2000, a avut un buget de 25000000 euro!
+301: Filmul Chronicle, lansat in anul 2012, a avut un buget de 12000000 euro!
+302: Filmul Cinderella, lansat in anul 1997, a avut un buget de 2900000 euro!
+303: Filmul Cinderella Man, lansat in anul 2005, a avut un buget de 88000000 euro!
+304: Filmul Circumstance, lansat in anul 2011, a avut un buget de 900000 euro!
+305: Filmul City of Ember, lansat in anul 2008, a avut un buget de 38000000 euro!
+306: Filmul Clash of the Titans, lansat in anul 2010, a avut un buget de 125000000 euro!
+307: Filmul Clerks II, lansat in anul 2006, a avut un buget de 5000000 euro!
+308: Filmul Clerks., lansat in anul 1994, a avut un buget de 27000 euro!
+309: Filmul Cliffhanger, lansat in anul 1993, a avut un buget de 65000000 euro!
+310: Filmul Clockwatchers, lansat in anul 1997, a avut un buget de 2000000 euro!
+311: Filmul Close Encounters of the Third Kind, lansat in anul 1977, a avut un buget de 20000000 euro!
+312: Filmul Closer, lansat in anul 2004, a avut un buget de 35000000 euro!
+313: Filmul Cloud Atlas, lansat in anul 2012, a avut un buget de 102000000 euro!
+314: Filmul Cloudy with a Chance of Meatballs, lansat in anul 2009, a avut un buget de 100000000 euro!
+315: Filmul Cloudy with a Chance of Meatballs 2, lansat in anul 2013, a avut un buget de 78000000 euro!
+316: Filmul Cloverfield, lansat in anul 2008, a avut un buget de 25000000 euro!
+317: Filmul Clueless, lansat in anul 1995, a avut un buget de 13700000 euro!
+318: Filmul Coach Carter, lansat in anul 2005, a avut un buget de 45000000 euro!
+319: Filmul Coco avant Chanel, lansat in anul 2009, a avut un buget de 23000000 euro!
+320: Filmul Cold Mountain, lansat in anul 2003, a avut un buget de 80000000 euro!
+321: Filmul Collateral, lansat in anul 2004, a avut un buget de 60000000 euro!
+322: Filmul Colombiana, lansat in anul 2011, a avut un buget de 40000000 euro!
+323: Filmul Commando, lansat in anul 1985, a avut un buget de 10000000 euro!
+324: Filmul Con Air, lansat in anul 1997, a avut un buget de 80000000 euro!
+325: Filmul Conan the Barbarian, lansat in anul 2011, a avut un buget de 20000000 euro!
+326: Filmul Conan the Barbarian, lansat in anul 1982, a avut un buget de 20000000 euro!
+327: Filmul Conan the Destroyer, lansat in anul 1984, a avut un buget de 18000000 euro!
+328: Filmul Congo, lansat in anul 1995, a avut un buget de 50000000 euro!
+329: Filmul Connie and Carla, lansat in anul 2004, a avut un buget de 20000000 euro!
+330: Filmul Conspiracy Theory, lansat in anul 1997, a avut un buget de 80000000 euro!
+331: Filmul Constantine, lansat in anul 2005, a avut un buget de 75000000 euro!
+332: Filmul Contact, lansat in anul 1997, a avut un buget de 90000000 euro!
+333: Filmul Contagion, lansat in anul 2011, a avut un buget de 60000000 euro!
+334: Filmul Contraband, lansat in anul 2012, a avut un buget de 25000000 euro!
+335: Filmul Conversations with Other Women, lansat in anul 2005, a avut un buget de 450000 euro!
+336: Filmul Conviction, lansat in anul 2010, a avut un buget de 12500000 euro!
+337: Filmul Cool Runnings, lansat in anul 1993, a avut un buget de 14000000 euro!
+338: Filmul Cop Out, lansat in anul 2010, a avut un buget de 37000000 euro!
+339: Filmul Copycat, lansat in anul 1995, a avut un buget de 20000000 euro!
+340: Filmul Coraline, lansat in anul 2009, a avut un buget de 60000000 euro!
+341: Filmul Coriolanus, lansat in anul 2011, a avut un buget de 10000000 euro!
+342: Filmul Corpse Bride, lansat in anul 2005, a avut un buget de 30000000 euro!
+343: Filmul Country Strong, lansat in anul 2010, a avut un buget de 15000000 euro!
+344: Filmul Cowboys &amp; Aliens, lansat in anul 2011, a avut un buget de 163000000 euro!
+345: Filmul Coyote Ugly, lansat in anul 2000, a avut un buget de 45000000 euro!
+346: Filmul Cradle 2 the Grave, lansat in anul 2003, a avut un buget de 25000000 euro!
+347: Filmul Crank, lansat in anul 2006, a avut un buget de 12000000 euro!
+348: Filmul Crash, lansat in anul 2004, a avut un buget de 7303082 euro!
+349: Filmul Crocodile Dundee, lansat in anul 1986, a avut un buget de 5000000 euro!
+350: Filmul Crooklyn, lansat in anul 1994, a avut un buget de 14000000 euro!
+351: Filmul Crossroads, lansat in anul 2002, a avut un buget de 12000000 euro!
+352: Filmul Cruel Intentions, lansat in anul 1999, a avut un buget de 11000000 euro!
+353: Filmul Cursed, lansat in anul 2005, a avut un buget de 35000000 euro!
+354: Filmul Cyrus, lansat in anul 2010, a avut un buget de 7000000 euro!
+355: Filmul D.E.B.S., lansat in anul 2004, a avut un buget de 3500000 euro!
+356: Filmul DOA: Dead or Alive, lansat in anul 2006, a avut un buget de 30000000 euro!
+357: Filmul Daddy Day Care, lansat in anul 2003, a avut un buget de 60000000 euro!
+358: Filmul Dancer in the Dark, lansat in anul 2000, a avut un buget de 12500000 euro!
+359: Filmul Dangerous Liaisons, lansat in anul 1988, a avut un buget de 14000000 euro!
+360: Filmul Danny the dog, lansat in anul 2005, a avut un buget de 43000000 euro!
+361: Filmul Daredevil, lansat in anul 2003, a avut un buget de 80000000 euro!
+362: Filmul Dark Angel (I Come in Peace), lansat in anul 1990, a avut un buget de 7000000 euro!
+363: Filmul Dark City, lansat in anul 1998, a avut un buget de 27000000 euro!
+364: Filmul Dark Water, lansat in anul 2005, a avut un buget de 60000000 euro!
+365: Filmul Darkness Falls, lansat in anul 2003, a avut un buget de 7000000 euro!
+366: Filmul Das Boot, lansat in anul 1981, a avut un buget de 12000000 euro!
+367: Filmul Das Leben Der Anderen, lansat in anul 2006, a avut un buget de 2000000 euro!
+368: Filmul Date Night, lansat in anul 2010, a avut un buget de 55000000 euro!
+369: Filmul Dawn of the Dead, lansat in anul 2004, a avut un buget de 28000000 euro!
+370: Filmul Dawn of the Dead, lansat in anul 1978, a avut un buget de 28000000 euro!
+371: Filmul Day of the Dead, lansat in anul 2008, a avut un buget de 18000000 euro!
+372: Filmul Day of the Dead, lansat in anul 1985, a avut un buget de 18000000 euro!
+373: Filmul Daybreakers, lansat in anul 2009, a avut un buget de 20000000 euro!
+374: Filmul Days of Heaven, lansat in anul 1978, a avut un buget de 3000000 euro!
+375: Filmul Dazed and Confused, lansat in anul 1993, a avut un buget de 6900000 euro!
+376: Filmul Dead Poets Society, lansat in anul 1989, a avut un buget de 16400000 euro!
+377: Filmul Dead Snow, lansat in anul 2009, a avut un buget de 800000 euro!
+378: Filmul Dear John, lansat in anul 2010, a avut un buget de 25000000 euro!
+379: Filmul Dear Wendy, lansat in anul 2005, a avut un buget de 8000000 euro!
+380: Filmul Death Becomes Her, lansat in anul 1992, a avut un buget de 55000000 euro!
+381: Filmul Death Race, lansat in anul 2008, a avut un buget de 65000000 euro!
+382: Filmul Death at a Funeral, lansat in anul 2007, a avut un buget de 21000000 euro!
+383: Filmul Death to Smoochy, lansat in anul 2002, a avut un buget de 50000000 euro!
+384: Filmul Deep Impact, lansat in anul 1998, a avut un buget de 80000000 euro!
+385: Filmul Defiance, lansat in anul 2008, a avut un buget de 50000000 euro!
+386: Filmul Despicable Me, lansat in anul 2010, a avut un buget de 69000000 euro!
+387: Filmul Despicable Me 2, lansat in anul 2013, a avut un buget de 76000000 euro!
+388: Filmul Detention, lansat in anul 2011, a avut un buget de 10000000 euro!
+389: Filmul Devil, lansat in anul 2010, a avut un buget de 10000000 euro!
+390: Filmul Diary of a Wimpy Kid, lansat in anul 2010, a avut un buget de 15000000 euro!
+391: Filmul Diary of a Wimpy Kid: Rodrick Rules, lansat in anul 2011, a avut un buget de 18000000 euro!
+392: Filmul Diary of the Dead, lansat in anul 2007, a avut un buget de 2750000 euro!
+393: Filmul Dick, lansat in anul 1999, a avut un buget de 13000000 euro!
+394: Filmul Die Another Day, lansat in anul 2002, a avut un buget de 142000000 euro!
+395: Filmul Die Hard, lansat in anul 1988, a avut un buget de 28000000 euro!
+396: Filmul Die Hard 2, lansat in anul 1990, a avut un buget de 70000000 euro!
+397: Filmul Die Hard: With a Vengeance, lansat in anul 1995, a avut un buget de 90000000 euro!
+398: Filmul Diner, lansat in anul 1982, a avut un buget de 5000000 euro!
+399: Filmul Dinner for Schmucks, lansat in anul 2010, a avut un buget de 69000000 euro!
+400: Filmul District 9, lansat in anul 2009, a avut un buget de 30000000 euro!
+401: Filmul Disturbia, lansat in anul 2007, a avut un buget de 20000000 euro!
+402: Filmul Disturbing Behavior, lansat in anul 1998, a avut un buget de 15000000 euro!
+403: Filmul Django Unchained, lansat in anul 2012, a avut un buget de 100000000 euro!
+404: Filmul Dodgeball: A True Underdog Story, lansat in anul 2004, a avut un buget de 30000000 euro!
+405: Filmul Dogma, lansat in anul 1999, a avut un buget de 10000000 euro!
+406: Filmul Dolphin Tale, lansat in anul 2011, a avut un buget de 37000000 euro!
+407: Filmul Domino, lansat in anul 2005, a avut un buget de 50000000 euro!
+408: Filmul Don Jon, lansat in anul 2013, a avut un buget de 5500000 euro!
+409: Filmul Don&#39;t Be Afraid of the Dark, lansat in anul 2010, a avut un buget de 25000000 euro!
+410: Filmul Don&#39;t Say A Word, lansat in anul 2001, a avut un buget de 50000000 euro!
+411: Filmul Donnie Darko, lansat in anul 2001, a avut un buget de 4500000 euro!
+412: Filmul Doom, lansat in anul 2005, a avut un buget de 70000000 euro!
+413: Filmul Doomsday, lansat in anul 2008, a avut un buget de 33000000 euro!
+414: Filmul Doubt, lansat in anul 2008, a avut un buget de 20000000 euro!
+415: Filmul Dr. Dolittle 2, lansat in anul 2001, a avut un buget de 72000000 euro!
+416: Filmul Drag Me to Hell, lansat in anul 2009, a avut un buget de 30000000 euro!
+417: Filmul DragonHeart, lansat in anul 1996, a avut un buget de 57000000 euro!
+418: Filmul Dream House, lansat in anul 2011, a avut un buget de 50000000 euro!
+419: Filmul Dreamcatcher, lansat in anul 2003, a avut un buget de 68000000 euro!
+420: Filmul Dredd 3D, lansat in anul 2012, a avut un buget de 45000000 euro!
+421: Filmul Drive, lansat in anul 2011, a avut un buget de 15000000 euro!
+422: Filmul Drop Dead Gorgeous, lansat in anul 1999, a avut un buget de 10000000 euro!
+423: Filmul Drumline, lansat in anul 2002, a avut un buget de 20000000 euro!
+424: Filmul Due Date, lansat in anul 2010, a avut un buget de 65000000 euro!
+425: Filmul Dumb &amp; Dumber, lansat in anul 1994, a avut un buget de 16000000 euro!
+426: Filmul Dune, lansat in anul 2000, a avut un buget de 45000000 euro!
+427: Filmul Dune, lansat in anul 1984, a avut un buget de 45000000 euro!
+428: Filmul Dylan Dog: Dead of Night, lansat in anul 2010, a avut un buget de 20000000 euro!
+429: Filmul E.T.: The Extra-Terrestrial, lansat in anul 1982, a avut un buget de 10500000 euro!
+430: Filmul Eagle Eye, lansat in anul 2008, a avut un buget de 80000000 euro!
+431: Filmul Eastern Promises, lansat in anul 2007, a avut un buget de 50000000 euro!
+432: Filmul Easy A, lansat in anul 2010, a avut un buget de 8000000 euro!
+433: Filmul Easy Virtue, lansat in anul 2008, a avut un buget de 14000000 euro!
+434: Filmul Ed Wood, lansat in anul 1994, a avut un buget de 18000000 euro!
+435: Filmul Edge of Darkness, lansat in anul 2010, a avut un buget de 60000000 euro!
+436: Filmul Edward Scissorhands, lansat in anul 1990, a avut un buget de 20000000 euro!
+437: Filmul El Mariachi, lansat in anul 1992, a avut un buget de 7000 euro!
+438: Filmul El laberinto del fauno (Pan's Labyrinth), lansat in anul 2006, a avut un buget de 16000000 euro!
+439: Filmul Election, lansat in anul 1999, a avut un buget de 8500000 euro!
+440: Filmul Elizabeth, lansat in anul 1998, a avut un buget de 25000000 euro!
+441: Filmul Ella Enchanted, lansat in anul 2004, a avut un buget de 35000000 euro!
+442: Filmul Elysium, lansat in anul 2013, a avut un buget de 120000000 euro!
+443: Filmul Emma, lansat in anul 1996, a avut un buget de 5900000 euro!
+444: Filmul Enchanted, lansat in anul 2007, a avut un buget de 85000000 euro!
+445: Filmul Ender&#39;s Game, lansat in anul 2013, a avut un buget de 110000000 euro!
+446: Filmul Enemy of the State, lansat in anul 1998, a avut un buget de 85000000 euro!
+447: Filmul Enter the Void, lansat in anul 2009, a avut un buget de 16000000 euro!
+448: Filmul Epic, lansat in anul 2013, a avut un buget de 100000000 euro!
+449: Filmul Equilibrium, lansat in anul 2002, a avut un buget de 20000000 euro!
+450: Filmul Eragon, lansat in anul 2006, a avut un buget de 100000000 euro!
+451: Filmul Eraserhead, lansat in anul 1977, a avut un buget de 100000 euro!
+452: Filmul Erin Brockovich, lansat in anul 2000, a avut un buget de 50000000 euro!
+453: Filmul Escape Plan, lansat in anul 2013, a avut un buget de 70000000 euro!
+454: Filmul Escape from L.A., lansat in anul 1996, a avut un buget de 50000000 euro!
+455: Filmul Escape from New York, lansat in anul 1981, a avut un buget de 6000000 euro!
+456: Filmul Escape from Planet Earth, lansat in anul 2013, a avut un buget de 40000000 euro!
+457: Filmul Escape from the Planet of the Apes, lansat in anul 1971, a avut un buget de 2500000 euro!
+458: Filmul Eternal Sunshine of the Spotless Mind, lansat in anul 2004, a avut un buget de 20000000 euro!
+459: Filmul Eulogy, lansat in anul 2004, a avut un buget de 10000000 euro!
+460: Filmul Eve&#39;s Bayou, lansat in anul 1997, a avut un buget de 5000000 euro!
+461: Filmul Event Horizon, lansat in anul 1997, a avut un buget de 60000000 euro!
+462: Filmul Ever After, lansat in anul 1998, a avut un buget de 26000000 euro!
+463: Filmul Everybody&#39;s Fine, lansat in anul 2009, a avut un buget de 20000000 euro!
+464: Filmul Everything Must Go, lansat in anul 2010, a avut un buget de 5000000 euro!
+465: Filmul Evil Dead, lansat in anul 2013, a avut un buget de 17000000 euro!
+466: Filmul Evil Dead II, lansat in anul 1987, a avut un buget de 3500000 euro!
+467: Filmul Evolution, lansat in anul 2001, a avut un buget de 80000000 euro!
+468: Filmul Eye for an Eye, lansat in anul 1996, a avut un buget de 20000000 euro!
+469: Filmul Eyes Wide Shut, lansat in anul 1999, a avut un buget de 65000000 euro!
+470: Filmul Fair Game, lansat in anul 2010, a avut un buget de 50000000 euro!
+471: Filmul Fame, lansat in anul 1980, a avut un buget de 18000000 euro!
+472: Filmul Family Plot, lansat in anul 1976, a avut un buget de 3000000 euro!
+473: Filmul Fantastic Four, lansat in anul 2005, a avut un buget de 87500000 euro!
+474: Filmul Fantastic Four: Rise of the Silver Surfer, lansat in anul 2007, a avut un buget de 120000000 euro!
+475: Filmul Fantastic Mr. Fox, lansat in anul 2009, a avut un buget de 40000000 euro!
+476: Filmul Far from Heaven, lansat in anul 2002, a avut un buget de 13500000 euro!
+477: Filmul Fargo, lansat in anul 1996, a avut un buget de 7000000 euro!
+478: Filmul Fast &amp; Furious, lansat in anul 2009, a avut un buget de 85000000 euro!
+479: Filmul Fast Five, lansat in anul 2011, a avut un buget de 125000000 euro!
+480: Filmul Fast Times at Ridgemont High, lansat in anul 1982, a avut un buget de 4500000 euro!
+481: Filmul Fast and Furious 6, lansat in anul 2013, a avut un buget de 160000000 euro!
+482: Filmul Faster, lansat in anul 2010, a avut un buget de 12000000 euro!
+483: Filmul Fatal Attraction, lansat in anul 1987, a avut un buget de 14000000 euro!
+484: Filmul Fear and Loathing in Las Vegas, lansat in anul 1998, a avut un buget de 18500000 euro!
+485: Filmul Festen (The Celebration), lansat in anul 1998, a avut un buget de 1300000 euro!
+486: Filmul Fever Pitch, lansat in anul 1997, a avut un buget de 40000000 euro!
+487: Filmul Fido, lansat in anul 2006, a avut un buget de 8000000 euro!
+488: Filmul Fight Club, lansat in anul 1999, a avut un buget de 65000000 euro!
+489: Filmul Final Destination, lansat in anul 2000, a avut un buget de 23000000 euro!
+490: Filmul Final Destination 2, lansat in anul 2003, a avut un buget de 26000000 euro!
+491: Filmul Final Destination 3, lansat in anul 2006, a avut un buget de 25000000 euro!
+492: Filmul Final Destination 5, lansat in anul 2011, a avut un buget de 40000000 euro!
+493: Filmul Finding Nemo, lansat in anul 2003, a avut un buget de 94000000 euro!
+494: Filmul Finding Neverland, lansat in anul 2004, a avut un buget de 25000000 euro!
+495: Filmul Fired Up!, lansat in anul 2009, a avut un buget de 20000000 euro!
+496: Filmul Fireproof, lansat in anul 2008, a avut un buget de 500000 euro!
+497: Filmul First Blood, lansat in anul 1982, a avut un buget de 14000000 euro!
+498: Filmul Fish Tank, lansat in anul 2009, a avut un buget de 3000000 euro!
+499: Filmul Flash Gordon, lansat in anul 1980, a avut un buget de 35000000 euro!
+500: Filmul Flashdance, lansat in anul 1983, a avut un buget de 7000000 euro!
+501: Filmul Flatliners, lansat in anul 1990, a avut un buget de 26000000 euro!
+502: Filmul Flawless, lansat in anul 1999, a avut un buget de 27000000 euro!
+503: Filmul Flight, lansat in anul 2012, a avut un buget de 31000000 euro!
+504: Filmul Flight of the Phoenix, lansat in anul 2004, a avut un buget de 75000000 euro!
+505: Filmul Flightplan, lansat in anul 2005, a avut un buget de 55000000 euro!
+506: Filmul Flubber, lansat in anul 1997, a avut un buget de 80000000 euro!
+507: Filmul Flushed Away, lansat in anul 2006, a avut un buget de 149000000 euro!
+508: Filmul Fly Me to the Moon, lansat in anul 2008, a avut un buget de 25000000 euro!
+509: Filmul Footloose, lansat in anul 2011, a avut un buget de 24000000 euro!
+510: Filmul For Colored Girls, lansat in anul 2010, a avut un buget de 21000000 euro!
+511: Filmul For Love of the Game, lansat in anul 1999, a avut un buget de 50000000 euro!
+512: Filmul For Your Consideration, lansat in anul 2006, a avut un buget de 12000000 euro!
+513: Filmul Forgetting Sarah Marshall, lansat in anul 2008, a avut un buget de 30000000 euro!
+514: Filmul Forrest Gump, lansat in anul 1994, a avut un buget de 55000000 euro!
+515: Filmul Four Christmases, lansat in anul 2008, a avut un buget de 80000000 euro!
+516: Filmul Four rooms, lansat in anul 1995, a avut un buget de 4000000 euro!
+517: Filmul Frankenweenie, lansat in anul 2012, a avut un buget de 39000000 euro!
+518: Filmul Freaky Friday, lansat in anul 2003, a avut un buget de 26000000 euro!
+519: Filmul Freeway, lansat in anul 1996, a avut un buget de 3000000 euro!
+520: Filmul Frida, lansat in anul 2002, a avut un buget de 12000000 euro!
+521: Filmul Friday the 13th, lansat in anul 2009, a avut un buget de 17000000 euro!
+522: Filmul Friday the 13th, lansat in anul 1980, a avut un buget de 17000000 euro!
+523: Filmul Friday the 13th Part 2, lansat in anul 1981, a avut un buget de 1250000 euro!
+524: Filmul Friday the 13th Part III, lansat in anul 1982, a avut un buget de 2250000 euro!
+525: Filmul Friday the 13th Part IV: The Final Chapter, lansat in anul 1984, a avut un buget de 2600000 euro!
+526: Filmul Friends with Money, lansat in anul 2006, a avut un buget de 6500000 euro!
+527: Filmul Fright Night, lansat in anul 2011, a avut un buget de 30000000 euro!
+528: Filmul From Dusk Till Dawn, lansat in anul 1996, a avut un buget de 20000000 euro!
+529: Filmul From Hell, lansat in anul 2001, a avut un buget de 35000000 euro!
+530: Filmul Frost/Nixon, lansat in anul 2008, a avut un buget de 29000000 euro!
+531: Filmul Frozen, lansat in anul 2013, a avut un buget de 150000000 euro!
+532: Filmul Frozen, lansat in anul 2010, a avut un buget de 150000000 euro!
+533: Filmul Frozen River, lansat in anul 2008, a avut un buget de 1000000 euro!
+534: Filmul Fun with Dick and Jane, lansat in anul 2005, a avut un buget de 140000000 euro!
+535: Filmul Funny Ha Ha, lansat in anul 2002, a avut un buget de 30000 euro!
+536: Filmul Funny People, lansat in anul 2009, a avut un buget de 72500000 euro!
+537: Filmul G-Force, lansat in anul 2009, a avut un buget de 150000000 euro!
+538: Filmul G.I. Jane, lansat in anul 1997, a avut un buget de 50000000 euro!
+539: Filmul G.I. Joe: Retaliation, lansat in anul 2013, a avut un buget de 140000000 euro!
+540: Filmul G.I. Joe: The Rise of Cobra, lansat in anul 2009, a avut un buget de 175000000 euro!
+541: Filmul Gake no ue no Ponyo, lansat in anul 2008, a avut un buget de 34000000 euro!
+542: Filmul Galaxy Quest, lansat in anul 1999, a avut un buget de 45000000 euro!
+543: Filmul Gamer, lansat in anul 2009, a avut un buget de 50000000 euro!
+544: Filmul Gangs of New York, lansat in anul 2002, a avut un buget de 97000000 euro!
+545: Filmul Gangster Squad, lansat in anul 2013, a avut un buget de 60000000 euro!
+546: Filmul Garden State, lansat in anul 2004, a avut un buget de 2500000 euro!
+547: Filmul Gattaca, lansat in anul 1997, a avut un buget de 36000000 euro!
+548: Filmul George of the Jungle, lansat in anul 1997, a avut un buget de 55000000 euro!
+549: Filmul Gerry, lansat in anul 2002, a avut un buget de 7000000 euro!
+550: Filmul Get Him To The Greek, lansat in anul 2010, a avut un buget de 40000000 euro!
+551: Filmul Get Low, lansat in anul 2009, a avut un buget de 7000000 euro!
+552: Filmul Get Real, lansat in anul 1998, a avut un buget de 2000000 euro!
+553: Filmul Gettysburg, lansat in anul 1993, a avut un buget de 25000000 euro!
+554: Filmul Ghost, lansat in anul 1990, a avut un buget de 22000000 euro!
+555: Filmul Ghost Town, lansat in anul 2008, a avut un buget de 20000000 euro!
+556: Filmul Ghost World, lansat in anul 2001, a avut un buget de 5500000 euro!
+557: Filmul Ghostbusters, lansat in anul 1984, a avut un buget de 30000000 euro!
+558: Filmul Girl with a Pearl Earring, lansat in anul 2003, a avut un buget de 12000000 euro!
+559: Filmul Gladiator, lansat in anul 2000, a avut un buget de 103000000 euro!
+560: Filmul Glengarry Glen Ross, lansat in anul 1992, a avut un buget de 12500000 euro!
+561: Filmul Gloria, lansat in anul 2013, a avut un buget de 30000000 euro!
+562: Filmul Go!, lansat in anul 1999, a avut un buget de 6500000 euro!
+563: Filmul Godzilla, lansat in anul 1998, a avut un buget de 125000000 euro!
+564: Filmul Going the Distance, lansat in anul 2010, a avut un buget de 32000000 euro!
+565: Filmul Gone Baby Gone, lansat in anul 2007, a avut un buget de 19000000 euro!
+566: Filmul Gone in Sixty Seconds, lansat in anul 2000, a avut un buget de 103300000 euro!
+567: Filmul Good Will Hunting, lansat in anul 1997, a avut un buget de 10000000 euro!
+568: Filmul Goodbye Lenin!, lansat in anul 2003, a avut un buget de 6400000 euro!
+569: Filmul Goodfellas, lansat in anul 1990, a avut un buget de 25000000 euro!
+570: Filmul Gosford Park, lansat in anul 2001, a avut un buget de 18000000 euro!
+571: Filmul Gran Torino, lansat in anul 2008, a avut un buget de 25000000 euro!
+572: Filmul Gravity, lansat in anul 2013, a avut un buget de 110000000 euro!
+573: Filmul Grease, lansat in anul 1978, a avut un buget de 6000000 euro!
+574: Filmul Green Lantern, lansat in anul 2011, a avut un buget de 200000000 euro!
+575: Filmul Green Zone, lansat in anul 2010, a avut un buget de 100000000 euro!
+576: Filmul Gremlins, lansat in anul 1984, a avut un buget de 11000000 euro!
+577: Filmul Grosse Pointe Blank, lansat in anul 1997, a avut un buget de 15000000 euro!
+578: Filmul Groundhog Day, lansat in anul 1993, a avut un buget de 14600000 euro!
+579: Filmul Grown Ups, lansat in anul 2010, a avut un buget de 75000000 euro!
+580: Filmul Grown Ups 2, lansat in anul 2013, a avut un buget de 80000000 euro!
+581: Filmul Gunless, lansat in anul 2010, a avut un buget de 9900000 euro!
+582: Filmul Hairspray, lansat in anul 2007, a avut un buget de 75000000 euro!
+583: Filmul Hall Pass, lansat in anul 2011, a avut un buget de 36000000 euro!
+584: Filmul Halloween, lansat in anul 2007, a avut un buget de 15000000 euro!
+585: Filmul Halloween, lansat in anul 1978, a avut un buget de 15000000 euro!
+586: Filmul Halloween H20: 20 Years Later, lansat in anul 1998, a avut un buget de 17000000 euro!
+587: Filmul Halloween II, lansat in anul 1981, a avut un buget de 2500000 euro!
+588: Filmul Hamlet, lansat in anul 1996, a avut un buget de 2000000 euro!
+589: Filmul Hamlet 2, lansat in anul 2008, a avut un buget de 9000000 euro!
+590: Filmul Hancock, lansat in anul 2008, a avut un buget de 150000000 euro!
+591: Filmul Hanna, lansat in anul 2011, a avut un buget de 30000000 euro!
+592: Filmul Hannibal, lansat in anul 2012, a avut un buget de 87000000 euro!
+593: Filmul Hannibal, lansat in anul 2001, a avut un buget de 87000000 euro!
+594: Filmul Hannibal Rising, lansat in anul 2007, a avut un buget de 50000000 euro!
+595: Filmul Hansel &amp; Gretel: Witch Hunters, lansat in anul 2013, a avut un buget de 50000000 euro!
+596: Filmul Happiness, lansat in anul 1998, a avut un buget de 3000000 euro!
+597: Filmul Hard Candy, lansat in anul 2005, a avut un buget de 950000 euro!
+598: Filmul Harold and Kumar Go to White Castle, lansat in anul 2004, a avut un buget de 9000000 euro!
+599: Filmul Harriet the Spy, lansat in anul 1996, a avut un buget de 13000000 euro!
+600: Filmul Harry Brown, lansat in anul 2009, a avut un buget de 7300000 euro!
+601: Filmul Harry Potter and the Chamber of Secrets, lansat in anul 2002, a avut un buget de 100000000 euro!
+602: Filmul Harry Potter and the Deathly Hallows: Part 1, lansat in anul 2010, a avut un buget de 125000000 euro!
+603: Filmul Harry Potter and the Deathly Hallows: Part 2, lansat in anul 2011, a avut un buget de 125000000 euro!
+604: Filmul Harry Potter and the Goblet of Fire, lansat in anul 2005, a avut un buget de 150000000 euro!
+605: Filmul Harry Potter and the Half-Blood Prince, lansat in anul 2009, a avut un buget de 250000000 euro!
+606: Filmul Harry Potter and the Order of the Phoenix, lansat in anul 2007, a avut un buget de 150000000 euro!
+607: Filmul Harry Potter and the Prisoner of  Azkaban, lansat in anul 2004, a avut un buget de 130000000 euro!
+608: Filmul Harry Potter and the Sorcerer&#39;s Stone, lansat in anul 2001, a avut un buget de 125000000 euro!
+609: Filmul Haywire, lansat in anul 2011, a avut un buget de 23000000 euro!
+610: Filmul He&#39;s Just Not That Into You, lansat in anul 2009, a avut un buget de 40000000 euro!
+611: Filmul Heaven&#39;s Gate, lansat in anul 1980, a avut un buget de 44000000 euro!
+612: Filmul Heavy Metal, lansat in anul 1981, a avut un buget de 9300000 euro!
+613: Filmul Hedwig and the Angry Inch, lansat in anul 2001, a avut un buget de 6000000 euro!
+614: Filmul Hellboy, lansat in anul 2004, a avut un buget de 60000000 euro!
+615: Filmul Hellraiser, lansat in anul 1987, a avut un buget de 1000000 euro!
+616: Filmul Henry V, lansat in anul 1989, a avut un buget de 9000000 euro!
+617: Filmul Her, lansat in anul 2013, a avut un buget de 23000000 euro!
+618: Filmul Herb &amp; Dorothy, lansat in anul 2008, a avut un buget de 82500000 euro!
+619: Filmul Herbie Fully Loaded, lansat in anul 2005, a avut un buget de 50000000 euro!
+620: Filmul Hercules, lansat in anul 1997, a avut un buget de 70000000 euro!
+621: Filmul Hero, lansat in anul 1992, a avut un buget de 42000000 euro!
+622: Filmul Hesher, lansat in anul 2011, a avut un buget de 7000000 euro!
+623: Filmul Hide and Seek, lansat in anul 2005, a avut un buget de 25000000 euro!
+624: Filmul High Anxiety, lansat in anul 1977, a avut un buget de 3400000 euro!
+625: Filmul High Crimes, lansat in anul 2002, a avut un buget de 42000000 euro!
+626: Filmul High Fidelity, lansat in anul 2000, a avut un buget de 20000000 euro!
+627: Filmul High Heels and Low Lifes, lansat in anul 2001, a avut un buget de 10000000 euro!
+628: Filmul High Plains Drifter, lansat in anul 1973, a avut un buget de 15700000 euro!
+629: Filmul High School Musical 3: Senior Year, lansat in anul 2008, a avut un buget de 11000000 euro!
+630: Filmul Higher Ground, lansat in anul 2011, a avut un buget de 1800000 euro!
+631: Filmul Highlander, lansat in anul 1986, a avut un buget de 16000000 euro!
+632: Filmul History of the World: Part I, lansat in anul 1981, a avut un buget de 11000000 euro!
+633: Filmul Hitch, lansat in anul 2005, a avut un buget de 55000000 euro!
+634: Filmul Hitman, lansat in anul 2007, a avut un buget de 17500000 euro!
+635: Filmul Hobo with a Shotgun, lansat in anul 2011, a avut un buget de 3000000 euro!
+636: Filmul Hocus Pocus, lansat in anul 1993, a avut un buget de 28000000 euro!
+637: Filmul Holes, lansat in anul 2003, a avut un buget de 20000000 euro!
+638: Filmul Hollow Man, lansat in anul 2000, a avut un buget de 90000000 euro!
+639: Filmul Hollywood Homicide, lansat in anul 2003, a avut un buget de 75000000 euro!
+640: Filmul Home Alone, lansat in anul 1990, a avut un buget de 15000000 euro!
+641: Filmul Home Alone 2: Lost in New York, lansat in anul 1992, a avut un buget de 20000000 euro!
+642: Filmul Home for the holidays, lansat in anul 1995, a avut un buget de 20000000 euro!
+643: Filmul Home on the Range, lansat in anul 2004, a avut un buget de 110000000 euro!
+644: Filmul Hoodwinked!, lansat in anul 2005, a avut un buget de 17500000 euro!
+645: Filmul Hook, lansat in anul 1991, a avut un buget de 70000000 euro!
+646: Filmul Hop, lansat in anul 2011, a avut un buget de 63000000 euro!
+647: Filmul Hope Floats, lansat in anul 1998, a avut un buget de 30000000 euro!
+648: Filmul Horrible Bosses, lansat in anul 2011, a avut un buget de 35000000 euro!
+649: Filmul Hostel, lansat in anul 2005, a avut un buget de 4800000 euro!
+650: Filmul Hostel: Part II, lansat in anul 2007, a avut un buget de 7500000 euro!
+651: Filmul Hot Fuzz, lansat in anul 2007, a avut un buget de 16000000 euro!
+652: Filmul Hot Rod, lansat in anul 2007, a avut un buget de 25000000 euro!
+653: Filmul Hot Tub Time Machine, lansat in anul 2010, a avut un buget de 36000000 euro!
+654: Filmul Hotel Transylvania, lansat in anul 2012, a avut un buget de 85000000 euro!
+655: Filmul House of Sand and Fog, lansat in anul 2003, a avut un buget de 16500000 euro!
+656: Filmul How to Lose a Guy in 10 Days, lansat in anul 2003, a avut un buget de 50000000 euro!
+657: Filmul How to Train Your Dragon, lansat in anul 2010, a avut un buget de 165000000 euro!
+658: Filmul Howard The Duck, lansat in anul 1986, a avut un buget de 30000000 euro!
+659: Filmul Hudson Hawk, lansat in anul 1991, a avut un buget de 65000000 euro!
+660: Filmul Hugo, lansat in anul 2011, a avut un buget de 180000000 euro!
+661: Filmul Hulk, lansat in anul 2003, a avut un buget de 137000000 euro!
+662: Filmul Hustle &amp; Flow, lansat in anul 2005, a avut un buget de 2800000 euro!
+663: Filmul I Am Legend, lansat in anul 2007, a avut un buget de 150000000 euro!
+664: Filmul I Am Love, lansat in anul 2010, a avut un buget de 10000000 euro!
+665: Filmul I Am Number Four, lansat in anul 2011, a avut un buget de 50000000 euro!
+666: Filmul I Come with the Rain, lansat in anul 2009, a avut un buget de 18000000 euro!
+667: Filmul I Heart Huckabees, lansat in anul 2004, a avut un buget de 22000000 euro!
+668: Filmul I Know What You Did Last Summer, lansat in anul 1997, a avut un buget de 17000000 euro!
+669: Filmul I Love You Phillip Morris, lansat in anul 2009, a avut un buget de 13000000 euro!
+670: Filmul I Spit on Your Grave, lansat in anul 1978, a avut un buget de 1750000 euro!
+671: Filmul I Spy, lansat in anul 2002, a avut un buget de 70000000 euro!
+672: Filmul Ice Age, lansat in anul 2002, a avut un buget de 65000000 euro!
+673: Filmul Ice Age: Dawn of the Dinosaurs, lansat in anul 2009, a avut un buget de 90000000 euro!
+674: Filmul Ice Age: The Meltdown, lansat in anul 2006, a avut un buget de 75000000 euro!
+675: Filmul Ice Princess, lansat in anul 2005, a avut un buget de 25000000 euro!
+676: Filmul Identity, lansat in anul 2003, a avut un buget de 28000000 euro!
+677: Filmul Identity Thief, lansat in anul 2013, a avut un buget de 35000000 euro!
+678: Filmul Idlewild, lansat in anul 2006, a avut un buget de 15000000 euro!
+679: Filmul Igby Goes Down, lansat in anul 2002, a avut un buget de 9000000 euro!
+680: Filmul Igor, lansat in anul 2008, a avut un buget de 30000000 euro!
+681: Filmul Immortals, lansat in anul 2011, a avut un buget de 75000000 euro!
+682: Filmul Impostor, lansat in anul 2001, a avut un buget de 40000000 euro!
+683: Filmul In Bruges, lansat in anul 2008, a avut un buget de 15000000 euro!
+684: Filmul In Good Company, lansat in anul 2004, a avut un buget de 26000000 euro!
+685: Filmul In Time, lansat in anul 2011, a avut un buget de 35000000 euro!
+686: Filmul In the Company of Men, lansat in anul 1997, a avut un buget de 25000 euro!
+687: Filmul In the Cut, lansat in anul 2003, a avut un buget de 12000000 euro!
+688: Filmul Inception, lansat in anul 2010, a avut un buget de 160000000 euro!
+689: Filmul Independence Day, lansat in anul 1996, a avut un buget de 75000000 euro!
+690: Filmul Indiana Jones and the Kingdom of the Crystal Skull, lansat in anul 2008, a avut un buget de 185000000 euro!
+691: Filmul Indiana Jones and the Last Crusade, lansat in anul 1989, a avut un buget de 48000000 euro!
+692: Filmul Indiana Jones and the Temple of Doom, lansat in anul 1984, a avut un buget de 28000000 euro!
+693: Filmul Inglourious Basterds, lansat in anul 2009, a avut un buget de 70000000 euro!
+694: Filmul Inkheart, lansat in anul 2008, a avut un buget de 60000000 euro!
+695: Filmul Inside Man, lansat in anul 2006, a avut un buget de 50000000 euro!
+696: Filmul Insidious, lansat in anul 2010, a avut un buget de 1500000 euro!
+697: Filmul Insidious: Chapter 2, lansat in anul 2013, a avut un buget de 5000000 euro!
+698: Filmul Insomnia, lansat in anul 2002, a avut un buget de 46000000 euro!
+699: Filmul Into the Wild, lansat in anul 2007, a avut un buget de 20000000 euro!
+700: Filmul Invictus, lansat in anul 2009, a avut un buget de 49000000 euro!
+701: Filmul Iris, lansat in anul 2011, a avut un buget de 5500000 euro!
+702: Filmul Iron Man, lansat in anul 2008, a avut un buget de 186000000 euro!
+703: Filmul Iron Man 2, lansat in anul 2010, a avut un buget de 170000000 euro!
+704: Filmul Iron Man 3, lansat in anul 2013, a avut un buget de 200000000 euro!
+705: Filmul It&#39;s Complicated, lansat in anul 2009, a avut un buget de 85000000 euro!
+706: Filmul It&#39;s Kind of a Funny Story, lansat in anul 2010, a avut un buget de 8000000 euro!
+707: Filmul Jack Reacher, lansat in anul 2012, a avut un buget de 60000000 euro!
+708: Filmul Jack the Giant Slayer, lansat in anul 2013, a avut un buget de 195000000 euro!
+709: Filmul Jackass Number Two, lansat in anul 2006, a avut un buget de 11000000 euro!
+710: Filmul Jackie Brown, lansat in anul 1997, a avut un buget de 12000000 euro!
+711: Filmul Jagten, lansat in anul 2012, a avut un buget de 3450000 euro!
+712: Filmul Jarhead, lansat in anul 2005, a avut un buget de 72000000 euro!
+713: Filmul Jason X, lansat in anul 2001, a avut un buget de 14000000 euro!
+714: Filmul Jawbreaker, lansat in anul 1999, a avut un buget de 3000000 euro!
+715: Filmul Jaws, lansat in anul 1975, a avut un buget de 12000000 euro!
+716: Filmul Jay and Silent Bob Strike Back, lansat in anul 2001, a avut un buget de 22000000 euro!
+717: Filmul Jeepers Creepers, lansat in anul 2001, a avut un buget de 10000000 euro!
+718: Filmul Jeepers Creepers II, lansat in anul 2003, a avut un buget de 25000000 euro!
+719: Filmul Jennifer&#39;s Body, lansat in anul 2009, a avut un buget de 16000000 euro!
+720: Filmul Jin ling shi san chai, lansat in anul 2011, a avut un buget de 100000000 euro!
+721: Filmul Jingle All the Way, lansat in anul 1996, a avut un buget de 60000000 euro!
+722: Filmul John Carter, lansat in anul 2012, a avut un buget de 275000000 euro!
+723: Filmul Johnny English Reborn, lansat in anul 2011, a avut un buget de 45000000 euro!
+724: Filmul Josie and the Pussycats, lansat in anul 2001, a avut un buget de 22000000 euro!
+725: Filmul Journey to the Center of the Earth, lansat in anul 2008, a avut un buget de 45000000 euro!
+726: Filmul Julia, lansat in anul 1977, a avut un buget de 6000000 euro!
+727: Filmul Julie &amp; Julia, lansat in anul 2009, a avut un buget de 40000000 euro!
+728: Filmul Jumanji, lansat in anul 1995, a avut un buget de 65000000 euro!
+729: Filmul Jumper, lansat in anul 2008, a avut un buget de 82500000 euro!
+730: Filmul Jumping the Broom, lansat in anul 2011, a avut un buget de 7000000 euro!
+731: Filmul Junebug, lansat in anul 2005, a avut un buget de 1000000 euro!
+732: Filmul Juno, lansat in anul 2007, a avut un buget de 7000000 euro!
+733: Filmul Jurassic Park, lansat in anul 1993, a avut un buget de 63000000 euro!
+734: Filmul Just Go with It, lansat in anul 2011, a avut un buget de 80000000 euro!
+735: Filmul Just Like Heaven, lansat in anul 2005, a avut un buget de 58000000 euro!
+736: Filmul Kate &amp; Leopold, lansat in anul 2001, a avut un buget de 48000000 euro!
+737: Filmul Kick-Ass, lansat in anul 2010, a avut un buget de 28000000 euro!
+738: Filmul Kick-Ass 2, lansat in anul 2013, a avut un buget de 28000000 euro!
+739: Filmul Kill Bill: Vol. 1, lansat in anul 2003, a avut un buget de 55000000 euro!
+740: Filmul Kill List, lansat in anul 2011, a avut un buget de 800000 euro!
+741: Filmul Killer Elite, lansat in anul 2011, a avut un buget de 70000000 euro!
+742: Filmul Killing Them Softly, lansat in anul 2012, a avut un buget de 15000000 euro!
+743: Filmul King Kong, lansat in anul 2005, a avut un buget de 207000000 euro!
+744: Filmul Kingdom of Heaven, lansat in anul 2005, a avut un buget de 110000000 euro!
+745: Filmul Kingpin, lansat in anul 1996, a avut un buget de 25000000 euro!
+746: Filmul Kinsey, lansat in anul 2004, a avut un buget de 11000000 euro!
+747: Filmul Kiss Kiss Bang Bang, lansat in anul 2005, a avut un buget de 15000000 euro!
+748: Filmul Kiss of the Dragon, lansat in anul 2001, a avut un buget de 25000000 euro!
+749: Filmul Kiss the Girls, lansat in anul 1997, a avut un buget de 27000000 euro!
+750: Filmul Kissing Jessica Stein, lansat in anul 2001, a avut un buget de 1500000 euro!
+751: Filmul Knight and Day, lansat in anul 2010, a avut un buget de 117000000 euro!
+752: Filmul Knocked Up, lansat in anul 2007, a avut un buget de 27500000 euro!
+753: Filmul Knowing, lansat in anul 2009, a avut un buget de 50000000 euro!
+754: Filmul Kung Fu Hustle, lansat in anul 2004, a avut un buget de 20000000 euro!
+755: Filmul Kung Fu Panda, lansat in anul 2008, a avut un buget de 130000000 euro!
+756: Filmul Kung Fu Panda 2, lansat in anul 2011, a avut un buget de 150000000 euro!
+757: Filmul L&aring;t den r&auml;tte komma in (Let the Right One In), lansat in anul 2008, a avut un buget de 4500000 euro!
+758: Filmul L.A. Confidential, lansat in anul 1997, a avut un buget de 35000000 euro!
+759: Filmul L.I.E., lansat in anul 2001, a avut un buget de 700000 euro!
+760: Filmul Lady in the Water, lansat in anul 2006, a avut un buget de 75000000 euro!
+761: Filmul Ladyhawke, lansat in anul 1985, a avut un buget de 20000000 euro!
+762: Filmul Lara Croft Tomb Raider: The Cradle of Life, lansat in anul 2003, a avut un buget de 90000000 euro!
+763: Filmul Lara Croft: Tomb Raider, lansat in anul 2001, a avut un buget de 94000000 euro!
+764: Filmul Lars and the real Girl, lansat in anul 2007, a avut un buget de 12500000 euro!
+765: Filmul Last Holiday, lansat in anul 2006, a avut un buget de 45000000 euro!
+766: Filmul Last Vegas, lansat in anul 2013, a avut un buget de 28000000 euro!
+767: Filmul Law Abiding Citizen, lansat in anul 2009, a avut un buget de 53000000 euro!
+768: Filmul Layer Cake, lansat in anul 2004, a avut un buget de 6500000 euro!
+769: Filmul Le Havre, lansat in anul 2011, a avut un buget de 5500000 euro!
+770: Filmul Lee Daniels&#39; The Butler, lansat in anul 2013, a avut un buget de 30000000 euro!
+771: Filmul Legally Blonde, lansat in anul 2001, a avut un buget de 18000000 euro!
+772: Filmul Legend, lansat in anul 1985, a avut un buget de 25000000 euro!
+773: Filmul Legends of the Fall, lansat in anul 1994, a avut un buget de 30000000 euro!
+774: Filmul Legion, lansat in anul 2010, a avut un buget de 26000000 euro!
+775: Filmul Lemony Snicket&#39;s A Series of Unfortunate Events, lansat in anul 2004, a avut un buget de 100000000 euro!
+776: Filmul Les Miserables, lansat in anul 2012, a avut un buget de 65000000 euro!
+777: Filmul Les triplettes de Belleville, lansat in anul 2003, a avut un buget de 2000000 euro!
+778: Filmul Let Me In, lansat in anul 2010, a avut un buget de 20000000 euro!
+779: Filmul Lethal Weapon, lansat in anul 1987, a avut un buget de 15000000 euro!
+780: Filmul Letters from Iwo Jima, lansat in anul 2006, a avut un buget de 13000000 euro!
+781: Filmul Letters to Juliet, lansat in anul 2010, a avut un buget de 30000000 euro!
+782: Filmul Liar Liar, lansat in anul 1997, a avut un buget de 45000000 euro!
+783: Filmul Licence to Kill, lansat in anul 1989, a avut un buget de 42000000 euro!
+784: Filmul Life During Wartime, lansat in anul 2009, a avut un buget de 4500000 euro!
+785: Filmul Life of Pi, lansat in anul 2012, a avut un buget de 120000000 euro!
+786: Filmul Like Crazy, lansat in anul 2011, a avut un buget de 250000 euro!
+787: Filmul Lilo and Stitch, lansat in anul 2002, a avut un buget de 80000000 euro!
+788: Filmul Limitless, lansat in anul 2011, a avut un buget de 27000000 euro!
+789: Filmul Lincoln, lansat in anul 2012, a avut un buget de 65000000 euro!
+790: Filmul Little Children, lansat in anul 2006, a avut un buget de 14000000 euro!
+791: Filmul Little Miss Sunshine, lansat in anul 2006, a avut un buget de 8000000 euro!
+792: Filmul Little Nicky, lansat in anul 2000, a avut un buget de 80000000 euro!
+793: Filmul Little Shop of Horrors, lansat in anul 1986, a avut un buget de 30000000 euro!
+794: Filmul Little Voice, lansat in anul 1998, a avut un buget de 6000000 euro!
+795: Filmul Little Women, lansat in anul 1994, a avut un buget de 15000000 euro!
+796: Filmul Live Free or Die Hard, lansat in anul 2007, a avut un buget de 110000000 euro!
+797: Filmul Logan&#39;s Run, lansat in anul 1976, a avut un buget de 7000000 euro!
+798: Filmul London To Brighton, lansat in anul 2006, a avut un buget de 825000 euro!
+799: Filmul Lord of War, lansat in anul 2005, a avut un buget de 42000000 euro!
+800: Filmul Lost In Translation, lansat in anul 2003, a avut un buget de 4000000 euro!
+801: Filmul Lost in Space, lansat in anul 1998, a avut un buget de 80000000 euro!
+802: Filmul Love &amp; Basketball, lansat in anul 2000, a avut un buget de 15000000 euro!
+803: Filmul Love Actually, lansat in anul 2003, a avut un buget de 45000000 euro!
+804: Filmul Love and Other Catastrophes, lansat in anul 1996, a avut un buget de 250000 euro!
+805: Filmul Love and Other Drugs, lansat in anul 2010, a avut un buget de 30000000 euro!
+806: Filmul Lovely and Amazing, lansat in anul 2001, a avut un buget de 250000 euro!
+807: Filmul Lucky Number Slevin, lansat in anul 2006, a avut un buget de 27000000 euro!
+808: Filmul Machete, lansat in anul 2010, a avut un buget de 12500000 euro!
+809: Filmul Machete Kills, lansat in anul 2013, a avut un buget de 2000000 euro!
+810: Filmul Madagascar, lansat in anul 2005, a avut un buget de 75000000 euro!
+811: Filmul Madagascar 3: Europe&#39;s Most Wanted, lansat in anul 2012, a avut un buget de 145000000 euro!
+812: Filmul Made In Dagenham, lansat in anul 2010, a avut un buget de 8000000 euro!
+813: Filmul Made of Honor, lansat in anul 2008, a avut un buget de 40000000 euro!
+814: Filmul Magnolia, lansat in anul 1999, a avut un buget de 37000000 euro!
+815: Filmul Maid in Manhattan, lansat in anul 2002, a avut un buget de 55000000 euro!
+816: Filmul Major League, lansat in anul 1989, a avut un buget de 11000000 euro!
+817: Filmul Malcolm X, lansat in anul 1992, a avut un buget de 35000000 euro!
+818: Filmul Mallrats, lansat in anul 1995, a avut un buget de 6100000 euro!
+819: Filmul Mama, lansat in anul 2013, a avut un buget de 15000000 euro!
+820: Filmul Man of Steel, lansat in anul 2013, a avut un buget de 225000000 euro!
+821: Filmul Man of the House, lansat in anul 2005, a avut un buget de 50000000 euro!
+822: Filmul Man of the Year, lansat in anul 2006, a avut un buget de 20000000 euro!
+823: Filmul Margaret, lansat in anul 2011, a avut un buget de 14000000 euro!
+824: Filmul Margin Call, lansat in anul 2011, a avut un buget de 3400000 euro!
+825: Filmul Maria Full of Grace, lansat in anul 2004, a avut un buget de 3200000 euro!
+826: Filmul Marie Antoinette, lansat in anul 2006, a avut un buget de 40000000 euro!
+827: Filmul Mars Attacks!, lansat in anul 1996, a avut un buget de 80000000 euro!
+828: Filmul Mars Needs Moms, lansat in anul 2011, a avut un buget de 150000000 euro!
+829: Filmul Martha Marcy May Marlene, lansat in anul 2011, a avut un buget de 1000000 euro!
+830: Filmul Master and Commander: The Far Side of the World, lansat in anul 2003, a avut un buget de 135000000 euro!
+831: Filmul Match Point, lansat in anul 2005, a avut un buget de 15000000 euro!
+832: Filmul Max Payne, lansat in anul 2008, a avut un buget de 35000000 euro!
+833: Filmul May, lansat in anul 2002, a avut un buget de 1750000 euro!
+834: Filmul Me and You and Everyone We Know, lansat in anul 2005, a avut un buget de 2000000 euro!
+835: Filmul Mean Girls, lansat in anul 2004, a avut un buget de 18000000 euro!
+836: Filmul Meek&#39;s Cutoff, lansat in anul 2010, a avut un buget de 2000000 euro!
+837: Filmul Meet Dave, lansat in anul 2008, a avut un buget de 60000000 euro!
+838: Filmul Meet the Parents, lansat in anul 2000, a avut un buget de 55000000 euro!
+839: Filmul Megamind, lansat in anul 2010, a avut un buget de 130000000 euro!
+840: Filmul Melancholia, lansat in anul 2011, a avut un buget de 9400000 euro!
+841: Filmul Memento, lansat in anul 2000, a avut un buget de 5000000 euro!
+842: Filmul Memoirs of a Geisha, lansat in anul 2005, a avut un buget de 85000000 euro!
+843: Filmul Men in Black, lansat in anul 1997, a avut un buget de 90000000 euro!
+844: Filmul Men in Black II, lansat in anul 2002, a avut un buget de 140000000 euro!
+845: Filmul Men in Black III, lansat in anul 2012, a avut un buget de 215000000 euro!
+846: Filmul Mercury Rising, lansat in anul 1998, a avut un buget de 60000000 euro!
+847: Filmul Michael Clayton, lansat in anul 2007, a avut un buget de 21500000 euro!
+848: Filmul Micmacs (Micmacs &agrave; tire-larigot), lansat in anul 2009, a avut un buget de 42000000 euro!
+849: Filmul Midnight Run, lansat in anul 1988, a avut un buget de 30000000 euro!
+850: Filmul Midnight in Paris, lansat in anul 2011, a avut un buget de 30000000 euro!
+851: Filmul Milk, lansat in anul 2008, a avut un buget de 20000000 euro!
+852: Filmul Million Dollar Baby, lansat in anul 2004, a avut un buget de 30000000 euro!
+853: Filmul Minority Report, lansat in anul 2002, a avut un buget de 102000000 euro!
+854: Filmul Miracle, lansat in anul 2004, a avut un buget de 28000000 euro!
+855: Filmul Miracle at St. Anna, lansat in anul 2008, a avut un buget de 45000000 euro!
+856: Filmul Mirror Mirror, lansat in anul 2012, a avut un buget de 85000000 euro!
+857: Filmul MirrorMask, lansat in anul 2005, a avut un buget de 4000000 euro!
+858: Filmul Miss Congeniality, lansat in anul 2000, a avut un buget de 45000000 euro!
+859: Filmul Miss Congeniality 2: Armed &amp; Fabulous, lansat in anul 2005, a avut un buget de 60000000 euro!
+860: Filmul Miss Potter, lansat in anul 2006, a avut un buget de 30000000 euro!
+861: Filmul Mission to Mars, lansat in anul 2000, a avut un buget de 90000000 euro!
+862: Filmul Mission: Impossible, lansat in anul 1996, a avut un buget de 80000000 euro!
+863: Filmul Mission: Impossible - Ghost Protocol, lansat in anul 2011, a avut un buget de 145000000 euro!
+864: Filmul Mona Lisa Smile, lansat in anul 2003, a avut un buget de 65000000 euro!
+865: Filmul Moneyball, lansat in anul 2011, a avut un buget de 50000000 euro!
+866: Filmul Monkeybone, lansat in anul 2001, a avut un buget de 75000000 euro!
+867: Filmul Mononoke-hime, lansat in anul 1997, a avut un buget de 20000000 euro!
+868: Filmul Monsoon Wedding, lansat in anul 2001, a avut un buget de 1200000 euro!
+869: Filmul Monster, lansat in anul 2003, a avut un buget de 5000000 euro!
+870: Filmul Monster House, lansat in anul 2006, a avut un buget de 75000000 euro!
+871: Filmul Monsters, lansat in anul 2010, a avut un buget de 500000 euro!
+872: Filmul Monsters vs Aliens, lansat in anul 2009, a avut un buget de 175000000 euro!
+873: Filmul Monty Python and the Holy Grail, lansat in anul 1975, a avut un buget de 400000 euro!
+874: Filmul Moon, lansat in anul 2009, a avut un buget de 5000000 euro!
+875: Filmul Moonraker, lansat in anul 1979, a avut un buget de 31000000 euro!
+876: Filmul Moonrise Kingdom, lansat in anul 2012, a avut un buget de 16000000 euro!
+877: Filmul Morning Glory, lansat in anul 2010, a avut un buget de 40000000 euro!
+878: Filmul Mortal Kombat, lansat in anul 1995, a avut un buget de 20000000 euro!
+879: Filmul Mortal Kombat: Annihilation, lansat in anul 1997, a avut un buget de 30000000 euro!
+880: Filmul Mother and Child, lansat in anul 2009, a avut un buget de 7000000 euro!
+881: Filmul Moulin Rouge!, lansat in anul 2001, a avut un buget de 53000000 euro!
+882: Filmul Mr Deeds, lansat in anul 2002, a avut un buget de 50000000 euro!
+883: Filmul Mr. &amp; Mrs. Smith, lansat in anul 2005, a avut un buget de 110000000 euro!
+884: Filmul Mr. Popper&#39;s Penguins, lansat in anul 2011, a avut un buget de 55000000 euro!
+885: Filmul Mrs. Doubtfire, lansat in anul 1993, a avut un buget de 25000000 euro!
+886: Filmul Much Ado About Nothing, lansat in anul 2012, a avut un buget de 8000000 euro!
+887: Filmul Mulan, lansat in anul 1998, a avut un buget de 90000000 euro!
+888: Filmul Mulholland Dr., lansat in anul 2001, a avut un buget de 15000000 euro!
+889: Filmul Munich, lansat in anul 2005, a avut un buget de 75000000 euro!
+890: Filmul Muppets From Space, lansat in anul 1999, a avut un buget de 24000000 euro!
+891: Filmul Music and Lyrics, lansat in anul 2007, a avut un buget de 40000000 euro!
+892: Filmul Must love Dogs, lansat in anul 1997, a avut un buget de 35000000 euro!
+893: Filmul My Beautiful Laundrette, lansat in anul 1985, a avut un buget de 400000 euro!
+894: Filmul My Best Friend&#39;s Wedding, lansat in anul 1997, a avut un buget de 46000000 euro!
+895: Filmul My Big Fat Greek Wedding, lansat in anul 2002, a avut un buget de 5000000 euro!
+896: Filmul My Bloody Valentine 3D, lansat in anul 2009, a avut un buget de 14000000 euro!
+897: Filmul My Cousin Vinny, lansat in anul 1992, a avut un buget de 11000000 euro!
+898: Filmul My Sister&#39;s Keeper, lansat in anul 2009, a avut un buget de 27500000 euro!
+899: Filmul My Stepmother Is an Alien, lansat in anul 1988, a avut un buget de 16000000 euro!
+900: Filmul My Summer of Love, lansat in anul 2004, a avut un buget de 1700000 euro!
+901: Filmul Mystery Men, lansat in anul 1999, a avut un buget de 68000000 euro!
+902: Filmul Mystic Pizza, lansat in anul 1988, a avut un buget de 6000000 euro!
+903: Filmul Mystic River, lansat in anul 2003, a avut un buget de 30000000 euro!
+904: Filmul Nacho Libre, lansat in anul 2006, a avut un buget de 32000000 euro!
+905: Filmul Naked Gun 33 1/3: The Final Insult, lansat in anul 1994, a avut un buget de 30000000 euro!
+906: Filmul Nanny McPhee and the Big Bang, lansat in anul 2010, a avut un buget de 35000000 euro!
+907: Filmul Napoleon Dynamite, lansat in anul 2004, a avut un buget de 400000 euro!
+908: Filmul Nebraska, lansat in anul 2013, a avut un buget de 12000000 euro!
+909: Filmul Network, lansat in anul 1976, a avut un buget de 3800000 euro!
+910: Filmul Never Let Me Go, lansat in anul 2010, a avut un buget de 15000000 euro!
+911: Filmul New Year&#39;s Eve, lansat in anul 2011, a avut un buget de 26000000 euro!
+912: Filmul New York Minute, lansat in anul 2004, a avut un buget de 40000000 euro!
+913: Filmul Nick and Norah&#39;s Infinite Playlist, lansat in anul 2008, a avut un buget de 10000000 euro!
+914: Filmul Night at the Museum, lansat in anul 2006, a avut un buget de 110000000 euro!
+915: Filmul Nikita, lansat in anul 1990, a avut un buget de 7000000 euro!
+916: Filmul Nim&#39;s Island, lansat in anul 2008, a avut un buget de 37000000 euro!
+917: Filmul Nine, lansat in anul 2009, a avut un buget de 80000000 euro!
+918: Filmul Ninja Assassin, lansat in anul 2009, a avut un buget de 50000000 euro!
+919: Filmul No Country for Old Men, lansat in anul 2007, a avut un buget de 25000000 euro!
+920: Filmul No Reservations, lansat in anul 2007, a avut un buget de 28000000 euro!
+921: Filmul No Strings Attached, lansat in anul 2011, a avut un buget de 25000000 euro!
+922: Filmul North Country, lansat in anul 2005, a avut un buget de 30000000 euro!
+923: Filmul Notes on a Scandal, lansat in anul 2006, a avut un buget de 27500000 euro!
+924: Filmul Notting Hill, lansat in anul 1999, a avut un buget de 42000000 euro!
+925: Filmul Now You See Me, lansat in anul 2013, a avut un buget de 75000000 euro!
+926: Filmul Nowhere Boy, lansat in anul 2009, a avut un buget de 1900000 euro!
+927: Filmul Nowhere in Africa, lansat in anul 2001, a avut un buget de 6500000 euro!
+928: Filmul Oblivion, lansat in anul 2013, a avut un buget de 120000000 euro!
+929: Filmul Ocean&#39;s Eleven, lansat in anul 2001, a avut un buget de 85000000 euro!
+930: Filmul October Baby, lansat in anul 2011, a avut un buget de 1000000 euro!
+931: Filmul Office Space, lansat in anul 1999, a avut un buget de 10000000 euro!
+932: Filmul Oliver Twist, lansat in anul 2005, a avut un buget de 65000000 euro!
+933: Filmul Olympus Has Fallen, lansat in anul 2013, a avut un buget de 70000000 euro!
+934: Filmul Once, lansat in anul 2006, a avut un buget de 150000 euro!
+935: Filmul Ondine, lansat in anul 2009, a avut un buget de 12000000 euro!
+936: Filmul One Flew Over the Cuckoo&#39;s Nest, lansat in anul 1975, a avut un buget de 4400000 euro!
+937: Filmul One for the Money, lansat in anul 2012, a avut un buget de 42000000 euro!
+938: Filmul Open Season, lansat in anul 2006, a avut un buget de 85000000 euro!
+939: Filmul Orgazmo, lansat in anul 1997, a avut un buget de 1000000 euro!
+940: Filmul Osmosis Jones, lansat in anul 2001, a avut un buget de 70000000 euro!
+941: Filmul Our Idiot Brother, lansat in anul 2011, a avut un buget de 5000000 euro!
+942: Filmul Out of Sight, lansat in anul 1998, a avut un buget de 48000000 euro!
+943: Filmul Outbreak, lansat in anul 1995, a avut un buget de 50000000 euro!
+944: Filmul Oz the Great and Powerful, lansat in anul 2013, a avut un buget de 200000000 euro!
+945: Filmul Paa, lansat in anul 2009, a avut un buget de 4300000 euro!
+946: Filmul Pacific Rim, lansat in anul 2013, a avut un buget de 190000000 euro!
+947: Filmul Pain &amp; Gain, lansat in anul 2013, a avut un buget de 26000000 euro!
+948: Filmul Pandorum, lansat in anul 2009, a avut un buget de 40000000 euro!
+949: Filmul Panic Room, lansat in anul 2002, a avut un buget de 48000000 euro!
+950: Filmul ParaNorman, lansat in anul 2012, a avut un buget de 60000000 euro!
+951: Filmul Paranormal Activity, lansat in anul 2007, a avut un buget de 450000 euro!
+952: Filmul Paranormal Activity 2, lansat in anul 2010, a avut un buget de 3000000 euro!
+953: Filmul Paranormal Activity 3, lansat in anul 2011, a avut un buget de 5000000 euro!
+954: Filmul Paranormal Activity 4, lansat in anul 2012, a avut un buget de 5000000 euro!
+955: Filmul Parental Guidance, lansat in anul 2012, a avut un buget de 25000000 euro!
+956: Filmul Paris je t&#39;aime, lansat in anul 2006, a avut un buget de 13000000 euro!
+957: Filmul Parker, lansat in anul 2013, a avut un buget de 35000000 euro!
+958: Filmul Paul, lansat in anul 2011, a avut un buget de 40000000 euro!
+959: Filmul Payback, lansat in anul 1999, a avut un buget de 50000000 euro!
+960: Filmul Pearl Harbor, lansat in anul 2001, a avut un buget de 151500000 euro!
+961: Filmul Peeples, lansat in anul 2013, a avut un buget de 15000000 euro!
+962: Filmul Peggy Sue Got Married, lansat in anul 1986, a avut un buget de 18000000 euro!
+963: Filmul People Like Us, lansat in anul 2012, a avut un buget de 16000000 euro!
+964: Filmul Percy Jackson &amp; the Olympians: The Lightning Thief, lansat in anul 2010, a avut un buget de 95000000 euro!
+965: Filmul Percy Jackson: Sea of Monsters, lansat in anul 2013, a avut un buget de 90000000 euro!
+966: Filmul Perfume: The Story of a Murderer, lansat in anul 2006, a avut un buget de 63700000 euro!
+967: Filmul Perrier&#39;s Bounty, lansat in anul 2009, a avut un buget de 6600000 euro!
+968: Filmul Persepolis, lansat in anul 2007, a avut un buget de 7300000 euro!
+969: Filmul Peter Pan, lansat in anul 2003, a avut un buget de 100000000 euro!
+970: Filmul Phone Booth, lansat in anul 2002, a avut un buget de 11000000 euro!
+971: Filmul Pi, lansat in anul 1998, a avut un buget de 68000 euro!
+972: Filmul Pieces of April, lansat in anul 1993, a avut un buget de 300000 euro!
+973: Filmul Pineapple Express, lansat in anul 2008, a avut un buget de 26000000 euro!
+974: Filmul Pink Flamingos, lansat in anul 1972, a avut un buget de 12000 euro!
+975: Filmul Pirates of the Caribbean: At World&#39;s End, lansat in anul 2007, a avut un buget de 300000000 euro!
+976: Filmul Pirates of the Caribbean: Dead Man&#39;s Chest, lansat in anul 2006, a avut un buget de 225000000 euro!
+977: Filmul Pirates of the Caribbean: On Stranger Tides, lansat in anul 2011, a avut un buget de 250000000 euro!
+978: Filmul Pirates of the Caribbean: The Curse of the Black Pearl, lansat in anul 2003, a avut un buget de 125000000 euro!
+979: Filmul Pitch Black, lansat in anul 2000, a avut un buget de 23000000 euro!
+980: Filmul Pitch Perfect, lansat in anul 2012, a avut un buget de 17000000 euro!
+981: Filmul Planet 51, lansat in anul 2009, a avut un buget de 60000000 euro!
+982: Filmul Platoon, lansat in anul 1986, a avut un buget de 6000000 euro!
+983: Filmul Please Give, lansat in anul 2010, a avut un buget de 3000000 euro!
+984: Filmul Pocahontas, lansat in anul 1995, a avut un buget de 55000000 euro!
+985: Filmul Pocket Monsters: Mewtwo Strikes Back!, lansat in anul 1999, a avut un buget de 30000000 euro!
+986: Filmul Pokemon: The Movie 2000, lansat in anul 2000, a avut un buget de 30000000 euro!
+987: Filmul Police Academy, lansat in anul 1984, a avut un buget de 4500000 euro!
+988: Filmul Police Academy: Mission to Moscow, lansat in anul 1994, a avut un buget de 10000000 euro!
+989: Filmul Poltergeist, lansat in anul 1982, a avut un buget de 10700000 euro!
+990: Filmul Poltergeist III, lansat in anul 1988, a avut un buget de 9500000 euro!
+991: Filmul Pontypool, lansat in anul 2008, a avut un buget de 1500000 euro!
+992: Filmul Porky&#39;s, lansat in anul 1982, a avut un buget de 4000000 euro!
+993: Filmul Poseidon, lansat in anul 2006, a avut un buget de 160000000 euro!
+994: Filmul Possession, lansat in anul 2008, a avut un buget de 25000000 euro!
+995: Filmul Practical Magic, lansat in anul 1998, a avut un buget de 60000000 euro!
+996: Filmul Precious: Based on the Novel Push by Sapphire, lansat in anul 2009, a avut un buget de 10000000 euro!
+997: Filmul Predator, lansat in anul 1987, a avut un buget de 18000000 euro!
+998: Filmul Predator 2, lansat in anul 1990, a avut un buget de 35000000 euro!
+999: Filmul Predators, lansat in anul 2010, a avut un buget de 40000000 euro!
+1000: Filmul Premium Rush, lansat in anul 2012, a avut un buget de 35000000 euro!
+1001: Filmul Premonition, lansat in anul 2007, a avut un buget de 20000000 euro!
+1002: Filmul Pretty Woman, lansat in anul 1990, a avut un buget de 14000000 euro!
+1003: Filmul Pride and Prejudice, lansat in anul 2005, a avut un buget de 28000000 euro!
+1004: Filmul Pride and Prejudice, lansat in anul 2003, a avut un buget de 28000000 euro!
+1005: Filmul Pride and Prejudice, lansat in anul 1995, a avut un buget de 28000000 euro!
+1006: Filmul Priest, lansat in anul 2011, a avut un buget de 60000000 euro!
+1007: Filmul Priest, lansat in anul 1994, a avut un buget de 60000000 euro!
+1008: Filmul Primary Colors, lansat in anul 1998, a avut un buget de 65000000 euro!
+1009: Filmul Primer, lansat in anul 2004, a avut un buget de 7000 euro!
+1010: Filmul Prince of Persia: The Sands of Time, lansat in anul 2010, a avut un buget de 200000000 euro!
+1011: Filmul Prisoners, lansat in anul 2013, a avut un buget de 46000000 euro!
+1012: Filmul Private Benjamin, lansat in anul 1980, a avut un buget de 15000000 euro!
+1013: Filmul Prom Night, lansat in anul 2008, a avut un buget de 18000000 euro!
+1014: Filmul Proof, lansat in anul 2005, a avut un buget de 20000000 euro!
+1015: Filmul Public Enemies, lansat in anul 2009, a avut un buget de 102500000 euro!
+1016: Filmul Pulp Fiction, lansat in anul 1994, a avut un buget de 8000000 euro!
+1017: Filmul Push, lansat in anul 2009, a avut un buget de 38000000 euro!
+1018: Filmul Puss in Boots, lansat in anul 2011, a avut un buget de 130000000 euro!
+1019: Filmul Quantum of Solace, lansat in anul 2008, a avut un buget de 230000000 euro!
+1020: Filmul Quarantine, lansat in anul 2008, a avut un buget de 12000000 euro!
+1021: Filmul Queen of the Damned, lansat in anul 2002, a avut un buget de 35000000 euro!
+1022: Filmul Quest for Camelot, lansat in anul 1998, a avut un buget de 40000000 euro!
+1023: Filmul Quinceanera, lansat in anul 2006, a avut un buget de 400000 euro!
+1024: Filmul R.I.P.D., lansat in anul 2013, a avut un buget de 130000000 euro!
+1025: Filmul Rabbit Hole, lansat in anul 2010, a avut un buget de 5000000 euro!
+1026: Filmul Rabbit-Proof Fence, lansat in anul 2002, a avut un buget de 7000000 euro!
+1027: Filmul Rachel Getting Married, lansat in anul 2008, a avut un buget de 12000000 euro!
+1028: Filmul Radio Days, lansat in anul 1987, a avut un buget de 16000000 euro!
+1029: Filmul Raging Bull, lansat in anul 1980, a avut un buget de 18000000 euro!
+1030: Filmul Raiders of the Lost Ark, lansat in anul 1981, a avut un buget de 20000000 euro!
+1031: Filmul Rain Man, lansat in anul 1988, a avut un buget de 25000000 euro!
+1032: Filmul Raising Helen, lansat in anul 2004, a avut un buget de 50000000 euro!
+1033: Filmul Ramona and Beezus, lansat in anul 2010, a avut un buget de 15000000 euro!
+1034: Filmul Rang De Basanti, lansat in anul 2006, a avut un buget de 5300000 euro!
+1035: Filmul Rango, lansat in anul 2011, a avut un buget de 135000000 euro!
+1036: Filmul Ratatouille, lansat in anul 2007, a avut un buget de 150000000 euro!
+1037: Filmul Ravenous, lansat in anul 1999, a avut un buget de 12000000 euro!
+1038: Filmul Ray, lansat in anul 2004, a avut un buget de 40000000 euro!
+1039: Filmul Real Steel, lansat in anul 2011, a avut un buget de 110000000 euro!
+1040: Filmul Real Women Have Curves, lansat in anul 2002, a avut un buget de 3000000 euro!
+1041: Filmul Red, lansat in anul 2010, a avut un buget de 60000000 euro!
+1042: Filmul Red 2, lansat in anul 2013, a avut un buget de 84000000 euro!
+1043: Filmul Red Dawn, lansat in anul 2012, a avut un buget de 65000000 euro!
+1044: Filmul Red Dragon, lansat in anul 2002, a avut un buget de 78000000 euro!
+1045: Filmul Red Eye, lansat in anul 2005, a avut un buget de 26000000 euro!
+1046: Filmul Red Planet, lansat in anul 2000, a avut un buget de 80000000 euro!
+1047: Filmul Red Riding Hood, lansat in anul 2011, a avut un buget de 42000000 euro!
+1048: Filmul Red Sonja, lansat in anul 1985, a avut un buget de 17900000 euro!
+1049: Filmul Red State, lansat in anul 2011, a avut un buget de 4000000 euro!
+1050: Filmul Red Tails, lansat in anul 2012, a avut un buget de 58000000 euro!
+1051: Filmul Reign of Fire, lansat in anul 2002, a avut un buget de 60000000 euro!
+1052: Filmul Remember Me, lansat in anul 2010, a avut un buget de 16000000 euro!
+1053: Filmul Remember the Titans, lansat in anul 2000, a avut un buget de 30000000 euro!
+1054: Filmul Rent, lansat in anul 2005, a avut un buget de 40000000 euro!
+1055: Filmul Repo Man, lansat in anul 1984, a avut un buget de 1500000 euro!
+1056: Filmul Repo Men, lansat in anul 2010, a avut un buget de 32000000 euro!
+1057: Filmul Requiem for a Dream, lansat in anul 2000, a avut un buget de 4500000 euro!
+1058: Filmul Reservoir Dogs, lansat in anul 1992, a avut un buget de 1200000 euro!
+1059: Filmul Resident Evil, lansat in anul 2002, a avut un buget de 35000000 euro!
+1060: Filmul Resident Evil: Apocalypse, lansat in anul 2004, a avut un buget de 50000000 euro!
+1061: Filmul Resident Evil: Extinction, lansat in anul 2007, a avut un buget de 45000000 euro!
+1062: Filmul Restless, lansat in anul 2011, a avut un buget de 8000000 euro!
+1063: Filmul Return to Me, lansat in anul 2000, a avut un buget de 24000000 euro!
+1064: Filmul Return to Oz, lansat in anul 1985, a avut un buget de 27000000 euro!
+1065: Filmul Revolutionary Road, lansat in anul 2008, a avut un buget de 45000000 euro!
+1066: Filmul Riddick, lansat in anul 2013, a avut un buget de 38000000 euro!
+1067: Filmul Rio, lansat in anul 2011, a avut un buget de 90000000 euro!
+1068: Filmul Rise of the Guardians, lansat in anul 2012, a avut un buget de 145000000 euro!
+1069: Filmul Rise of the Planet of the Apes, lansat in anul 2011, a avut un buget de 93000000 euro!
+1070: Filmul Road House, lansat in anul 1989, a avut un buget de 10000000 euro!
+1071: Filmul Robin Hood, lansat in anul 2010, a avut un buget de 210000000 euro!
+1072: Filmul Robin Hood: Prince of Thieves, lansat in anul 1991, a avut un buget de 50000000 euro!
+1073: Filmul RoboCop, lansat in anul 1987, a avut un buget de 120000000 euro!
+1074: Filmul Robots, lansat in anul 2005, a avut un buget de 80000000 euro!
+1075: Filmul Rock of Ages, lansat in anul 2012, a avut un buget de 70000000 euro!
+1076: Filmul RocknRolla, lansat in anul 2008, a avut un buget de 18000000 euro!
+1077: Filmul Rocky, lansat in anul 1976, a avut un buget de 1000000 euro!
+1078: Filmul Romeo + Juliet, lansat in anul 1996, a avut un buget de 14500000 euro!
+1079: Filmul Romeo Must Die, lansat in anul 2000, a avut un buget de 25000000 euro!
+1080: Filmul Rounders, lansat in anul 1998, a avut un buget de 12000000 euro!
+1081: Filmul Rugrats in Paris:, lansat in anul 2000, a avut un buget de 30000000 euro!
+1082: Filmul Run Lola Run, lansat in anul 1998, a avut un buget de 1750000 euro!
+1083: Filmul Runner Runner, lansat in anul 2013, a avut un buget de 30000000 euro!
+1084: Filmul Running with Scissors, lansat in anul 2006, a avut un buget de 12000000 euro!
+1085: Filmul Rush, lansat in anul 2013, a avut un buget de 38000000 euro!
+1086: Filmul Rush Hour, lansat in anul 1998, a avut un buget de 35000000 euro!
+1087: Filmul Rush Hour 3, lansat in anul 2007, a avut un buget de 180000000 euro!
+1088: Filmul Rushmore, lansat in anul 1998, a avut un buget de 10000000 euro!
+1089: Filmul S.W.A.T., lansat in anul 2003, a avut un buget de 70000000 euro!
+1090: Filmul Sabrina, lansat in anul 1995, a avut un buget de 58000000 euro!
+1091: Filmul Safe, lansat in anul 2012, a avut un buget de 33000000 euro!
+1092: Filmul Safe, lansat in anul 1995, a avut un buget de 33000000 euro!
+1093: Filmul Safe Haven, lansat in anul 2013, a avut un buget de 28000000 euro!
+1094: Filmul Safe Men, lansat in anul 1998, a avut un buget de 1000000 euro!
+1095: Filmul Safety Not Guaranteed, lansat in anul 2012, a avut un buget de 750000 euro!
+1096: Filmul Salt, lansat in anul 2010, a avut un buget de 130000000 euro!
+1097: Filmul Save the Last Dance, lansat in anul 2001, a avut un buget de 13000000 euro!
+1098: Filmul Saved!, lansat in anul 2004, a avut un buget de 5000000 euro!
+1099: Filmul Saving Grace, lansat in anul 2000, a avut un buget de 4000000 euro!
+1100: Filmul Saving Mr. Banks, lansat in anul 2013, a avut un buget de 35000000 euro!
+1101: Filmul Saving Private Ryan, lansat in anul 1998, a avut un buget de 65000000 euro!
+1102: Filmul Saw, lansat in anul 2004, a avut un buget de 1200000 euro!
+1103: Filmul Saw II, lansat in anul 2005, a avut un buget de 5000000 euro!
+1104: Filmul Scary Movie 3, lansat in anul 2003, a avut un buget de 45000000 euro!
+1105: Filmul Schindler&#39;s List, lansat in anul 1993, a avut un buget de 25000000 euro!
+1106: Filmul Scooby-Doo, lansat in anul 2002, a avut un buget de 84000000 euro!
+1107: Filmul Scott Pilgrim vs. the World, lansat in anul 2010, a avut un buget de 85000000 euro!
+1108: Filmul Scream, lansat in anul 1996, a avut un buget de 15000000 euro!
+1109: Filmul Scream 2, lansat in anul 1997, a avut un buget de 24000000 euro!
+1110: Filmul Scream 3, lansat in anul 2000, a avut un buget de 40000000 euro!
+1111: Filmul Scrooged, lansat in anul 1988, a avut un buget de 32000000 euro!
+1112: Filmul Se7en, lansat in anul 1995, a avut un buget de 30000000 euro!
+1113: Filmul Secondhand Lions, lansat in anul 2003, a avut un buget de 30000000 euro!
+1114: Filmul Secret Window, lansat in anul 2004, a avut un buget de 40000000 euro!
+1115: Filmul Secretariat, lansat in anul 2010, a avut un buget de 35000000 euro!
+1116: Filmul Secrets &amp; Lies, lansat in anul 1996, a avut un buget de 4500000 euro!
+1117: Filmul Selena, lansat in anul 1997, a avut un buget de 20000000 euro!
+1118: Filmul Sense and Sensibility, lansat in anul 1995, a avut un buget de 16500000 euro!
+1119: Filmul Serenity, lansat in anul 2005, a avut un buget de 39000000 euro!
+1120: Filmul Set It Off, lansat in anul 1996, a avut un buget de 9000000 euro!
+1121: Filmul Seven Pounds, lansat in anul 2008, a avut un buget de 54000000 euro!
+1122: Filmul Seven Psychopaths, lansat in anul 2012, a avut un buget de 13500000 euro!
+1123: Filmul Sex and the City, lansat in anul 2008, a avut un buget de 57500000 euro!
+1124: Filmul Sex and the city 2, lansat in anul 2010, a avut un buget de 95000000 euro!
+1125: Filmul Sexy Beast, lansat in anul 2000, a avut un buget de 4300000 euro!
+1126: Filmul Shaft, lansat in anul 1971, a avut un buget de 53012938 euro!
+1127: Filmul Shakespeare in Love, lansat in anul 1998, a avut un buget de 26000000 euro!
+1128: Filmul Shallow Hal, lansat in anul 2001, a avut un buget de 40000000 euro!
+1129: Filmul Shame, lansat in anul 2011, a avut un buget de 6500000 euro!
+1130: Filmul Shanghai Knights, lansat in anul 2003, a avut un buget de 50000000 euro!
+1131: Filmul Shanghai Noon, lansat in anul 2000, a avut un buget de 55000000 euro!
+1132: Filmul Shaolin Soccer, lansat in anul 2001, a avut un buget de 10000000 euro!
+1133: Filmul Shark Tale, lansat in anul 2004, a avut un buget de 75000000 euro!
+1134: Filmul Shattered Glass, lansat in anul 2003, a avut un buget de 6000000 euro!
+1135: Filmul Shaun of the Dead, lansat in anul 2004, a avut un buget de 5000000 euro!
+1136: Filmul She&#39;s the Man, lansat in anul 2006, a avut un buget de 25000000 euro!
+1137: Filmul Sherlock Holmes, lansat in anul 2009, a avut un buget de 90000000 euro!
+1138: Filmul Sherrybaby, lansat in anul 2006, a avut un buget de 2000000 euro!
+1139: Filmul Shooter, lansat in anul 2007, a avut un buget de 60000000 euro!
+1140: Filmul Shopgirl, lansat in anul 2005, a avut un buget de 7500000 euro!
+1141: Filmul Shortbus, lansat in anul 2006, a avut un buget de 2000000 euro!
+1142: Filmul Showgirls, lansat in anul 1995, a avut un buget de 40000000 euro!
+1143: Filmul Shrek, lansat in anul 2001, a avut un buget de 50000000 euro!
+1144: Filmul Shrek 2, lansat in anul 2004, a avut un buget de 70000000 euro!
+1145: Filmul Shrek Forever After, lansat in anul 2010, a avut un buget de 165000000 euro!
+1146: Filmul Shrek the Third, lansat in anul 2007, a avut un buget de 160000000 euro!
+1147: Filmul Shutter Island, lansat in anul 2010, a avut un buget de 80000000 euro!
+1148: Filmul Side Effects, lansat in anul 2013, a avut un buget de 30000000 euro!
+1149: Filmul Sideways, lansat in anul 2004, a avut un buget de 17000000 euro!
+1150: Filmul Signs, lansat in anul 2002, a avut un buget de 70702619 euro!
+1151: Filmul Silent Hill, lansat in anul 2006, a avut un buget de 50000000 euro!
+1152: Filmul Silent Hill: Revelation 3D, lansat in anul 2012, a avut un buget de 20000000 euro!
+1153: Filmul Silent Movie, lansat in anul 1976, a avut un buget de 4400000 euro!
+1154: Filmul Silver Linings Playbook, lansat in anul 2012, a avut un buget de 21000000 euro!
+1155: Filmul Sin City, lansat in anul 2005, a avut un buget de 40000000 euro!
+1156: Filmul Sinbad: Legend of the Seven Seas, lansat in anul 2003, a avut un buget de 60000000 euro!
+1157: Filmul Sinister, lansat in anul 2012, a avut un buget de 3000000 euro!
+1158: Filmul Sisters in Law, lansat in anul 2005, a avut un buget de 300000 euro!
+1159: Filmul Six Days Seven Nights, lansat in anul 1998, a avut un buget de 80000000 euro!
+1160: Filmul Sky Captain and the World of Tomorrow, lansat in anul 2004, a avut un buget de 70000000 euro!
+1161: Filmul Sky High, lansat in anul 2005, a avut un buget de 60000000 euro!
+1162: Filmul Skyfall, lansat in anul 2012, a avut un buget de 200000000 euro!
+1163: Filmul Skyline, lansat in anul 2010, a avut un buget de 10000000 euro!
+1164: Filmul Slacker, lansat in anul 1991, a avut un buget de 23000 euro!
+1165: Filmul Sleeper, lansat in anul 1973, a avut un buget de 2000000 euro!
+1166: Filmul Sleepy Hollow, lansat in anul 1999, a avut un buget de 70000000 euro!
+1167: Filmul Sliding Doors, lansat in anul 1998, a avut un buget de 6000000 euro!
+1168: Filmul Slither, lansat in anul 2006, a avut un buget de 15250000 euro!
+1169: Filmul Slumdog Millionaire, lansat in anul 2008, a avut un buget de 14000000 euro!
+1170: Filmul Slums of Beverly Hills, lansat in anul 1998, a avut un buget de 5000000 euro!
+1171: Filmul Small Soldiers, lansat in anul 1998, a avut un buget de 40000000 euro!
+1172: Filmul Smilla&#39;s Sense of Snow, lansat in anul 1997, a avut un buget de 35000000 euro!
+1173: Filmul Smoke Signals, lansat in anul 1998, a avut un buget de 2000000 euro!
+1174: Filmul Smokin&#39; Aces, lansat in anul 2006, a avut un buget de 17000000 euro!
+1175: Filmul Snakes on a Plane, lansat in anul 2006, a avut un buget de 33000000 euro!
+1176: Filmul Snatch., lansat in anul 2000, a avut un buget de 10000000 euro!
+1177: Filmul Snow Dogs, lansat in anul 2002, a avut un buget de 32000000 euro!
+1178: Filmul Snow Flower and the Secret Fan, lansat in anul 2011, a avut un buget de 6000000 euro!
+1179: Filmul Snow White and the Huntsman, lansat in anul 2012, a avut un buget de 170000000 euro!
+1180: Filmul Solaris, lansat in anul 2002, a avut un buget de 47000000 euro!
+1181: Filmul Someone Like You..., lansat in anul 2001, a avut un buget de 23000000 euro!
+1182: Filmul Something&#39;s Gotta Give, lansat in anul 2003, a avut un buget de 80000000 euro!
+1183: Filmul Somewhere, lansat in anul 2010, a avut un buget de 7000000 euro!
+1184: Filmul Somewhere in Time, lansat in anul 1980, a avut un buget de 5100000 euro!
+1185: Filmul Son of the Mask, lansat in anul 2005, a avut un buget de 100000000 euro!
+1186: Filmul Songcatcher, lansat in anul 2000, a avut un buget de 1800000 euro!
+1187: Filmul Soul Surfer, lansat in anul 2011, a avut un buget de 18000000 euro!
+1188: Filmul Source Code, lansat in anul 2011, a avut un buget de 32000000 euro!
+1189: Filmul South Park: Bigger Longer &amp; Uncut, lansat in anul 1999, a avut un buget de 21000000 euro!
+1190: Filmul Southland Tales, lansat in anul 2006, a avut un buget de 17000000 euro!
+1191: Filmul Space Jam, lansat in anul 1996, a avut un buget de 80000000 euro!
+1192: Filmul Spaceballs, lansat in anul 1987, a avut un buget de 22700000 euro!
+1193: Filmul Spanglish, lansat in anul 2004, a avut un buget de 75000000 euro!
+1194: Filmul Sparkle, lansat in anul 2012, a avut un buget de 10000000 euro!
+1195: Filmul Sparkle, lansat in anul 1976, a avut un buget de 10000000 euro!
+1196: Filmul Spawn, lansat in anul 1997, a avut un buget de 40000000 euro!
+1197: Filmul Species, lansat in anul 1995, a avut un buget de 35000000 euro!
+1198: Filmul Speed, lansat in anul 1994, a avut un buget de 30000000 euro!
+1199: Filmul Speed Racer, lansat in anul 2008, a avut un buget de 120000000 euro!
+1200: Filmul Sphere, lansat in anul 1998, a avut un buget de 73000000 euro!
+1201: Filmul Spider-Man, lansat in anul 2002, a avut un buget de 139000000 euro!
+1202: Filmul Spider-Man 2, lansat in anul 2004, a avut un buget de 200000000 euro!
+1203: Filmul Spirit: Stallion of the Cimarron, lansat in anul 2002, a avut un buget de 80000000 euro!
+1204: Filmul Splash, lansat in anul 1984, a avut un buget de 8000000 euro!
+1205: Filmul Splice, lansat in anul 2009, a avut un buget de 30000000 euro!
+1206: Filmul Spring Breakers, lansat in anul 2012, a avut un buget de 5000000 euro!
+1207: Filmul Spun, lansat in anul 2002, a avut un buget de 4500000 euro!
+1208: Filmul Spy Hard, lansat in anul 1996, a avut un buget de 18000000 euro!
+1209: Filmul Spy Kids, lansat in anul 2001, a avut un buget de 35000000 euro!
+1210: Filmul Spy Kids 2: Island of Lost Dreams, lansat in anul 2002, a avut un buget de 38000000 euro!
+1211: Filmul Spy Kids 3-D: Game Over, lansat in anul 2003, a avut un buget de 40000000 euro!
+1212: Filmul St. Trinian&#39;s, lansat in anul 2007, a avut un buget de 11400000 euro!
+1213: Filmul Stand By Me, lansat in anul 1986, a avut un buget de 8000000 euro!
+1214: Filmul Star Trek, lansat in anul 2009, a avut un buget de 140000000 euro!
+1215: Filmul Star Trek III: The Search for Spock, lansat in anul 1984, a avut un buget de 18000000 euro!
+1216: Filmul Star Trek Into Darkness, lansat in anul 2013, a avut un buget de 190000000 euro!
+1217: Filmul Star Trek V: The Final Frontier, lansat in anul 1989, a avut un buget de 30000000 euro!
+1218: Filmul Star Trek VI: The Undiscovered Country, lansat in anul 1991, a avut un buget de 27000000 euro!
+1219: Filmul Star Trek: First Contact, lansat in anul 1996, a avut un buget de 46000000 euro!
+1220: Filmul Star Trek: Insurrection, lansat in anul 1998, a avut un buget de 70000000 euro!
+1221: Filmul Star Trek: Nemesis, lansat in anul 2002, a avut un buget de 60000000 euro!
+1222: Filmul Star Trek: The Motion Picture, lansat in anul 1979, a avut un buget de 35000000 euro!
+1223: Filmul Star Trek: The Wrath of Khan, lansat in anul 1982, a avut un buget de 12000000 euro!
+1224: Filmul Star Wars, lansat in anul 1977, a avut un buget de 11000000 euro!
+1225: Filmul Star Wars: Episode I - The Phantom Menace, lansat in anul 1999, a avut un buget de 115000000 euro!
+1226: Filmul Star Wars: Episode II - Attack of the Clones, lansat in anul 2002, a avut un buget de 115000000 euro!
+1227: Filmul Star Wars: Episode III - Revenge of the Sith, lansat in anul 2005, a avut un buget de 115000000 euro!
+1228: Filmul Star Wars: Episode V - The Empire Strikes Back, lansat in anul 1980, a avut un buget de 23000000 euro!
+1229: Filmul Star Wars: Episode VI - Return of the Jedi, lansat in anul 1983, a avut un buget de 32500000 euro!
+1230: Filmul Stardust, lansat in anul 2007, a avut un buget de 70000000 euro!
+1231: Filmul Stargate, lansat in anul 1994, a avut un buget de 55000000 euro!
+1232: Filmul Stargate: The Ark of Truth, lansat in anul 2008, a avut un buget de 7000000 euro!
+1233: Filmul Starship Troopers, lansat in anul 1997, a avut un buget de 100000000 euro!
+1234: Filmul State of Play, lansat in anul 2009, a avut un buget de 60000000 euro!
+1235: Filmul Stealth, lansat in anul 2005, a avut un buget de 138000000 euro!
+1236: Filmul Step Brothers, lansat in anul 2008, a avut un buget de 65000000 euro!
+1237: Filmul Step Up Revolution, lansat in anul 2012, a avut un buget de 33000000 euro!
+1238: Filmul Stepmom, lansat in anul 1998, a avut un buget de 50000000 euro!
+1239: Filmul Stick It, lansat in anul 2006, a avut un buget de 20000000 euro!
+1240: Filmul Stranger Than Fiction, lansat in anul 2006, a avut un buget de 30000000 euro!
+1241: Filmul Strangers with Candy, lansat in anul 2005, a avut un buget de 2000000 euro!
+1242: Filmul Straw Dogs, lansat in anul 2011, a avut un buget de 25000000 euro!
+1243: Filmul Straw Dogs, lansat in anul 1971, a avut un buget de 25000000 euro!
+1244: Filmul Street Fighter, lansat in anul 1994, a avut un buget de 35000000 euro!
+1245: Filmul Striptease, lansat in anul 1996, a avut un buget de 50000000 euro!
+1246: Filmul Stuart Little, lansat in anul 1999, a avut un buget de 105000000 euro!
+1247: Filmul Submarine, lansat in anul 2010, a avut un buget de 1900000 euro!
+1248: Filmul Sucker Punch, lansat in anul 2011, a avut un buget de 75000000 euro!
+1249: Filmul Sunshine, lansat in anul 2007, a avut un buget de 40000000 euro!
+1250: Filmul Sunshine Cleaning, lansat in anul 2008, a avut un buget de 5000000 euro!
+1251: Filmul Super, lansat in anul 2010, a avut un buget de 2500000 euro!
+1252: Filmul Super 8, lansat in anul 2011, a avut un buget de 50000000 euro!
+1253: Filmul Super Mario Bros., lansat in anul 1993, a avut un buget de 42000000 euro!
+1254: Filmul Super Troopers, lansat in anul 2001, a avut un buget de 3000000 euro!
+1255: Filmul Superbad, lansat in anul 2007, a avut un buget de 17500000 euro!
+1256: Filmul Superman, lansat in anul 1978, a avut un buget de 55000000 euro!
+1257: Filmul Superman II, lansat in anul 1980, a avut un buget de 54000000 euro!
+1258: Filmul Superman III, lansat in anul 1983, a avut un buget de 39000000 euro!
+1259: Filmul Superman IV: The Quest for Peace, lansat in anul 1987, a avut un buget de 17000000 euro!
+1260: Filmul Superman Returns, lansat in anul 2006, a avut un buget de 232000000 euro!
+1261: Filmul Supporting Characters, lansat in anul 2012, a avut un buget de 60000 euro!
+1262: Filmul Surrogates, lansat in anul 2009, a avut un buget de 80000000 euro!
+1263: Filmul Swimming Pool, lansat in anul 2003, a avut un buget de 7800000 euro!
+1264: Filmul Sydney White, lansat in anul 2007, a avut un buget de 16500000 euro!
+1265: Filmul TMNT, lansat in anul 2007, a avut un buget de 35000000 euro!
+1266: Filmul TRON, lansat in anul 1982, a avut un buget de 17000000 euro!
+1267: Filmul Take Shelter, lansat in anul 2011, a avut un buget de 4750000 euro!
+1268: Filmul Take the Lead, lansat in anul 2006, a avut un buget de 30000000 euro!
+1269: Filmul Taken, lansat in anul 2008, a avut un buget de 25000000 euro!
+1270: Filmul Takers, lansat in anul 2010, a avut un buget de 32000000 euro!
+1271: Filmul Tangled, lansat in anul 2010, a avut un buget de 260000000 euro!
+1272: Filmul Tank Girl, lansat in anul 1995, a avut un buget de 25000000 euro!
+1273: Filmul Tarzan, lansat in anul 1999, a avut un buget de 145000000 euro!
+1274: Filmul Taxi Driver, lansat in anul 1976, a avut un buget de 1000000 euro!
+1275: Filmul Team America: World Police, lansat in anul 2004, a avut un buget de 20000000 euro!
+1276: Filmul Ted, lansat in anul 2012, a avut un buget de 50000000 euro!
+1277: Filmul Teenage Mutant Ninja Turtles II: The Secret of the Ooze, lansat in anul 1991, a avut un buget de 25000000 euro!
+1278: Filmul Teeth, lansat in anul 2007, a avut un buget de 2000000 euro!
+1279: Filmul Terminator 2: Judgement Day, lansat in anul 1991, a avut un buget de 100000000 euro!
+1280: Filmul Terminator 3: Rise of the Machines, lansat in anul 2003, a avut un buget de 170000000 euro!
+1281: Filmul Terminator Salvation, lansat in anul 2009, a avut un buget de 200000000 euro!
+1282: Filmul Texas Chainsaw 3D, lansat in anul 2013, a avut un buget de 20000000 euro!
+1283: Filmul Thank You for Smoking, lansat in anul 2005, a avut un buget de 7500000 euro!
+1284: Filmul That Thing You Do!, lansat in anul 1996, a avut un buget de 2500000 euro!
+1285: Filmul That&#39;s My Boy, lansat in anul 2012, a avut un buget de 67500000 euro!
+1286: Filmul The 13th Warrior, lansat in anul 1999, a avut un buget de 125000000 euro!
+1287: Filmul The 40 Year Old Virgin, lansat in anul 2005, a avut un buget de 26000000 euro!
+1288: Filmul The A-Team, lansat in anul 2010, a avut un buget de 110000000 euro!
+1289: Filmul The Abyss, lansat in anul 1989, a avut un buget de 70000000 euro!
+1290: Filmul The Addams Family, lansat in anul 1991, a avut un buget de 30000000 euro!
+1291: Filmul The Adjustment Bureau, lansat in anul 2011, a avut un buget de 50200000 euro!
+1292: Filmul The Adventures of Pluto Nash, lansat in anul 2002, a avut un buget de 100000000 euro!
+1293: Filmul The Adventures of Sharkboy and Lavagirl 3-D, lansat in anul 2005, a avut un buget de 50000000 euro!
+1294: Filmul The Adventures of Tintin, lansat in anul 2011, a avut un buget de 130000000 euro!
+1295: Filmul The Age of Innocence, lansat in anul 1993, a avut un buget de 34000000 euro!
+1296: Filmul The Amazing Spider-Man, lansat in anul 2012, a avut un buget de 220000000 euro!
+1297: Filmul The American President, lansat in anul 1995, a avut un buget de 62000000 euro!
+1298: Filmul The Amityville Horror, lansat in anul 2005, a avut un buget de 18500000 euro!
+1299: Filmul The Amityville Horror, lansat in anul 1979, a avut un buget de 18500000 euro!
+1300: Filmul The Ant Bully, lansat in anul 2006, a avut un buget de 45000000 euro!
+1301: Filmul The Artist, lansat in anul 2011, a avut un buget de 16000000 euro!
+1302: Filmul The Avengers, lansat in anul 2012, a avut un buget de 60000000 euro!
+1303: Filmul The Avengers, lansat in anul 1998, a avut un buget de 60000000 euro!
+1304: Filmul The Aviator, lansat in anul 2004, a avut un buget de 110000000 euro!
+1305: Filmul The Back-up Plan, lansat in anul 2010, a avut un buget de 35000000 euro!
+1306: Filmul The Ballad of Jack and Rose, lansat in anul 2005, a avut un buget de 1500000 euro!
+1307: Filmul The Banger Sisters, lansat in anul 2002, a avut un buget de 10000000 euro!
+1308: Filmul The Bank Job, lansat in anul 2008, a avut un buget de 20000000 euro!
+1309: Filmul The Beach, lansat in anul 2000, a avut un buget de 50000000 euro!
+1310: Filmul The Best Exotic Marigold Hotel, lansat in anul 2011, a avut un buget de 10000000 euro!
+1311: Filmul The Best Little Whorehouse in Texas, lansat in anul 1982, a avut un buget de 20500000 euro!
+1312: Filmul The Big Lebowski, lansat in anul 1998, a avut un buget de 15000000 euro!
+1313: Filmul The Big Wedding, lansat in anul 2013, a avut un buget de 32500000 euro!
+1314: Filmul The Blair Witch Project, lansat in anul 1999, a avut un buget de 600000 euro!
+1315: Filmul The Blind Side, lansat in anul 2009, a avut un buget de 35000000 euro!
+1316: Filmul The Blues Brothers, lansat in anul 1980, a avut un buget de 27000000 euro!
+1317: Filmul The Boat That Rocked, lansat in anul 2009, a avut un buget de 50000000 euro!
+1318: Filmul The Book Thief, lansat in anul 2013, a avut un buget de 19000000 euro!
+1319: Filmul The Boondock Saints, lansat in anul 1999, a avut un buget de 7000000 euro!
+1320: Filmul The Boondock Saints II: All Saints Day, lansat in anul 2009, a avut un buget de 8000000 euro!
+1321: Filmul The Bourne Identity, lansat in anul 2002, a avut un buget de 60000000 euro!
+1322: Filmul The Bourne Supremacy, lansat in anul 2004, a avut un buget de 85000000 euro!
+1323: Filmul The Box, lansat in anul 2009, a avut un buget de 25000000 euro!
+1324: Filmul The Break Up, lansat in anul 2006, a avut un buget de 52000000 euro!
+1325: Filmul The Bridges of Madison County, lansat in anul 1995, a avut un buget de 22000000 euro!
+1326: Filmul The Brothers Bloom, lansat in anul 2008, a avut un buget de 20000000 euro!
+1327: Filmul The Bucket List, lansat in anul 2007, a avut un buget de 45000000 euro!
+1328: Filmul The Butterfly Effect, lansat in anul 2004, a avut un buget de 13000000 euro!
+1329: Filmul The Cabin in the Woods, lansat in anul 2011, a avut un buget de 30000000 euro!
+1330: Filmul The Cable Guy, lansat in anul 1996, a avut un buget de 47000000 euro!
+1331: Filmul The Call, lansat in anul 2013, a avut un buget de 13000000 euro!
+1332: Filmul The Cell, lansat in anul 2000, a avut un buget de 35000000 euro!
+1333: Filmul The Chronicles of Narnia: Prince Caspian, lansat in anul 2008, a avut un buget de 225000000 euro!
+1334: Filmul The Chronicles of Narnia: The Voyage of the Dawn Treader, lansat in anul 2010, a avut un buget de 155000000 euro!
+1335: Filmul The Chronicles of Riddick, lansat in anul 2004, a avut un buget de 120000000 euro!
+1336: Filmul The City of Your Final Destination, lansat in anul 2009, a avut un buget de 8300000 euro!
+1337: Filmul The Clan of the Cave Bear, lansat in anul 1986, a avut un buget de 15000000 euro!
+1338: Filmul The Client, lansat in anul 1994, a avut un buget de 45000000 euro!
+1339: Filmul The Color Purple, lansat in anul 1985, a avut un buget de 15000000 euro!
+1340: Filmul The Conjuring, lansat in anul 2013, a avut un buget de 20000000 euro!
+1341: Filmul The Conspirator, lansat in anul 2010, a avut un buget de 25000000 euro!
+1342: Filmul The Constant Gardener, lansat in anul 2005, a avut un buget de 25500000 euro!
+1343: Filmul The Conversation, lansat in anul 1974, a avut un buget de 1600000 euro!
+1344: Filmul The Core, lansat in anul 2003, a avut un buget de 85000000 euro!
+1345: Filmul The Counselor, lansat in anul 2013, a avut un buget de 25000000 euro!
+1346: Filmul The Craft, lansat in anul 1996, a avut un buget de 15000000 euro!
+1347: Filmul The Crazies, lansat in anul 2010, a avut un buget de 19000000 euro!
+1348: Filmul The Croods, lansat in anul 2013, a avut un buget de 135000000 euro!
+1349: Filmul The Crying Game, lansat in anul 1992, a avut un buget de 4000000 euro!
+1350: Filmul The Curious Case of Benjamin Button, lansat in anul 2008, a avut un buget de 160000000 euro!
+1351: Filmul The Da Vinci Code, lansat in anul 2006, a avut un buget de 125000000 euro!
+1352: Filmul The Dangerous Lives of Altar Boys, lansat in anul 2002, a avut un buget de 12000000 euro!
+1353: Filmul The Dark Knight, lansat in anul 2008, a avut un buget de 185000000 euro!
+1354: Filmul The Dark Knight Rises, lansat in anul 2012, a avut un buget de 275000000 euro!
+1355: Filmul The Darkest Hour, lansat in anul 2011, a avut un buget de 34800000 euro!
+1356: Filmul The Day After Tomorrow, lansat in anul 2004, a avut un buget de 125000000 euro!
+1357: Filmul The Day the Earth Stood Still, lansat in anul 2008, a avut un buget de 80000000 euro!
+1358: Filmul The Dead Girl, lansat in anul 2006, a avut un buget de 3300000 euro!
+1359: Filmul The Debt, lansat in anul 2010, a avut un buget de 20000000 euro!
+1360: Filmul The Deer Hunter, lansat in anul 1978, a avut un buget de 15000000 euro!
+1361: Filmul The Departed, lansat in anul 2006, a avut un buget de 90000000 euro!
+1362: Filmul The Descent, lansat in anul 2005, a avut un buget de 7000000 euro!
+1363: Filmul The Devil Inside, lansat in anul 2012, a avut un buget de 1000000 euro!
+1364: Filmul The Devil Wears Prada, lansat in anul 2006, a avut un buget de 35000000 euro!
+1365: Filmul The Devil&#39;s Advocate, lansat in anul 1997, a avut un buget de 57000000 euro!
+1366: Filmul The Devil&#39;s Rejects, lansat in anul 2005, a avut un buget de 7000000 euro!
+1367: Filmul The Dictator, lansat in anul 2012, a avut un buget de 65000000 euro!
+1368: Filmul The Divide, lansat in anul 2011, a avut un buget de 3000000 euro!
+1369: Filmul The Emperor&#39;s New Groove, lansat in anul 2000, a avut un buget de 100000000 euro!
+1370: Filmul The English Patient, lansat in anul 1996, a avut un buget de 35000000 euro!
+1371: Filmul The Evil Dead, lansat in anul 1981, a avut un buget de 375000 euro!
+1372: Filmul The Exorcism of Emily Rose, lansat in anul 2005, a avut un buget de 18000000 euro!
+1373: Filmul The Exorcist, lansat in anul 1973, a avut un buget de 12000000 euro!
+1374: Filmul The Expendables, lansat in anul 2010, a avut un buget de 82000000 euro!
+1375: Filmul The Expendables 2, lansat in anul 2012, a avut un buget de 100000000 euro!
+1376: Filmul The Eye, lansat in anul 2008, a avut un buget de 12000000 euro!
+1377: Filmul The Faculty, lansat in anul 1998, a avut un buget de 15000000 euro!
+1378: Filmul The Family, lansat in anul 2013, a avut un buget de 30000000 euro!
+1379: Filmul The Fan, lansat in anul 1996, a avut un buget de 55000000 euro!
+1380: Filmul The Fast and the Furious, lansat in anul 2001, a avut un buget de 38000000 euro!
+1381: Filmul The Fifth Element, lansat in anul 1997, a avut un buget de 95000000 euro!
+1382: Filmul The Fifth Estate, lansat in anul 2013, a avut un buget de 26000000 euro!
+1383: Filmul The Fighter, lansat in anul 2010, a avut un buget de 11000000 euro!
+1384: Filmul The Final Destination, lansat in anul 2009, a avut un buget de 40000000 euro!
+1385: Filmul The First Wives Club, lansat in anul 1996, a avut un buget de 30000000 euro!
+1386: Filmul The Fog, lansat in anul 2005, a avut un buget de 18000000 euro!
+1387: Filmul The Fog, lansat in anul 1980, a avut un buget de 18000000 euro!
+1388: Filmul The Forbidden Kingdom, lansat in anul 2008, a avut un buget de 55000000 euro!
+1389: Filmul The Fountain, lansat in anul 2006, a avut un buget de 35000000 euro!
+1390: Filmul The Fourth Kind, lansat in anul 2009, a avut un buget de 10000000 euro!
+1391: Filmul The French Connection, lansat in anul 1971, a avut un buget de 2200000 euro!
+1392: Filmul The Frozen Ground, lansat in anul 2013, a avut un buget de 19200000 euro!
+1393: Filmul The Fugitive, lansat in anul 1993, a avut un buget de 44000000 euro!
+1394: Filmul The Future, lansat in anul 2011, a avut un buget de 1000000 euro!
+1395: Filmul The Game, lansat in anul 1997, a avut un buget de 50000000 euro!
+1396: Filmul The Ghost Writer, lansat in anul 2010, a avut un buget de 45000000 euro!
+1397: Filmul The Gift, lansat in anul 2000, a avut un buget de 10000000 euro!
+1398: Filmul The Girl with the Dragon Tattoo, lansat in anul 2011, a avut un buget de 90000000 euro!
+1399: Filmul The Girl with the Dragon Tattoo, lansat in anul 2009, a avut un buget de 90000000 euro!
+1400: Filmul The Girlfriend Experience, lansat in anul 2009, a avut un buget de 1300000 euro!
+1401: Filmul The Glass House, lansat in anul 2001, a avut un buget de 22000000 euro!
+1402: Filmul The Glimmer Man, lansat in anul 1996, a avut un buget de 45000000 euro!
+1403: Filmul The Godfather, lansat in anul 1972, a avut un buget de 7000000 euro!
+1404: Filmul The Godfather: Part II, lansat in anul 1974, a avut un buget de 13000000 euro!
+1405: Filmul The Golden Compass, lansat in anul 2007, a avut un buget de 205000000 euro!
+1406: Filmul The Good Girl, lansat in anul 2002, a avut un buget de 8000000 euro!
+1407: Filmul The Good Guy, lansat in anul 2009, a avut un buget de 10000000 euro!
+1408: Filmul The Great Gatsby, lansat in anul 2013, a avut un buget de 190000000 euro!
+1409: Filmul The Green Hornet, lansat in anul 2011, a avut un buget de 110000000 euro!
+1410: Filmul The Green Mile, lansat in anul 1999, a avut un buget de 60000000 euro!
+1411: Filmul The Grey, lansat in anul 2012, a avut un buget de 25000000 euro!
+1412: Filmul The Grudge, lansat in anul 2004, a avut un buget de 10000000 euro!
+1413: Filmul The Grudge 2, lansat in anul 2006, a avut un buget de 20000000 euro!
+1414: Filmul The Guard, lansat in anul 2011, a avut un buget de 6000000 euro!
+1415: Filmul The Hangover, lansat in anul 2009, a avut un buget de 35000000 euro!
+1416: Filmul The Hangover part 3, lansat in anul 2013, a avut un buget de 103000000 euro!
+1417: Filmul The Haunting, lansat in anul 1999, a avut un buget de 80000000 euro!
+1418: Filmul The Heat, lansat in anul 2013, a avut un buget de 43000000 euro!
+1419: Filmul The Help, lansat in anul 2011, a avut un buget de 25000000 euro!
+1420: Filmul The History Boys, lansat in anul 2006, a avut un buget de 3700000 euro!
+1421: Filmul The Hitchhiker&#39;s Guide to the Galaxy, lansat in anul 2005, a avut un buget de 45000000 euro!
+1422: Filmul The Hobbit: An Unexpected Journey, lansat in anul 2012, a avut un buget de 250000000 euro!
+1423: Filmul The Hobbit: The Desolation of Smaug, lansat in anul 2013, a avut un buget de 250000000 euro!
+1424: Filmul The Holiday, lansat in anul 2006, a avut un buget de 85000000 euro!
+1425: Filmul The Host, lansat in anul 2013, a avut un buget de 50000000 euro!
+1426: Filmul The Host, lansat in anul 2006, a avut un buget de 50000000 euro!
+1427: Filmul The Hours, lansat in anul 2002, a avut un buget de 25000000 euro!
+1428: Filmul The House Bunny, lansat in anul 2008, a avut un buget de 25000000 euro!
+1429: Filmul The Hudsucker Proxy, lansat in anul 1994, a avut un buget de 40000000 euro!
+1430: Filmul The Hunchback of Notre Dame, lansat in anul 1996, a avut un buget de 100000000 euro!
+1431: Filmul The Hunger Games, lansat in anul 2012, a avut un buget de 80000000 euro!
+1432: Filmul The Hunger Games: Catching Fire, lansat in anul 2013, a avut un buget de 130000000 euro!
+1433: Filmul The Hunt for Red October, lansat in anul 1990, a avut un buget de 30000000 euro!
+1434: Filmul The Hurt Locker, lansat in anul 2008, a avut un buget de 15000000 euro!
+1435: Filmul The Illusionist, lansat in anul 2010, a avut un buget de 16500000 euro!
+1436: Filmul The Illusionist, lansat in anul 2006, a avut un buget de 16500000 euro!
+1437: Filmul The Imaginarium of Doctor Parnassus, lansat in anul 2009, a avut un buget de 30000000 euro!
+1438: Filmul The Importance of Being Earnest, lansat in anul 2002, a avut un buget de 15000000 euro!
+1439: Filmul The Impossible, lansat in anul 2012, a avut un buget de 40000000 euro!
+1440: Filmul The Incredible Burt Wonderstone, lansat in anul 2013, a avut un buget de 32000000 euro!
+1441: Filmul The Incredible Hulk, lansat in anul 2008, a avut un buget de 137500000 euro!
+1442: Filmul The Incredibles, lansat in anul 2004, a avut un buget de 92000000 euro!
+1443: Filmul The Incredibly True Adventures of Two Girls in Love, lansat in anul 1995, a avut un buget de 250000 euro!
+1444: Filmul The Informant!, lansat in anul 2009, a avut un buget de 22000000 euro!
+1445: Filmul The Internship, lansat in anul 2013, a avut un buget de 58000000 euro!
+1446: Filmul The Invention of Lying, lansat in anul 2009, a avut un buget de 18500000 euro!
+1447: Filmul The Iron Giant, lansat in anul 1999, a avut un buget de 50000000 euro!
+1448: Filmul The Iron Lady, lansat in anul 2011, a avut un buget de 14000000 euro!
+1449: Filmul The Island, lansat in anul 2005, a avut un buget de 120000000 euro!
+1450: Filmul The Italian Job, lansat in anul 2003, a avut un buget de 60000000 euro!
+1451: Filmul The Jacket, lansat in anul 2005, a avut un buget de 28500000 euro!
+1452: Filmul The Jungle Book 2, lansat in anul 2003, a avut un buget de 20000000 euro!
+1453: Filmul The Karate Kid, lansat in anul 2010, a avut un buget de 40000000 euro!
+1454: Filmul The Karate Kid, lansat in anul 1984, a avut un buget de 40000000 euro!
+1455: Filmul The Kids Are All Right, lansat in anul 2010, a avut un buget de 4000000 euro!
+1456: Filmul The Killer Inside Me, lansat in anul 2010, a avut un buget de 13000000 euro!
+1457: Filmul The King&#39;s Speech, lansat in anul 2010, a avut un buget de 15000000 euro!
+1458: Filmul The Kite Runner, lansat in anul 2007, a avut un buget de 20000000 euro!
+1459: Filmul The Lake House, lansat in anul 2006, a avut un buget de 40000000 euro!
+1460: Filmul The Land Before Time, lansat in anul 1988, a avut un buget de 12300000 euro!
+1461: Filmul The Last Airbender, lansat in anul 2010, a avut un buget de 150000000 euro!
+1462: Filmul The Last Emperor, lansat in anul 1987, a avut un buget de 25000000 euro!
+1463: Filmul The Last Exorcism, lansat in anul 2010, a avut un buget de 1800000 euro!
+1464: Filmul The Last Exorcism Part II, lansat in anul 2013, a avut un buget de 4000000 euro!
+1465: Filmul The Last Samurai, lansat in anul 2003, a avut un buget de 140000000 euro!
+1466: Filmul The Last Station, lansat in anul 2009, a avut un buget de 18000000 euro!
+1467: Filmul The Last Temptation of Christ, lansat in anul 1988, a avut un buget de 7000000 euro!
+1468: Filmul The League of Extraordinary Gentlemen, lansat in anul 2003, a avut un buget de 78000000 euro!
+1469: Filmul The Legend of Suriyothai, lansat in anul 2001, a avut un buget de 9000000 euro!
+1470: Filmul The Legend of Zorro, lansat in anul 2005, a avut un buget de 80000000 euro!
+1471: Filmul The Life Aquatic with Steve Zissou, lansat in anul 2004, a avut un buget de 50000000 euro!
+1472: Filmul The Lincoln Lawyer, lansat in anul 2011, a avut un buget de 40000000 euro!
+1473: Filmul The Lion King, lansat in anul 1994, a avut un buget de 79300000 euro!
+1474: Filmul The Lone Ranger, lansat in anul 2013, a avut un buget de 275000000 euro!
+1475: Filmul The Long Kiss Goodnight, lansat in anul 1996, a avut un buget de 65000000 euro!
+1476: Filmul The Lord of the Rings: The Fellowship of the Ring, lansat in anul 2001, a avut un buget de 109000000 euro!
+1477: Filmul The Lord of the Rings: The Return of the King, lansat in anul 2003, a avut un buget de 94000000 euro!
+1478: Filmul The Lord of the Rings: The Two Towers, lansat in anul 2002, a avut un buget de 94000000 euro!
+1479: Filmul The Losers, lansat in anul 2010, a avut un buget de 25000000 euro!
+1480: Filmul The Lost Boys, lansat in anul 1987, a avut un buget de 8500000 euro!
+1481: Filmul The Lost World: Jurassic Park, lansat in anul 1997, a avut un buget de 75000000 euro!
+1482: Filmul The Lovely Bones, lansat in anul 2009, a avut un buget de 95000000 euro!
+1483: Filmul The Lucky Ones, lansat in anul 2008, a avut un buget de 14000000 euro!
+1484: Filmul The Majestic, lansat in anul 2001, a avut un buget de 72000000 euro!
+1485: Filmul The Man from Earth, lansat in anul 2007, a avut un buget de 200000 euro!
+1486: Filmul The Man in the Iron Mask, lansat in anul 1998, a avut un buget de 35000000 euro!
+1487: Filmul The Man with the Iron Fists, lansat in anul 2012, a avut un buget de 15000000 euro!
+1488: Filmul The Mask, lansat in anul 1994, a avut un buget de 18000000 euro!
+1489: Filmul The Mask of Zorro, lansat in anul 1998, a avut un buget de 65000000 euro!
+1490: Filmul The Master, lansat in anul 2012, a avut un buget de 37500000 euro!
+1491: Filmul The Matrix, lansat in anul 1999, a avut un buget de 65000000 euro!
+1492: Filmul The Matrix Reloaded, lansat in anul 2003, a avut un buget de 127000000 euro!
+1493: Filmul The Matrix Revolutions, lansat in anul 2003, a avut un buget de 110000000 euro!
+1494: Filmul The Mechanic, lansat in anul 2011, a avut un buget de 42500000 euro!
+1495: Filmul The Men Who Stare at Goats, lansat in anul 2009, a avut un buget de 24000000 euro!
+1496: Filmul The Messenger, lansat in anul 2009, a avut un buget de 6500000 euro!
+1497: Filmul The Messengers, lansat in anul 2007, a avut un buget de 16000000 euro!
+1498: Filmul The Mighty Ducks, lansat in anul 1992, a avut un buget de 10000000 euro!
+1499: Filmul The Mirror Has Two Faces, lansat in anul 1996, a avut un buget de 42000000 euro!
+1500: Filmul The Missing, lansat in anul 2003, a avut un buget de 65000000 euro!
+1501: Filmul The Mist, lansat in anul 2007, a avut un buget de 13000000 euro!
+1502: Filmul The Mortal Instruments: City of Bones, lansat in anul 2013, a avut un buget de 60000000 euro!
+1503: Filmul The Mummy, lansat in anul 1999, a avut un buget de 80000000 euro!
+1504: Filmul The Muppet Christmas Carol, lansat in anul 1992, a avut un buget de 12000000 euro!
+1505: Filmul The Muppets, lansat in anul 2011, a avut un buget de 45000000 euro!
+1506: Filmul The Naked Gun 2 1/2: The Smell of Fear, lansat in anul 1991, a avut un buget de 23000000 euro!
+1507: Filmul The Negotiator, lansat in anul 1998, a avut un buget de 50000000 euro!
+1508: Filmul The Net, lansat in anul 1995, a avut un buget de 22000000 euro!
+1509: Filmul The New World, lansat in anul 2005, a avut un buget de 30000000 euro!
+1510: Filmul The Next Three Days, lansat in anul 2010, a avut un buget de 30000000 euro!
+1511: Filmul The Notebook, lansat in anul 2004, a avut un buget de 30000000 euro!
+1512: Filmul The Number 23, lansat in anul 2007, a avut un buget de 32000000 euro!
+1513: Filmul The One, lansat in anul 2001, a avut un buget de 49000000 euro!
+1514: Filmul The Other Boleyn Girl, lansat in anul 2008, a avut un buget de 40000000 euro!
+1515: Filmul The Other Guys, lansat in anul 2010, a avut un buget de 100000000 euro!
+1516: Filmul The Others, lansat in anul 2001, a avut un buget de 17000000 euro!
+1517: Filmul The Painted Veil, lansat in anul 2006, a avut un buget de 19400000 euro!
+1518: Filmul The Patriot, lansat in anul 2000, a avut un buget de 110000000 euro!
+1519: Filmul The Peacemaker, lansat in anul 1997, a avut un buget de 50000000 euro!
+1520: Filmul The Phantom of the Opera, lansat in anul 2004, a avut un buget de 55000000 euro!
+1521: Filmul The Pirates! Band of Misfits, lansat in anul 2012, a avut un buget de 55000000 euro!
+1522: Filmul The Place Beyond the Pines, lansat in anul 2012, a avut un buget de 15000000 euro!
+1523: Filmul The Player, lansat in anul 1992, a avut un buget de 8000000 euro!
+1524: Filmul The Polar Express, lansat in anul 2004, a avut un buget de 170000000 euro!
+1525: Filmul The Postman, lansat in anul 1997, a avut un buget de 80000000 euro!
+1526: Filmul The Powerpuff Girls, lansat in anul 2002, a avut un buget de 25000000 euro!
+1527: Filmul The Prestige, lansat in anul 2006, a avut un buget de 40000000 euro!
+1528: Filmul The Prince of Egypt, lansat in anul 1998, a avut un buget de 60000000 euro!
+1529: Filmul The Princess Bride, lansat in anul 1987, a avut un buget de 15000000 euro!
+1530: Filmul The Princess Diaries, lansat in anul 2001, a avut un buget de 30000000 euro!
+1531: Filmul The Princess Diaries 2: Royal Engagement, lansat in anul 2004, a avut un buget de 45000000 euro!
+1532: Filmul The Princess and the Cobbler, lansat in anul 1993, a avut un buget de 24000000 euro!
+1533: Filmul The Princess and the Frog, lansat in anul 2009, a avut un buget de 105000000 euro!
+1534: Filmul The Proposal, lansat in anul 2009, a avut un buget de 40000000 euro!
+1535: Filmul The Proposition, lansat in anul 1998, a avut un buget de 20000000 euro!
+1536: Filmul The Purge, lansat in anul 2013, a avut un buget de 3000000 euro!
+1537: Filmul The Pursuit of Happyness, lansat in anul 2006, a avut un buget de 55000000 euro!
+1538: Filmul The Queen, lansat in anul 2006, a avut un buget de 15000000 euro!
+1539: Filmul The Quick and the Dead, lansat in anul 1995, a avut un buget de 32000000 euro!
+1540: Filmul The Quiet American, lansat in anul 2002, a avut un buget de 20000000 euro!
+1541: Filmul The Reader, lansat in anul 2008, a avut un buget de 32500000 euro!
+1542: Filmul The Remains of the Day, lansat in anul 1993, a avut un buget de 15000000 euro!
+1543: Filmul The Ring, lansat in anul 2002, a avut un buget de 48000000 euro!
+1544: Filmul The Ring Two, lansat in anul 2005, a avut un buget de 50000000 euro!
+1545: Filmul The Rite, lansat in anul 2011, a avut un buget de 37000000 euro!
+1546: Filmul The Road, lansat in anul 2009, a avut un buget de 25000000 euro!
+1547: Filmul The Road to El Dorado, lansat in anul 2000, a avut un buget de 95000000 euro!
+1548: Filmul The Rock, lansat in anul 1996, a avut un buget de 75000000 euro!
+1549: Filmul The Rocky Horror Picture Show, lansat in anul 1975, a avut un buget de 1200000 euro!
+1550: Filmul The Roommate, lansat in anul 2011, a avut un buget de 16000000 euro!
+1551: Filmul The Royal Tenenbaums, lansat in anul 2001, a avut un buget de 28000000 euro!
+1552: Filmul The Rules of Attraction, lansat in anul 2002, a avut un buget de 4000000 euro!
+1553: Filmul The Runaways, lansat in anul 2010, a avut un buget de 9500000 euro!
+1554: Filmul The Santa Clause, lansat in anul 1994, a avut un buget de 22000000 euro!
+1555: Filmul The Santa Clause 2, lansat in anul 2002, a avut un buget de 65000000 euro!
+1556: Filmul The Savages, lansat in anul 2007, a avut un buget de 9000000 euro!
+1557: Filmul The School of Rock, lansat in anul 2003, a avut un buget de 20000000 euro!
+1558: Filmul The Secret Life of Bees, lansat in anul 2008, a avut un buget de 11000000 euro!
+1559: Filmul The Secret of Kells, lansat in anul 2009, a avut un buget de 8000000 euro!
+1560: Filmul The Shadow, lansat in anul 1994, a avut un buget de 40000000 euro!
+1561: Filmul The Shawshank Redemption, lansat in anul 1994, a avut un buget de 25000000 euro!
+1562: Filmul The Shining, lansat in anul 1980, a avut un buget de 19000000 euro!
+1563: Filmul The Signal, lansat in anul 2007, a avut un buget de 50000 euro!
+1564: Filmul The Silence of the Lambs, lansat in anul 1991, a avut un buget de 20000000 euro!
+1565: Filmul The Simpsons Movie, lansat in anul 2007, a avut un buget de 72500000 euro!
+1566: Filmul The Sisterhood of the Traveling Pants 2, lansat in anul 2008, a avut un buget de 27000000 euro!
+1567: Filmul The Sixth Sense, lansat in anul 1999, a avut un buget de 40000000 euro!
+1568: Filmul The Skeleton Key, lansat in anul 2005, a avut un buget de 40000000 euro!
+1569: Filmul The Smurfs, lansat in anul 2011, a avut un buget de 110000000 euro!
+1570: Filmul The Smurfs 2, lansat in anul 2013, a avut un buget de 110000000 euro!
+1571: Filmul The Social Network, lansat in anul 2010, a avut un buget de 40000000 euro!
+1572: Filmul The Soloist, lansat in anul 2009, a avut un buget de 60000000 euro!
+1573: Filmul The Sorcerer&#39;s Apprentice, lansat in anul 2010, a avut un buget de 160000000 euro!
+1574: Filmul The Specialist, lansat in anul 1994, a avut un buget de 45000000 euro!
+1575: Filmul The Spy Next Door, lansat in anul 2010, a avut un buget de 28000000 euro!
+1576: Filmul The Squid and the Whale, lansat in anul 2005, a avut un buget de 1500000 euro!
+1577: Filmul The Stepford Wives, lansat in anul 2004, a avut un buget de 100000000 euro!
+1578: Filmul The Sting, lansat in anul 1973, a avut un buget de 5500000 euro!
+1579: Filmul The Strangers, lansat in anul 2008, a avut un buget de 9000000 euro!
+1580: Filmul The Sweetest Thing, lansat in anul 2002, a avut un buget de 43000000 euro!
+1581: Filmul The Switch, lansat in anul 2010, a avut un buget de 19000000 euro!
+1582: Filmul The Taking of Pelham 123, lansat in anul 2009, a avut un buget de 110000000 euro!
+1583: Filmul The Tale of Despereaux, lansat in anul 2008, a avut un buget de 60000000 euro!
+1584: Filmul The Talented Mr. Ripley, lansat in anul 1999, a avut un buget de 40000000 euro!
+1585: Filmul The Tempest, lansat in anul 2010, a avut un buget de 20000000 euro!
+1586: Filmul The Terminal, lansat in anul 2004, a avut un buget de 75000000 euro!
+1587: Filmul The Terminator, lansat in anul 1984, a avut un buget de 6400000 euro!
+1588: Filmul The Texas Chain Saw Massacre, lansat in anul 1974, a avut un buget de 140000 euro!
+1589: Filmul The Thin Red Line, lansat in anul 1998, a avut un buget de 52000000 euro!
+1590: Filmul The Three Musketeers, lansat in anul 2011, a avut un buget de 90000000 euro!
+1591: Filmul The Time Traveler&#39;s Wife, lansat in anul 2009, a avut un buget de 39000000 euro!
+1592: Filmul The To Do List, lansat in anul 2013, a avut un buget de 1500000 euro!
+1593: Filmul The Tourist, lansat in anul 2010, a avut un buget de 100000000 euro!
+1594: Filmul The Towering Inferno, lansat in anul 1974, a avut un buget de 140000 euro!
+1595: Filmul The Town, lansat in anul 2010, a avut un buget de 37000000 euro!
+1596: Filmul The Transporter, lansat in anul 2002, a avut un buget de 21000000 euro!
+1597: Filmul The Tree of Life, lansat in anul 2011, a avut un buget de 35000000 euro!
+1598: Filmul The Truman Show, lansat in anul 1998, a avut un buget de 60000000 euro!
+1599: Filmul The Tuxedo, lansat in anul 2002, a avut un buget de 60000000 euro!
+1600: Filmul The Twilight Saga: Breaking Dawn - Part 1, lansat in anul 2011, a avut un buget de 127500000 euro!
+1601: Filmul The Twilight Saga: Breaking Dawn - Part 2, lansat in anul 2012, a avut un buget de 136200000 euro!
+1602: Filmul The Twilight Saga: Eclipse, lansat in anul 2010, a avut un buget de 68000000 euro!
+1603: Filmul The Ugly Truth, lansat in anul 2009, a avut un buget de 38000000 euro!
+1604: Filmul The Unborn, lansat in anul 2009, a avut un buget de 16000000 euro!
+1605: Filmul The Usual Suspects, lansat in anul 1995, a avut un buget de 6000000 euro!
+1606: Filmul The Village, lansat in anul 2004, a avut un buget de 71682975 euro!
+1607: Filmul The Visitor, lansat in anul 2007, a avut un buget de 4000000 euro!
+1608: Filmul The Vow, lansat in anul 2012, a avut un buget de 8738320 euro!
+1609: Filmul The Watch, lansat in anul 2012, a avut un buget de 55000000 euro!
+1610: Filmul The Way Way Back, lansat in anul 2013, a avut un buget de 5000000 euro!
+1611: Filmul The Way of the Gun, lansat in anul 2000, a avut un buget de 9000000 euro!
+1612: Filmul The Wedding Date, lansat in anul 2005, a avut un buget de 15000000 euro!
+1613: Filmul The Wedding Planner, lansat in anul 2001, a avut un buget de 28000000 euro!
+1614: Filmul The Whole Nine Yards, lansat in anul 2000, a avut un buget de 24000000 euro!
+1615: Filmul The Whole Ten Yards, lansat in anul 2004, a avut un buget de 30000000 euro!
+1616: Filmul The Wind That Shakes the Barley, lansat in anul 2006, a avut un buget de 8300000 euro!
+1617: Filmul The Wolf of Wall Street, lansat in anul 2013, a avut un buget de 100000000 euro!
+1618: Filmul The Wolfman, lansat in anul 2010, a avut un buget de 150000000 euro!
+1619: Filmul The Wolverine, lansat in anul 2013, a avut un buget de 115000000 euro!
+1620: Filmul The Woman in Black, lansat in anul 2012, a avut un buget de 15000000 euro!
+1621: Filmul The Women, lansat in anul 2008, a avut un buget de 16000000 euro!
+1622: Filmul The Words, lansat in anul 2012, a avut un buget de 6000000 euro!
+1623: Filmul The World&#39;s End, lansat in anul 2013, a avut un buget de 20000000 euro!
+1624: Filmul The Wrestler, lansat in anul 2008, a avut un buget de 6000000 euro!
+1625: Filmul The Young Victoria, lansat in anul 2009, a avut un buget de 35000000 euro!
+1626: Filmul There Will Be Blood, lansat in anul 2007, a avut un buget de 25000000 euro!
+1627: Filmul There&#39;s Something About Mary, lansat in anul 1998, a avut un buget de 22000000 euro!
+1628: Filmul They Live, lansat in anul 1988, a avut un buget de 4000000 euro!
+1629: Filmul Think Like a Man, lansat in anul 2012, a avut un buget de 12000000 euro!
+1630: Filmul Thir13en Ghosts, lansat in anul 2001, a avut un buget de 19000000 euro!
+1631: Filmul Thirteen, lansat in anul 2003, a avut un buget de 2000000 euro!
+1632: Filmul Thirteen days, lansat in anul 2000, a avut un buget de 80000000 euro!
+1633: Filmul This Is the End, lansat in anul 2013, a avut un buget de 32000000 euro!
+1634: Filmul Thor, lansat in anul 2011, a avut un buget de 150000000 euro!
+1635: Filmul Thor: The Dark World, lansat in anul 2013, a avut un buget de 170000000 euro!
+1636: Filmul Three Kingdoms: Resurrection of the Dragon, lansat in anul 2008, a avut un buget de 20000000 euro!
+1637: Filmul Three to Tango, lansat in anul 1999, a avut un buget de 20000000 euro!
+1638: Filmul Time Bandits, lansat in anul 1981, a avut un buget de 12000000 euro!
+1639: Filmul Timecop, lansat in anul 1994, a avut un buget de 28000000 euro!
+1640: Filmul Timeline, lansat in anul 2003, a avut un buget de 80000000 euro!
+1641: Filmul Tinker Tailor Soldier Spy, lansat in anul 2011, a avut un buget de 21000000 euro!
+1642: Filmul Tiny Furniture, lansat in anul 2010, a avut un buget de 50000 euro!
+1643: Filmul Titan A.E., lansat in anul 2000, a avut un buget de 75000000 euro!
+1644: Filmul Titanic, lansat in anul 1997, a avut un buget de 200000000 euro!
+1645: Filmul To Rome With Love, lansat in anul 2012, a avut un buget de 21500000 euro!
+1646: Filmul Tombstone, lansat in anul 1993, a avut un buget de 25000000 euro!
+1647: Filmul Tootsie, lansat in anul 1982, a avut un buget de 15000000 euro!
+1648: Filmul Top Gun, lansat in anul 1986, a avut un buget de 15000000 euro!
+1649: Filmul Topsy-Turvy, lansat in anul 1999, a avut un buget de 20000000 euro!
+1650: Filmul Total Recall, lansat in anul 2012, a avut un buget de 125000000 euro!
+1651: Filmul Total Recall, lansat in anul 1990, a avut un buget de 125000000 euro!
+1652: Filmul Tower Heist, lansat in anul 2011, a avut un buget de 85000000 euro!
+1653: Filmul Toy Story, lansat in anul 1995, a avut un buget de 30000000 euro!
+1654: Filmul Toy Story 2, lansat in anul 1999, a avut un buget de 90000000 euro!
+1655: Filmul Toy Story 3, lansat in anul 2010, a avut un buget de 200000000 euro!
+1656: Filmul Training Day, lansat in anul 2001, a avut un buget de 45000000 euro!
+1657: Filmul Trainspotting, lansat in anul 1996, a avut un buget de 3100000 euro!
+1658: Filmul Trance, lansat in anul 2013, a avut un buget de 16000000 euro!
+1659: Filmul Transamerica, lansat in anul 2005, a avut un buget de 1000000 euro!
+1660: Filmul Transformers, lansat in anul 2007, a avut un buget de 151000000 euro!
+1661: Filmul Transformers: Dark of the Moon, lansat in anul 2011, a avut un buget de 195000000 euro!
+1662: Filmul Transformers: Revenge of the Fallen, lansat in anul 2009, a avut un buget de 210000000 euro!
+1663: Filmul Transsiberian, lansat in anul 2008, a avut un buget de 15000000 euro!
+1664: Filmul Treasure Planet, lansat in anul 2002, a avut un buget de 100000000 euro!
+1665: Filmul Tremors, lansat in anul 1990, a avut un buget de 10000000 euro!
+1666: Filmul Tristram Shandy: A Cock and Bull Story, lansat in anul 2005, a avut un buget de 4750000 euro!
+1667: Filmul Tron Legacy, lansat in anul 2010, a avut un buget de 200000000 euro!
+1668: Filmul Troop Beverly Hills, lansat in anul 1989, a avut un buget de 18000000 euro!
+1669: Filmul Tropa de Elite, lansat in anul 2007, a avut un buget de 6537890 euro!
+1670: Filmul Tropic Thunder, lansat in anul 2008, a avut un buget de 90000000 euro!
+1671: Filmul Troy, lansat in anul 2004, a avut un buget de 150000000 euro!
+1672: Filmul True Grit, lansat in anul 2010, a avut un buget de 35000000 euro!
+1673: Filmul True Lies, lansat in anul 1994, a avut un buget de 100000000 euro!
+1674: Filmul Tuck Everlasting, lansat in anul 2002, a avut un buget de 15000000 euro!
+1675: Filmul Tucker and Dale vs Evil, lansat in anul 2010, a avut un buget de 5000000 euro!
+1676: Filmul Turbo, lansat in anul 2013, a avut un buget de 135000000 euro!
+1677: Filmul Twelve Monkeys, lansat in anul 1995, a avut un buget de 29000000 euro!
+1678: Filmul Twilight, lansat in anul 2008, a avut un buget de 37000000 euro!
+1679: Filmul Twins, lansat in anul 1988, a avut un buget de 15000000 euro!
+1680: Filmul Twister, lansat in anul 1996, a avut un buget de 88000000 euro!
+1681: Filmul Two Weeks Notice, lansat in anul 2002, a avut un buget de 60000000 euro!
+1682: Filmul UHF, lansat in anul 1989, a avut un buget de 5000000 euro!
+1683: Filmul Ultraviolet, lansat in anul 2006, a avut un buget de 30000000 euro!
+1684: Filmul Unbreakable, lansat in anul 2000, a avut un buget de 73243106 euro!
+1685: Filmul Undead, lansat in anul 2003, a avut un buget de 750000 euro!
+1686: Filmul Underworld, lansat in anul 2003, a avut un buget de 22000000 euro!
+1687: Filmul Underworld: Awakening, lansat in anul 2012, a avut un buget de 70000000 euro!
+1688: Filmul Unstoppable, lansat in anul 2010, a avut un buget de 95000000 euro!
+1689: Filmul Up, lansat in anul 2009, a avut un buget de 175000000 euro!
+1690: Filmul Up in the Air, lansat in anul 2009, a avut un buget de 30000000 euro!
+1691: Filmul Urban Legend, lansat in anul 1998, a avut un buget de 14000000 euro!
+1692: Filmul Urbania, lansat in anul 2000, a avut un buget de 225000 euro!
+1693: Filmul V for Vendetta, lansat in anul 2005, a avut un buget de 50000000 euro!
+1694: Filmul Valentine, lansat in anul 2001, a avut un buget de 10000000 euro!
+1695: Filmul Valentine&#39;s Day, lansat in anul 2010, a avut un buget de 52000000 euro!
+1696: Filmul Valkyrie, lansat in anul 2008, a avut un buget de 90000000 euro!
+1697: Filmul Vampires (John Carpenter&#39;s), lansat in anul 1998, a avut un buget de 20000000 euro!
+1698: Filmul Van Helsing, lansat in anul 2004, a avut un buget de 170000000 euro!
+1699: Filmul Vanilla Sky, lansat in anul 2001, a avut un buget de 70000000 euro!
+1700: Filmul Velvet Goldmine, lansat in anul 1998, a avut un buget de 9000000 euro!
+1701: Filmul Vera Drake, lansat in anul 2004, a avut un buget de 11000000 euro!
+1702: Filmul Veronika Decides to Die, lansat in anul 2009, a avut un buget de 9000000 euro!
+1703: Filmul Vertical Limit, lansat in anul 2000, a avut un buget de 75000000 euro!
+1704: Filmul Vicky Cristina Barcelona, lansat in anul 2008, a avut un buget de 16000000 euro!
+1705: Filmul Videodrome, lansat in anul 1983, a avut un buget de 5952000 euro!
+1706: Filmul Virus, lansat in anul 1999, a avut un buget de 75000000 euro!
+1707: Filmul Volcano, lansat in anul 1997, a avut un buget de 90000000 euro!
+1708: Filmul Volver, lansat in anul 2006, a avut un buget de 9400000 euro!
+1709: Filmul WALL-E, lansat in anul 2008, a avut un buget de 180000000 euro!
+1710: Filmul Waiting..., lansat in anul 2005, a avut un buget de 1125000 euro!
+1711: Filmul Waitress, lansat in anul 2007, a avut un buget de 1500000 euro!
+1712: Filmul Walk the Line, lansat in anul 2005, a avut un buget de 29000000 euro!
+1713: Filmul Walking and Talking, lansat in anul 1996, a avut un buget de 1000000 euro!
+1714: Filmul Wall Street: Money Never Sleeps, lansat in anul 2010, a avut un buget de 70000000 euro!
+1715: Filmul Waltz with Bashir, lansat in anul 2008, a avut un buget de 2000000 euro!
+1716: Filmul Wanderlust, lansat in anul 2012, a avut un buget de 32500000 euro!
+1717: Filmul Wanted, lansat in anul 2008, a avut un buget de 75000000 euro!
+1718: Filmul War Horse, lansat in anul 2011, a avut un buget de 70000000 euro!
+1719: Filmul War of the Worlds, lansat in anul 2005, a avut un buget de 132000000 euro!
+1720: Filmul WarGames, lansat in anul 1983, a avut un buget de 12000000 euro!
+1721: Filmul Warm Bodies, lansat in anul 2013, a avut un buget de 30000000 euro!
+1722: Filmul Warrior, lansat in anul 2011, a avut un buget de 25000000 euro!
+1723: Filmul Watchmen, lansat in anul 2009, a avut un buget de 138000000 euro!
+1724: Filmul Water, lansat in anul 2005, a avut un buget de 3000000 euro!
+1725: Filmul Waterworld, lansat in anul 1995, a avut un buget de 175000000 euro!
+1726: Filmul Wayne&#39;s World, lansat in anul 1992, a avut un buget de 20000000 euro!
+1727: Filmul We Are Marshall, lansat in anul 2006, a avut un buget de 65000000 euro!
+1728: Filmul We Bought a Zoo, lansat in anul 2011, a avut un buget de 50000000 euro!
+1729: Filmul We Own the Night, lansat in anul 2007, a avut un buget de 28000000 euro!
+1730: Filmul We Were Soldiers, lansat in anul 2002, a avut un buget de 70000000 euro!
+1731: Filmul We&#39;re the Millers, lansat in anul 2013, a avut un buget de 37000000 euro!
+1732: Filmul Weekend, lansat in anul 2011, a avut un buget de 190000 euro!
+1733: Filmul Welcome to the Dollhouse, lansat in anul 1995, a avut un buget de 800000 euro!
+1734: Filmul Welcome to the Rileys, lansat in anul 2010, a avut un buget de 10000000 euro!
+1735: Filmul Wendy and Lucy, lansat in anul 2008, a avut un buget de 300000 euro!
+1736: Filmul Whale Rider, lansat in anul 2002, a avut un buget de 4300000 euro!
+1737: Filmul What Happens In Vegas, lansat in anul 2008, a avut un buget de 35000000 euro!
+1738: Filmul What Lies Beneath, lansat in anul 2000, a avut un buget de 90000000 euro!
+1739: Filmul What Women Want, lansat in anul 2000, a avut un buget de 65000000 euro!
+1740: Filmul What to Expect When You&#39;re Expecting, lansat in anul 2012, a avut un buget de 37500000 euro!
+1741: Filmul What&#39;s Your Number, lansat in anul 2011, a avut un buget de 20000000 euro!
+1742: Filmul Whatever Works, lansat in anul 2009, a avut un buget de 15000000 euro!
+1743: Filmul When a Stranger Calls, lansat in anul 2006, a avut un buget de 15000000 euro!
+1744: Filmul When the Cat&#39;s Away, lansat in anul 1996, a avut un buget de 300000 euro!
+1745: Filmul Where the Heart Is, lansat in anul 2000, a avut un buget de 15000000 euro!
+1746: Filmul Where the Wild Things Are, lansat in anul 2009, a avut un buget de 100000000 euro!
+1747: Filmul Whip It, lansat in anul 2009, a avut un buget de 15000000 euro!
+1748: Filmul White Chicks, lansat in anul 2004, a avut un buget de 20000000 euro!
+1749: Filmul White Fang, lansat in anul 1991, a avut un buget de 14000000 euro!
+1750: Filmul White House Down, lansat in anul 2013, a avut un buget de 150000000 euro!
+1751: Filmul White Noise, lansat in anul 2005, a avut un buget de 10000000 euro!
+1752: Filmul White Noise 2: The Light, lansat in anul 2007, a avut un buget de 10000000 euro!
+1753: Filmul White Oleander, lansat in anul 2002, a avut un buget de 16000000 euro!
+1754: Filmul Whiteout, lansat in anul 2009, a avut un buget de 35000000 euro!
+1755: Filmul Who Framed Roger Rabbit, lansat in anul 1988, a avut un buget de 70000000 euro!
+1756: Filmul Wild Target, lansat in anul 2010, a avut un buget de 8000000 euro!
+1757: Filmul Wild Things, lansat in anul 1998, a avut un buget de 20000000 euro!
+1758: Filmul Wild Wild West, lansat in anul 1999, a avut un buget de 175000000 euro!
+1759: Filmul Willy Wonka &amp; the Chocolate Factory, lansat in anul 1971, a avut un buget de 3000000 euro!
+1760: Filmul Wimbledon, lansat in anul 2004, a avut un buget de 35000000 euro!
+1761: Filmul Wing Commander, lansat in anul 1999, a avut un buget de 30000000 euro!
+1762: Filmul Winnie the Pooh, lansat in anul 2011, a avut un buget de 30000000 euro!
+1763: Filmul Winter&#39;s Bone, lansat in anul 2010, a avut un buget de 2000000 euro!
+1764: Filmul Womb, lansat in anul 2010, a avut un buget de 13000000 euro!
+1765: Filmul Won&#39;t Back Down, lansat in anul 2012, a avut un buget de 19000000 euro!
+1766: Filmul World War Z, lansat in anul 2013, a avut un buget de 190000000 euro!
+1767: Filmul Wrath of the Titans, lansat in anul 2012, a avut un buget de 150000000 euro!
+1768: Filmul Wreck-It Ralph, lansat in anul 2012, a avut un buget de 165000000 euro!
+1769: Filmul Wristcutters: A Love Story, lansat in anul 2006, a avut un buget de 1000000 euro!
+1770: Filmul Wrong Turn, lansat in anul 2003, a avut un buget de 10000000 euro!
+1771: Filmul X-Men, lansat in anul 2000, a avut un buget de 75000000 euro!
+1772: Filmul X-Men Origins: Wolverine, lansat in anul 2009, a avut un buget de 150000000 euro!
+1773: Filmul X-Men: First Class, lansat in anul 2011, a avut un buget de 160000000 euro!
+1774: Filmul X-Men: The Last Stand, lansat in anul 2006, a avut un buget de 210000000 euro!
+1775: Filmul X2 (X-Men 2), lansat in anul 2003, a avut un buget de 125000000 euro!
+1776: Filmul Yes Man, lansat in anul 2008, a avut un buget de 50000000 euro!
+1777: Filmul Yesterday Was a Lie, lansat in anul 2009, a avut un buget de 200000 euro!
+1778: Filmul Yogi Bear, lansat in anul 2010, a avut un buget de 80000000 euro!
+1779: Filmul You Again, lansat in anul 2010, a avut un buget de 20000000 euro!
+1780: Filmul You Will Meet a Tall Dark Stranger, lansat in anul 2010, a avut un buget de 15000000 euro!
+1781: Filmul You&#39;ve Got Mail, lansat in anul 1998, a avut un buget de 65000000 euro!
+1782: Filmul Young Adult, lansat in anul 2011, a avut un buget de 12000000 euro!
+1783: Filmul Young Frankenstein, lansat in anul 1974, a avut un buget de 2800000 euro!
+1784: Filmul Young Guns, lansat in anul 1988, a avut un buget de 13000000 euro!
+1785: Filmul Your Sister&#39;s Sister, lansat in anul 2011, a avut un buget de 120000 euro!
+1786: Filmul Youth in Revolt, lansat in anul 2009, a avut un buget de 18000000 euro!
+1787: Filmul Zathura: A Space Adventure, lansat in anul 2005, a avut un buget de 65000000 euro!
+1788: Filmul Zero Dark Thirty, lansat in anul 2012, a avut un buget de 52500000 euro!
+1789: Filmul Zombieland, lansat in anul 2009, a avut un buget de 23600000 euro!
+1790: Filmul Zoolander, lansat in anul 2001, a avut un buget de 28000000 euro!
+1791: Filmul Zoom, lansat in anul 2006, a avut un buget de 35000000 euro!
+1792: Filmul Zwartboek, lansat in anul 2006, a avut un buget de 22000000 euro!
+1793: Filmul [Rec], lansat in anul 2007, a avut un buget de 2100000 euro!
+1794: Filmul xXx, lansat in anul 2002, a avut un buget de 70000000 euro!

@@ -1,0 +1,7 @@
+mere,2.5
+pere,3.5
+prune,4
+cirese,5
+capsuni,7.6
+visine,6.3
+portocale,3

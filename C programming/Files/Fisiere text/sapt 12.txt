@@ -1,0 +1,370 @@
+#include <stdio.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
+
+#define TITLE_SIZE 256
+#define LINE_SIZE 4096
+
+typedef struct
+{
+    uint16_t year;
+    char title[TITLE_SIZE + 1];
+    uint32_t buget;
+} MOVIE;
+
+void printfMovie(const MOVIE *m)
+{
+    printf("year: %d ", m->year);
+    printf("title: %s ", m->title);
+    printf("buget: %d", m->buget);
+    printf("\n");
+}
+
+int processMovie(char *line, MOVIE *m)
+{
+    char *p;
+    if ((p = strtok(line, ",")) == NULL)
+    {
+        return -1;
+    }
+    for (int i = 0; i < 7; i++)
+    {
+        switch (i)
+        {
+        case 0:
+        {
+            m->year = strtol(p, NULL, 10);
+            break;
+        }
+        case 2:
+        {
+            strcpy(m->title, p);
+            break;
+        }
+        case 6:
+        {
+            m->buget = strtol(p, NULL, 10);
+            break;
+        }
+        }
+        if ((p = strtok(NULL, " ")) == NULL)
+        {
+            return -1;
+        }
+    }
+    return 0;
+}
+
+int main(void)
+{
+    /*
+    fisier binar
+    uint32_t n[100];
+    FILE *f;
+    int r = 0;
+
+    if ((f = fopen("integers.bin", "rb")) == NULL)
+    {
+        perror(NULL);
+        exit(-1);
+    }
+
+    while ((r = fread(&n, sizeof(uint32_t), 100, f)) > 0)
+    {
+        for(int i = 0; i < r; i++)
+        {
+            printf("%08X\n", n[i]);
+        }
+    }
+
+    if (fclose(f) != 0)
+    {
+        perror(NULL);
+        exit(-1);
+    }
+    */
+
+    /*
+    fisier bmp
+     FILE *f;
+     uint8_t buffer[2];
+     uint32_t bmp_size, header_size, height, width;
+
+     if ((f = fopen("electro.bmp", "rb")) == NULL)
+     {
+         perror(NULL);
+         exit(-1);
+     }
+
+     if (fread(buffer, sizeof(uint8_t), 2, f) != 2)
+     {
+         printf("BMP error\n");
+         exit(-2);
+     }
+
+     if (fread(&bmp_size, sizeof(uint32_t), 1, f) != 1)
+     {
+         printf("BMP error\n");
+         exit(-2);
+     }
+
+     if (fseek(f, 0x0E, SEEK_SET) != 0)
+     {
+         perror(NULL);
+         exit(-2);
+     }
+
+     if (fread(&header_size, sizeof(uint32_t), 1, f) != 1)
+     {
+         printf("BMP error\n");
+         exit(-2);
+     }
+
+     if (fread(&width, sizeof(uint32_t), 1, f) != 1)
+     {
+         printf("BMP error\n");
+         exit(-2);
+     }
+
+     if (fread(&height, sizeof(uint32_t), 1, f) != 1)
+     {
+         printf("BMP error\n");
+         exit(-2);
+     }
+
+     if (fclose(f) != 0)
+     {
+         perror(NULL);
+         exit(-1);
+     }
+
+     for (int i = 0; i < 2; i++)
+     {
+         printf("%02X - %c\n", buffer[i], buffer[i]);
+     }
+
+     printf("BMP file size: %d\n", bmp_size);
+
+     printf("Header size: %d\n", header_size);
+
+     printf("Resolution: %dx%d\n", width, height);
+     */
+
+    FILE *f;
+    char line[LINE_SIZE];
+    MOVIE auxMovie;
+
+    if ((f = fopen("movies.csv", "r")) == NULL)
+    {
+        perror(NULL);
+        exit(-1);
+    }
+
+    while (fgets(line, LINE_SIZE, f) != NULL)
+    {
+        if (processMovie(line, &auxMovie) == 0)
+        {
+            printfMovie(&auxMovie);
+        }
+    }
+
+    if (fclose(f) != 0)
+    {
+        perror(NULL);
+        exit(-1);
+    }
+
+    return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#include <stdio.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
+
+#define TITLE_SIZE 256
+#define LINE_SIZE 4096
+
+typedef struct
+{
+    uint16_t year;
+    char title[TITLE_SIZE + 1];
+    uint32_t buget;
+} MOVIE;
+
+void printfMovie(const MOVIE *m)
+{
+    printf("year: %d ", m->year);
+    printf("title: %s ", m->title);
+    printf("buget: %d", m->buget);
+    printf("\n");
+}
+
+int processMovie(char *line, MOVIE *m)
+{
+    char *p;
+    if ((p = strtok(line, ",")) == NULL)
+    {
+        return -1;
+    }
+    for (int i = 0; i < 7; i++)
+    {
+        switch (i)
+        {
+        case 0:
+        {
+            m->year = strtol(p, NULL, 10);
+            break;
+        }
+        case 2:
+        {
+            strcpy(m->title, p);
+            break;
+        }
+        case 6:
+        {
+            m->buget = strtol(p, NULL, 10);
+            break;
+        }
+        }
+        if ((p = strtok(NULL, ",")) == NULL)
+        {
+            return -1;
+        }
+    }
+    return 0;
+}
+
+int main(void)
+{
+    /*
+    fisier binar
+    uint32_t n[100];
+    FILE *f;
+    int r = 0;
+
+    if ((f = fopen("integers.bin", "rb")) == NULL)
+    {
+        perror(NULL);
+        exit(-1);
+    }
+
+    while ((r = fread(&n, sizeof(uint32_t), 100, f)) > 0)
+    {
+        for(int i = 0; i < r; i++)
+        {
+            printf("%08X\n", n[i]);
+        }
+    }
+
+    if (fclose(f) != 0)
+    {
+        perror(NULL);
+        exit(-1);
+    }
+    */
+
+    /*
+    fisier bmp
+     FILE *f;
+     uint8_t buffer[2];
+     uint32_t bmp_size, header_size, height, width;
+
+     if ((f = fopen("electro.bmp", "rb")) == NULL)
+     {
+         perror(NULL);
+         exit(-1);
+     }
+
+     if (fread(buffer, sizeof(uint8_t), 2, f) != 2)
+     {
+         printf("BMP error\n");
+         exit(-2);
+     }
+
+     if (fread(&bmp_size, sizeof(uint32_t), 1, f) != 1)
+     {
+         printf("BMP error\n");
+         exit(-2);
+     }
+
+     if (fseek(f, 0x0E, SEEK_SET) != 0)
+     {
+         perror(NULL);
+         exit(-2);
+     }
+
+     if (fread(&header_size, sizeof(uint32_t), 1, f) != 1)
+     {
+         printf("BMP error\n");
+         exit(-2);
+     }
+
+     if (fread(&width, sizeof(uint32_t), 1, f) != 1)
+     {
+         printf("BMP error\n");
+         exit(-2);
+     }
+
+     if (fread(&height, sizeof(uint32_t), 1, f) != 1)
+     {
+         printf("BMP error\n");
+         exit(-2);
+     }
+
+     if (fclose(f) != 0)
+     {
+         perror(NULL);
+         exit(-1);
+     }
+
+     for (int i = 0; i < 2; i++)
+     {
+         printf("%02X - %c\n", buffer[i], buffer[i]);
+     }
+
+     printf("BMP file size: %d\n", bmp_size);
+
+     printf("Header size: %d\n", header_size);
+
+     printf("Resolution: %dx%d\n", width, height);
+     */
+
+    FILE *f;
+    char line[LINE_SIZE];
+    MOVIE auxMovie;
+
+    if ((f = fopen("movies.csv", "r")) == NULL)
+    {
+        perror(NULL);
+        exit(-1);
+    }
+
+    while (fgets(line, LINE_SIZE, f) != NULL)
+    {
+        if (processMovie(line, &auxMovie) == 0)
+        {
+            printfMovie(&auxMovie);
+        }
+    }
+
+    if (fclose(f) != 0)
+    {
+        perror(NULL);
+        exit(-1);
+    }
+
+    return 0;
+}

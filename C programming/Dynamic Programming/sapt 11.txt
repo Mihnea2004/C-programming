@@ -1,0 +1,445 @@
+/*
+Se va scrie un program ce contine o baza de date de vehicule, implementata
+printr-un tablou.
+Un element de tip vehicul va avea urmatoarele proprietati
+vechicul
+{
+    nr_roti
+    tip vehicul { trotineta, biciclta, automobil, autobuz }
+    caracteristici
+      trotineta { electrica ; clasica }
+      bicicleta { nr viteze }
+      automobil { an fabricatie }
+      autobuz { nr locuri }
+}
+
+se vor defini in detaliu structurile de date necesare implementarii unui element de tip vehicul de mai sus
+- carateristicile sunt date in functie de tipul de vehicul si nu pot exista in acelasi timp, fiind disjuncte
+*/
+
+#include <stdio.h>
+#include <stdint.h>
+
+typedef enum
+{
+    trotineta,
+    bicicleta,
+    automobil,
+    autobuz
+} TIP_VEHICUL;
+
+typedef enum
+{
+    clasica,
+    electrica
+} TIP_TROTINETA;
+
+typedef union
+{
+    TIP_TROTINETA tip_trotineta;
+    uint8_t nr_viteze;
+    uint16_t an_fabricatie;
+    u_int8_t nr_locuri;
+} CARACTERISTICA;
+
+typedef struct
+{
+    uint8_t nr_roti;
+    TIP_VEHICUL tip_vehicul;
+    CARACTERISTICA caracteristica;
+} VEHICUL;
+
+void printVehicul(const VEHICUL *v)
+{
+    printf("nr roti: %d\n", v->nr_roti);
+    printf("tip vehicul: ");
+    switch (v->tip_vehicul)
+    {
+    case trotineta:
+    {
+        printf("trotineta - ");
+        switch (v->caracteristica.tip_trotineta)
+        {
+        case clasica:
+        {
+            printf("clasica\n");
+            break;
+        }
+        case electrica:
+        {
+            printf("electrica\n");
+            break;
+        }
+        }
+        break;
+    }
+    case bicicleta:
+    {
+        printf("bicicleta - nr viteze: %d\n", v->caracteristica.nr_viteze);
+        break;
+    }
+    case automobil:
+    {
+        printf("automobil - an fabricatie: %d\n", v->caracteristica.an_fabricatie);
+        break;
+    }
+    case autobuz:
+    {
+        printf("autobuz - nr locuri: %d\n", v->caracteristica.nr_locuri);
+        break;
+    }
+    }
+}
+
+void printVehicule(const VEHICUL *v, int size)
+{
+    for (int i = 0; i < size; i++)
+    {
+        printVehicul(&v[i]);
+    }
+}
+
+int main(void)
+{
+    VEHICUL array[10];
+
+    array[0].nr_roti = 2;
+    array[0].tip_vehicul = trotineta;
+    array[0].caracteristica.tip_trotineta = clasica;
+
+    array[1].nr_roti = 2;
+    array[1].tip_vehicul = trotineta;
+    array[1].caracteristica.tip_trotineta = electrica;
+
+    array[2].nr_roti = 2;
+    array[2].tip_vehicul = bicicleta;
+    array[2].caracteristica.nr_viteze = 18;
+
+    array[3].nr_roti = 4;
+    array[3].tip_vehicul = automobil;
+    array[3].caracteristica.an_fabricatie = 2023;
+
+    array[4].nr_roti = 6;
+    array[4].tip_vehicul = autobuz;
+    array[4].caracteristica.nr_locuri = 20;
+
+    printVehicule(array, 5);
+
+    return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+Se va scrie un program ce contine o baza de date de vehicule, implementata
+printr-un tablou.
+Un element de tip vehicul va avea urmatoarele proprietati
+vechicul
+{
+    nr_roti
+    tip vehicul { trotineta, biciclta, automobil, autobuz }
+    caracteristici
+      trotineta { electrica ; clasica }
+      bicicleta { nr viteze }
+      automobil { an fabricatie }
+      autobuz { nr locuri }
+}
+
+se vor defini in detaliu structurile de date necesare implementarii unui element de tip vehicul de mai sus
+- carateristicile sunt date in functie de tipul de vehicul si nu pot exista in acelasi timp, fiind disjuncte
+*/
+
+#include <stdio.h>
+#include <stdint.h>
+#include <string.h>
+#include <stdlib.h>
+
+#define LINE_SIZE 2048
+#define FIELD_LEN 256
+
+#define ARRAY_CHUNK 128
+
+typedef enum
+{
+    trotineta,
+    bicicleta,
+    automobil,
+    autobuz
+} TIP_VEHICUL;
+
+typedef enum
+{
+    clasica,
+    electrica
+} TIP_TROTINETA;
+
+typedef union
+{
+    TIP_TROTINETA tip_trotineta;
+    uint8_t nr_viteze;
+    uint16_t an_fabricatie;
+    u_int8_t nr_locuri;
+} CARACTERISTICA;
+
+typedef struct
+{
+    uint8_t nr_roti;
+    TIP_VEHICUL tip_vehicul;
+    CARACTERISTICA caracteristica;
+} VEHICUL;
+
+void printVehicul(const VEHICUL *v)
+{
+    printf("nr roti: %d\n", v->nr_roti);
+    printf("tip vehicul: ");
+    switch (v->tip_vehicul)
+    {
+    case trotineta:
+    {
+        printf("trotineta - ");
+        switch (v->caracteristica.tip_trotineta)
+        {
+        case clasica:
+        {
+            printf("clasica\n");
+            break;
+        }
+        case electrica:
+        {
+            printf("electrica\n");
+            break;
+        }
+        }
+        break;
+    }
+    case bicicleta:
+    {
+        printf("bicicleta - nr viteze: %d\n", v->caracteristica.nr_viteze);
+        break;
+    }
+    case automobil:
+    {
+        printf("automobil - an fabricatie: %d\n", v->caracteristica.an_fabricatie);
+        break;
+    }
+    case autobuz:
+    {
+        printf("autobuz - nr locuri: %d\n", v->caracteristica.nr_locuri);
+        break;
+    }
+    }
+}
+
+void printVehicule(const VEHICUL *v, int size)
+{
+    for (int i = 0; i < size; i++)
+    {
+        printVehicul(&v[i]);
+    }
+}
+
+/*
+program ce citeste un fisier precum parc-auto-2013.csv ce contine linii in
+format CSV cu campuri de date desparite prin virgula. fisierul contine si un
+"cap de tabel" ce explica campurile
+Programul citeste un astfel de fisier primit ca si argument in linie de comanda
+si extrage campurile judet, marca, descriere, si total
+Se poate observa ca in fisierul de test fiecare camp este pus intre ghilimele
+si astfel se va dori eliminarea acestora
+ */
+
+typedef struct
+{
+    char judet[FIELD_LEN + 1];
+    char categorie[FIELD_LEN + 1];
+    char marca[FIELD_LEN + 1];
+    char descriere[FIELD_LEN + 1];
+    uint32_t total;
+} AUTO;
+
+AUTO *addToArray(AUTO *array, int *size, AUTO *element)
+{
+    static int index = 0;
+    static int current_size = 0;
+    if (index == current_size)
+    {
+        current_size = current_size + ARRAY_CHUNK;
+        if ((array = realloc(array, current_size * sizeof(AUTO))) == NULL)
+        {
+            perror(NULL);
+            exit(-1);
+        }
+    }
+    array[index] = *element;
+    index++;
+    *size = index;
+    return array;
+}
+
+int8_t processLine(char *line, AUTO *a)
+{
+    char *p;
+
+    if ((p = strtok(line, ",")) == NULL)
+    {
+        return -1;
+    }
+
+    strcpy(a->judet, &p[1]);
+    a->judet[strlen(a->judet) - 1] = 0;
+
+    if ((p = strtok(NULL, ",")) == NULL)
+    {
+        return -1;
+    }
+
+    strcpy(a->categorie, &p[1]);
+    a->categorie[strlen(a->categorie) - 1] = 0;
+
+    if ((p = strtok(NULL, ",")) == NULL)
+    {
+        return -1;
+    }
+    if ((p = strtok(NULL, ",")) == NULL)
+    {
+        return -1;
+    }
+
+    strcpy(a->marca, &p[1]);
+    a->marca[strlen(a->marca) - 1] = 0;
+
+    if ((p = strtok(NULL, ",")) == NULL)
+    {
+        return -1;
+    }
+
+    strcpy(a->descriere, &p[1]);
+    a->descriere[strlen(a->descriere) - 1] = 0;
+
+    if ((p = strtok(NULL, ",")) == NULL)
+    {
+        return -1;
+    }
+
+    a->total = strtol(&p[1], NULL, 10);
+
+    return 0;
+}
+
+void printAuto(const AUTO *a)
+{
+    printf("%s - %s - %s - %s - %d\n", a->judet, a->categorie, a->marca, a->descriere, a->total);
+}
+
+void printAutoArray(const AUTO *array, int size)
+{
+    for (int i = 0; i < size; i++)
+    {
+        printAuto(&array[i]);
+    }
+}
+
+void printToFile(AUTO *array, int size, char *judet)
+{
+    FILE *out = NULL;
+    int total = 0;
+
+    for (int i = 0; i < size; i++)
+    {
+        if (strcmp(array[i].judet, judet) == 0)
+        {
+            total = total + array[i].total;
+        }
+    }
+
+    if ((out = fopen("out.txt", "w")) == NULL)
+    {
+        perror(NULL);
+        exit(-1);
+    }
+
+    fprintf(out, "%s - %d\n", judet, total);
+
+    if (fclose(out) != 0)
+    {
+        perror(NULL);
+        exit(-1);
+    }
+}
+
+int main(void)
+{
+    // VEHICUL array[10];
+
+    // array[0].nr_roti = 2;
+    // array[0].tip_vehicul = trotineta;
+    // array[0].caracteristica.tip_trotineta = clasica;
+
+    // array[1].nr_roti = 2;
+    // array[1].tip_vehicul = trotineta;
+    // array[1].caracteristica.tip_trotineta = electrica;
+
+    // array[2].nr_roti = 2;
+    // array[2].tip_vehicul = bicicleta;
+    // array[2].caracteristica.nr_viteze = 18;
+
+    // array[3].nr_roti = 4;
+    // array[3].tip_vehicul = automobil;
+    // array[3].caracteristica.an_fabricatie = 2023;
+
+    // array[4].nr_roti = 6;
+    // array[4].tip_vehicul = autobuz;
+    // array[4].caracteristica.nr_locuri = 20;
+
+    // printVehicule(array, 5);
+
+    FILE *f = NULL;
+    char line[LINE_SIZE];
+    AUTO aux;
+    AUTO *array = NULL;
+    int size = 0;
+
+    if ((f = fopen("parc-auto-2013.csv", "r")) == NULL)
+    {
+        perror(NULL);
+        exit(-1);
+    }
+
+    if (fgets(line, LINE_SIZE, f) == NULL)
+    {
+        perror(NULL);
+        exit(-1);
+    }
+
+    while (fgets(line, LINE_SIZE, f) != NULL)
+    {
+        if (processLine(line, &aux) == 0)
+        {
+            // printAuto(line);
+            array = addToArray(array, &size, &aux);
+        }
+    }
+
+    if (fclose(f) != 0)
+    {
+        perror(NULL);
+        exit(-1);
+    }
+
+    printAutoArray(array, size);
+    printToFile(array, size, "ALBA");
+
+    free(array);
+
+    return 0;
+}
